@@ -1,1 +1,27 @@
 # Audio-Transcript-Anonymizer
+
+A pipeline for transcribing audio/video files using WhisperX with speaker diarization - ideal for interviews, therapy sessions and multiple-speaker conversations in general.
+
+# Features:
+Audio/video (mp3/mp4) input
+Automatic transcription via WhisperX
+Speaker diarization via Pyannote.audio
+
+# Installation
+To run the transcription pipeline you'll need Python 3.10. and Anaconda.
+
+1. Installing FFmpeg
+  Option 1: Via pip
+    `pip install python-ffmpeg` 
+   
+  Option 2: Via scoop
+    `scoop install ffmpeg` 
+   
+2. Installing WhisperX
+   Follow the instruction from the WhisperX repository (see 'Setup'):
+   https://github.com/m-bain/whisperX?tab=readme-ov-file
+   
+3. Installing Pyannote
+  Via Pip:
+    `pip install pyannote.audio` 
+
