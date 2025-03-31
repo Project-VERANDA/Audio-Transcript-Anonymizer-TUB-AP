@@ -3,11 +3,15 @@
 A pipeline for transcribing audio/video files using WhisperX with speaker diarization - ideal for interviews, therapy sessions and multiple-speaker conversations in general.
 
 # Features:
+
 Audio/video (mp3/mp4) input
+
 Automatic transcription via WhisperX
+
 Speaker diarization via Pyannote.audio
 
 # Installation
+
 To run the transcription pipeline you'll need Python 3.10. and Anaconda.
 
 1. Installing FFmpeg
@@ -31,4 +35,11 @@ To run the transcription pipeline you'll need Python 3.10. and Anaconda.
   Via Pip:
 
     pip install pyannote.audio
+
+# Running the script
+Place the script into a folder along with the subfolders audios (for mp3) and/or video (for mp4) and add your media to the respective folder.
+
+Open the script and update all fields marked with *** and save your changes. 
+Run the script. 
+
 
