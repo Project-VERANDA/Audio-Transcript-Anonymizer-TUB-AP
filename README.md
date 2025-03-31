@@ -41,7 +41,7 @@ To run the transcription pipeline you'll need Python 3.10. and Anaconda.
     
 
 # Running the script
-Place the script into a folder along with the subfolders audios (for mp3) and/or video (for mp4) and add your media to the respective folder.
+Place the script into a folder along with the subfolders 'audios' (for mp3) and/or 'videos' (for mp4) and add your media to the respective folder.
 
 Open the script and update all fields marked with *** and save your changes. 
 Run the script. 
