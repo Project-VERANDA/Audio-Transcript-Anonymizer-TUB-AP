@@ -3,7 +3,7 @@
 This Pipeline accepts an audio or video file, transcribes the content using WhisperX and applies speaker diarization via Pyannote.
 It can be used for interviews, therapy sessions or conversations involving multiple speakers in general.
 
-# Features:
+# Features
 
 Audio/video (mp3/mp4) input
 
