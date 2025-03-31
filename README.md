@@ -14,11 +14,11 @@ To run the transcription pipeline you'll need Python 3.10. and Anaconda.
    
   Option 1: Via pip
   
-    `pip install python-ffmpeg` 
+    pip install python-ffmpeg
    
   Option 2: Via scoop
   
-    `scoop install ffmpeg` 
+    scoop install ffmpeg
    
 2. Installing WhisperX
    
@@ -30,5 +30,5 @@ To run the transcription pipeline you'll need Python 3.10. and Anaconda.
    
   Via Pip:
 
-    `pip install pyannote.audio` 
+    pip install pyannote.audio
 
