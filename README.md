@@ -11,17 +11,24 @@ Speaker diarization via Pyannote.audio
 To run the transcription pipeline you'll need Python 3.10. and Anaconda.
 
 1. Installing FFmpeg
+   
   Option 1: Via pip
+  
     `pip install python-ffmpeg` 
    
   Option 2: Via scoop
+  
     `scoop install ffmpeg` 
    
 2. Installing WhisperX
+   
    Follow the instruction from the WhisperX repository (see 'Setup'):
+   
    https://github.com/m-bain/whisperX?tab=readme-ov-file
    
-3. Installing Pyannote
+4. Installing Pyannote
+   
   Via Pip:
+
     `pip install pyannote.audio` 
 
