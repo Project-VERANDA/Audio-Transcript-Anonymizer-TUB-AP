@@ -125,7 +125,7 @@ if os.path.exists(audios_folder):
             # import gc; gc.collect(); torch.cuda.empty_cache(); del model_a
 
             # Diarization & assign speaker labels
-            diarize_model = whisperx.DiarizationPipeline(use_auth_token="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", device=device)
+            diarize_model = whisperx.DiarizationPipeline(use_auth_token="xxx", device=device)
             diarize_segments = diarize_model(audio, min_speakers=min_speakers, max_speakers=max_speakers) #add min/max number of speakers if known
             
             result = whisperx.assign_word_speakers(diarize_segments, result) # segments are now assigned speaker IDs
