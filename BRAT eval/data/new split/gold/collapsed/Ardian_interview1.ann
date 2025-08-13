@@ -1,0 +1,48 @@
+#0	Ardian_interview1 SPEAKER_00:  Guten Morgen, Herr Kaltenbach. Nehmen Sie doch bitte vorsichtig Platz. Wenn es Ihnen überhaupt geht. Sie wirken, als ob jede Bewegung gerade zu viel ist. SPEAKER_01:  Guten Morgen, Herr Mertens. Das Sitzen fällt mir wahnsinnig schwer. Ich bin eigentlich beim Trampolin-Springer-Freunde-Sportclub. Da war ich letzten Mittwoch am Trainieren. Da bin ich nicht gut gelandet. Am nächsten Morgen, als ich mit meinem Audi A4 zur Arbeit gefahren bin... Meine Arbeit ist ja dort...  Baumgärtner, die Baumgärtner-Arbeitsstelle und dort habe ich dann gemerkt, wenn ich mich gebückt habe, dass das ziemlich weh getan hat und auch schon beim Weg dorthin, also ich bin ja nicht weit von dort, ich wohne ja an der Albertstraße 5 und deswegen ist es ja nicht gleich in der Nähe und da habe ich es auch schon auf diesem kurzen Weg gemerkt. SPEAKER_00:  Okay, ja, das klingt auf jeden Fall unangenehm. Ich sehe schon, Sie stehen leicht schief und Ihre rechte Seite scheint Sie besonders zu schonen. Okay, du hast schon so deine Geschichte beschrieben, aber hat sich Ihr Rücken bei einer bestimmten Bewegung gemeldet? SPEAKER_01:  Ja, also immer wenn ich mich nach vorne beugen will, dann fühlt sich das so eingeschlagen ein und dann kann ich mich kaum wieder einrichten. SPEAKER_00:  Okay, also das passt gut dann zum klinischen Bild eines akuten Lumbago. Umgangssprachlich sagt man gerne Hexenschuss. Ich kann mich erinnern, dass Sie hatten vor ein paar Monaten schon mal von Verspannungen im Lendenwebelbereich gesprochen. Vermutlich hat sich das diesmal verkrampt und vielleicht blockiert. SPEAKER_01:  Ja, Sie haben recht. Ich glaube, meine Mutter hatte das früher genau das Gleiche. Ich frage mich, ist es vererbbar? SPEAKER_00: Gute Frage. Eine gewisse familiäre Veranlagung zur Rückenschwäche kann es geben, ja. Aber in Ihrem Fall, das weiß ich ja aus unseren frühen Gesprächen, spielt vermutlich keine Rolle.  Oder nee, also es spielt eher so, dass sie am Schreibtisch sitzt, eher so die Rolle und nicht, dass es irgendwie geerbt wurde. Genau, und sie arbeiten täglich acht bis sieben Stunden. SPEAKER_01:  Ja, ich arbeite acht bis zehn Stunden. SPEAKER_00: Okay, ehrlich gesagt, das ist das, was mit diesem Sitzen zu tun hat. Haben Sie mit vielleicht Yoga angefangen oder etwas? SPEAKER_01: Nee, aber wenn ich damit öfter Probleme habe, auch beim Trampolinspielen war es ja auch nichts wirklich Großes. Deswegen sollte ich, glaube ich, mehr darauf achtgeben. SPEAKER_00:  Okay, dann helfen wir Ihrem Rücken, dass Sie wieder aufrecht wie eine stolze... Äh... Okay, also melden Sie sich, wenn das Schwern jetzt schlimmer wird oder ausstreit, zum Beispiel ins Bein, und das wäre schon ein Warnsignal. SPEAKER_01: Okay, mach ich, Herr Doktor. Ich bin Ihnen sehr dankbar. SPEAKER_00: Super, dann wir sehen uns hoffentlich nicht so bald. Unknown: Danke.
+#1	SPEAKER_00:  Guten Morgen, Herr Kaltenbach.
+T1	LABEL 27 42	Herr Kaltenbach
+#2	Nehmen Sie doch bitte vorsichtig Platz.
+#3	Wenn es Ihnen überhaupt geht.
+#4	Sie wirken, als ob jede Bewegung gerade zu viel ist.
+#5	SPEAKER_01:  Guten Morgen, Herr Mertens.
+T2	LABEL 194 206	Herr Mertens
+#6	Das Sitzen fällt mir wahnsinnig schwer.
+#7	Ich bin eigentlich beim Trampolin-Springer-Freunde-Sportclub.
+T3	LABEL 272 308	Trampolin-Springer-Freunde-Sportclub
+#8	Da war ich letzten Mittwoch am Trainieren.
+#9	Da bin ich nicht gut gelandet.
+#10	Am nächsten Morgen, als ich mit meinem Audi A4 zur Arbeit gefahren bin...
+#11	Meine Arbeit ist ja dort...
+#12	Baumgärtner, die Baumgärtner-Arbeitsstelle und dort habe ich dann gemerkt, wenn ich mich gebückt habe, dass das ziemlich weh getan hat und auch schon beim Weg dorthin, also ich bin ja nicht weit von dort, ich wohne ja an der Albertstraße 5 und deswegen ist es ja nicht gleich in der Nähe und da habe ich es auch schon auf diesem kurzen Weg gemerkt.
+T4	LABEL 487 498	Baumgärtner
+T5	LABEL 504 529	Baumgärtner-Arbeitsstelle
+T6	LABEL 712 726	Albertstraße 5
+#13	SPEAKER_00:  Okay, ja, das klingt auf jeden Fall unangenehm.
+#14	Ich sehe schon, Sie stehen leicht schief und Ihre rechte Seite scheint Sie besonders zu schonen.
+#15	Okay, du hast schon so deine Geschichte beschrieben, aber hat sich Ihr Rücken bei einer bestimmten Bewegung gemeldet?
+#16	SPEAKER_01:  Ja, also immer wenn ich mich nach vorne beugen will, dann fühlt sich das so eingeschlagen ein und dann kann ich mich kaum wieder einrichten.
+#17	SPEAKER_00:  Okay, also das passt gut dann zum klinischen Bild eines akuten Lumbago.
+#18	Umgangssprachlich sagt man gerne Hexenschuss.
+#19	Ich kann mich erinnern, dass Sie hatten vor ein paar Monaten schon mal von Verspannungen im Lendenwebelbereich gesprochen.
+#20	Vermutlich hat sich das diesmal verkrampt und vielleicht blockiert.
+#21	SPEAKER_01:  Ja, Sie haben recht.
+#22	Ich glaube, meine Mutter hatte das früher genau das Gleiche.
+#23	Ich frage mich, ist es vererbbar?
+#24	SPEAKER_00: Gute Frage.
+#25	Eine gewisse familiäre Veranlagung zur Rückenschwäche kann es geben, ja.
+#26	Aber in Ihrem Fall, das weiß ich ja aus unseren frühen Gesprächen, spielt vermutlich keine Rolle.
+#27	Oder nee, also es spielt eher so, dass sie am Schreibtisch sitzt, eher so die Rolle und nicht, dass es irgendwie geerbt wurde.
+#28	Genau, und sie arbeiten täglich acht bis sieben Stunden.
+#29	SPEAKER_01:  Ja, ich arbeite acht bis zehn Stunden.
+#30	SPEAKER_00: Okay, ehrlich gesagt, das ist das, was mit diesem Sitzen zu tun hat.
+#31	Haben Sie mit vielleicht Yoga angefangen oder etwas?
+#32	SPEAKER_01: Nee, aber wenn ich damit öfter Probleme habe, auch beim Trampolinspielen war es ja auch nichts wirklich Großes.
+#33	Deswegen sollte ich, glaube ich, mehr darauf achtgeben.
+#34	SPEAKER_00:  Okay, dann helfen wir Ihrem Rücken, dass Sie wieder aufrecht wie eine stolze...
+#35	Äh...
+#36	Okay, also melden Sie sich, wenn das Schwern jetzt schlimmer wird oder ausstreit, zum Beispiel ins Bein, und das wäre schon ein Warnsignal.
+#37	SPEAKER_01: Okay, mach ich, Herr Doktor.
+T7	LABEL 2730 2741	Herr Doktor
+#38	Ich bin Ihnen sehr dankbar.
+#39	SPEAKER_00: Super, dann wir sehen uns hoffentlich nicht so bald.
+#40	Unknown: Danke.

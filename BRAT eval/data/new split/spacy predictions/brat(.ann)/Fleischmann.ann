@@ -1,0 +1,23 @@
+T1	NAME_PATIENT 0 15	Kai Fleischmann
+T2	DATE 19 28	21.2.2008
+T3	NAME_PATIENT 61 73	Schickedanz,
+T4	DATE 125 137	01.03.28 bis
+T5	DATE 142 153	15.05.28 in
+T6	NAME_PATIENT 162 184	stationären Behandlung
+T7	DATE 486 502	2027 abgebrochen
+T8	LOCATION_STREET 593 616	Universitätsklinik Jena
+T9	LOCATION_CITY 742 748	August
+T10	DATE 752 761	unternahm
+T11	DATE 889 900	27 wurde er
+T12	NAME_PATIENT 2066 2085	schnell aufbrausend
+T13	NAME_PATIENT 2945 2971	Instabilität im affektiven
+T14	NAME_PATIENT 4394 4412	reagierte und sich
+T15	NAME_PATIENT 4721 4741	geäußert, mit Beginn
+T16	LOCATION_CITY 4880 4886	28 die
+T17	DATE 4909 4931	Technischen Gymnasiums
+T18	DATE 5487 5505	Jugendwohnen wegen
+T19	NAME_PATIENT 5675 5692	Herrn Fleischmann
+T20	NAME_PATIENT 5728 5745	Patient wurde mit
+T21	DATE 5748 5765	entlassen. Unsere
+T22	NAME_DOCTOR 6006 6030	Oberarzt für den Bereich
+T23	PROFESSION 6032 6068	Rehabilitation und Sozialtherapie II

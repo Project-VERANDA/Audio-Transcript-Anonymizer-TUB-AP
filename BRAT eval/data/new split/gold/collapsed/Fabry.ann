@@ -1,0 +1,63 @@
+#0	Fabry Herrn  Dr. med. Frank Knoblauch  Korekamp 15  47809 Krefeld    Sehr geehrter Herr Kollege Knoblauch,    wir berichten nachfolgend über unseren gemeinsamen Patienten, Herrn Walther Fabry, geb. am 22.01.1974, wohnhaft Hauptstr. 8, 47809 Krefeld, der sich vom  03.09.2029 bis 12.09.2029 bei uns in stationären Behandlung befand.    Diagnosen  NSTEMI mit PTCA und Stent der RCA bei bek. coronarer 1-Gefäß-Erkrankung (RCA) mit RCA-Intervention 07/2025   - Arterielle Hypertonie  - Adipositas  - Hypercholesterinämie    Anamnese  Seit 3 Tagen Enge in der Brust mit Ausstr. in die li. Schulter. Atemnot, die sich seit gestern verstärkt mit Schweregefühl in den Armen. Nach frustraner Anwendung von Nitroglyzerin-Spray, notfallmäßige Einweisung.  Ein-Gefäß-Erkrankung (RCA) war bekannt (RCA Intervention 07/2025). Herr Fabry gab einen Nikotinabusus von 50 py an.    Körperlicher Status bei Aufnahme  Geringgr. red. AZ bei seit 2d zunehmender Dyspnoe, adipöser EZ (171 cm / 90 kg), red. Turgor, Schleimhäute trocken, Kopf/Hals o.B.     Pulmo seitengl. belüftet, atemverschieblich, sonorer Klopfschall, Vesikuläratmen, keine Nebengeräusche.  Cor: regelmäßige Herzaktion, HT rein. HF 70/min, kein Herzgeräusch.    BD weich, keine Abwehrspannung, kein DS, keine path. Resist., kaum Darmgeräusche.  Extremitäten frei beweglich. Unauffälliger Pulsstatus, keine Strömungsgeräusche, keine peripheren Ödeme. Neurologisch orientierend unauffällig.    Untersuchungsergebnisse:  Aufnahme-Labor (09:45 Uhr):  Hb 15,2 g/dl, Hkt 0,38, Kalium 3,51 mmol/l, Trop T 0,7 μg/l, CK 220 U/l, CK-MB 35 U/l, Ges.-Cholesterin 310 mg/dl. Im Normbereich GOT, GPT, Bili, TSH, Cholesterin, Triglyzeride, Krea, HST. Unauffälliger Gerinnungsstatus.    Aufnahme-EKG:  IT, normofrequenter SR, HF 72/min, ST-Senkungen in V3–V6 RÖ Thorax vom Aufnahmetag. Aortal konfig. Herz.   Keine Anzeichen für Pneumothorax, Pleuraerguss, Stauung, Infiltrate.    Echokardiografie vom Aufnahmetag:  Normal weiter LV mit noch guter systolischer LV-Funktion. EF 56 %. Myokarddicke normal. Leichte Sklerose der Aortenklappe, kein Stenosegradient, keine Insuffizienz. RV normal weit, normale Myokarddicke, gute syst. RV-Funktion. VCI normal weit, gut atemvariabel. Rechter Vorhof normal weit.    Herzkatheteruntersuchung vom 04.09.2029:  Linke Koronararterie: Hauptstamm Wandunregelmäßigkeiten - RIVA: Mittelgr. Stenose im mittleren Segment - RCX: unauffällig - Rechte Koronararterie: - Proximaler Verschluss. Stent aus vorangegangener Intervention am Ostium (vor der aktuellen Verschlusslokalisation) - Intervention: Rekanalisation des prox. RCA-Verschlusses mittels PTCA und Stenting unter Verwendung eines Drug-Eluting-Stent.    LZ-EKG vom 08.09.2029:  Normofrequenter SR. Keine signifikanten Pausen oder Blockierungen. In Phasen erhöhtes Vorkommen von SVES. Keine höhergradigen HRS.      Medikation bei Entlassung:  Iscover 150 mg 1–0–1   Aspirin 100 mg 1–0–0   Con Cor 2,5 mg 1–0–1   Ramiprilil 2,5mg 1–0–0   Amlodipin 5 mg 1–0–1   Zocor 40 mg 0–0–1  Bezafibrat Retard 400mg 1-0-0    Mit freundlichen Grüßen    Chefärztin Prof. Antonia Zucker   Assistenzärztin Iris Klumpfuß
+#1	Herrn
+#2	Dr. med. Frank Knoblauch
+T1	LABEL 7 31	Dr. med. Frank Knoblauch
+#3	Korekamp 15
+T2	LABEL 33 44	Korekamp 15
+#4	47809 Krefeld
+T3	LABEL 46 51	47809
+T4	LABEL 52 59	Krefeld
+#5	Sehr geehrter Herr Kollege Knoblauch,
+T5	LABEL 90 99	Knoblauch
+#6	wir berichten nachfolgend über unseren gemeinsamen Patienten, Herrn Walther Fabry, geb. am 22.01.1974, wohnhaft Hauptstr. 8, 47809 Krefeld, der sich vom
+T6	LABEL 166 185	Herrn Walther Fabry
+T7	LABEL 195 205	22.01.1974
+T8	LABEL 216 227	Hauptstr. 8
+T9	LABEL 229 234	47809
+T10	LABEL 235 242	Krefeld
+#7	03.09.2029 bis 12.09.2029 bei uns in stationären Behandlung befand.
+T11	LABEL 258 268	03.09.2029
+T12	LABEL 273 283	12.09.2029
+#8	Diagnosen
+#9	NSTEMI mit PTCA und Stent der RCA bei bek. coronarer 1-Gefäß-Erkrankung (RCA) mit RCA-Intervention 07/2025
+T13	LABEL 439 446	07/2025
+#10	- Arterielle Hypertonie
+#11	- Adipositas
+#12	- Hypercholesterinämie
+#13	Anamnese
+#14	Seit 3 Tagen Enge in der Brust mit Ausstr. in die li. Schulter. Atemnot, die sich seit gestern verstärkt mit Schweregefühl in den Armen. Nach frustraner Anwendung von Nitroglyzerin-Spray, notfallmäßige Einweisung.
+#15	Ein-Gefäß-Erkrankung (RCA) war bekannt (RCA Intervention 07/2025). Herr Fabry gab einen Nikotinabusus von 50 py an.
+T14	LABEL 796 803	07/2025
+#16	Körperlicher Status bei Aufnahme
+#17	Geringgr. red. AZ bei seit 2d zunehmender Dyspnoe, adipöser EZ (171 cm / 90 kg), red. Turgor, Schleimhäute trocken, Kopf/Hals o.B.
+#18	Pulmo seitengl. belüftet, atemverschieblich, sonorer Klopfschall, Vesikuläratmen, keine Nebengeräusche.
+#19	Cor: regelmäßige Herzaktion, HT rein. HF 70/min, kein Herzgeräusch.
+#20	BD weich, keine Abwehrspannung, kein DS, keine path. Resist., kaum Darmgeräusche.
+#21	Extremitäten frei beweglich. Unauffälliger Pulsstatus, keine Strömungsgeräusche, keine peripheren Ödeme. Neurologisch orientierend unauffällig.
+#22	Untersuchungsergebnisse:
+#23	Aufnahme-Labor (09:45 Uhr):
+#24	Hb 15,2 g/dl, Hkt 0,38, Kalium 3,51 mmol/l, Trop T 0,7 μg/l, CK 220 U/l, CK-MB 35 U/l, Ges.-Cholesterin 310 mg/dl. Im Normbereich GOT, GPT, Bili, TSH, Cholesterin, Triglyzeride, Krea, HST. Unauffälliger Gerinnungsstatus.
+#25	Aufnahme-EKG:
+#26	IT, normofrequenter SR, HF 72/min, ST-Senkungen in V3–V6 RÖ Thorax vom Aufnahmetag. Aortal konfig. Herz.
+#27	Keine Anzeichen für Pneumothorax, Pleuraerguss, Stauung, Infiltrate.
+#28	Echokardiografie vom Aufnahmetag:
+#29	Normal weiter LV mit noch guter systolischer LV-Funktion. EF 56 %. Myokarddicke normal. Leichte Sklerose der Aortenklappe, kein Stenosegradient, keine Insuffizienz. RV normal weit, normale Myokarddicke, gute syst. RV-Funktion. VCI normal weit, gut atemvariabel. Rechter Vorhof normal weit.
+#30	Herzkatheteruntersuchung vom 04.09.2029:
+T15	LABEL 2263 2273	04.09.2029
+#31	Linke Koronararterie: Hauptstamm Wandunregelmäßigkeiten - RIVA: Mittelgr. Stenose im mittleren Segment - RCX: unauffällig - Rechte Koronararterie: - Proximaler Verschluss. Stent aus vorangegangener Intervention am Ostium (vor der aktuellen Verschlusslokalisation) - Intervention: Rekanalisation des prox. RCA-Verschlusses mittels PTCA und Stenting unter Verwendung eines Drug-Eluting-Stent.
+#32	LZ-EKG vom 08.09.2029:
+T16	LABEL 2681 2691	08.09.2029
+#33	Normofrequenter SR. Keine signifikanten Pausen oder Blockierungen. In Phasen erhöhtes Vorkommen von SVES. Keine höhergradigen HRS.
+#34	Medikation bei Entlassung:
+#35	Iscover 150 mg 1–0–1
+#36	Aspirin 100 mg 1–0–0
+#37	Con Cor 2,5 mg 1–0–1
+#38	Ramiprilil 2,5mg 1–0–0
+#39	Amlodipin 5 mg 1–0–1
+#40	Zocor 40 mg 0–0–1
+#41	Bezafibrat Retard 400mg 1-0-0
+#42	Mit freundlichen Grüßen
+#43	Chefärztin Prof. Antonia Zucker
+T17	LABEL 3054 3085	Chefärztin Prof. Antonia Zucker
+#44	Assistenzärztin Iris Klumpfuß
+T18	LABEL 3088 3117	Assistenzärztin Iris Klumpfuß

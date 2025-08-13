@@ -1,0 +1,16 @@
+T1	LOCATION_HOSPITAL 13 42	Ambulanz für Melanomnachsorge
+T2	NAME_PATIENT 46 69	Eberhard Ehrenberger, *
+T3	DATE 70 79	3.2.1959,
+T4	LOCATION_CITY 85 100	Klagenfurt 2023
+T5	DATE 101 115	04-26 Anamnese
+T6	NAME_PATIENT 214 237	Ehrenberger entscheidet
+T7	DATE 560 572	Therapie mit
+T8	DATE 648 664	rechts: Dermaler
+T9	ID 720 733	: NE-präparat
+T10	ID 776 796	Universitätsklinikum
+T11	LOCATION_HOSPITAL 797 836	Klagenfurt: Sentinel Node, Leiste links
+T12	ID 891 898	rechts:
+T13	ID 899 909	Angiolipom
+T14	DATE 1173 1186	Elektrolyte (
+T15	LOCATION_HOSPITAL 1479 1500	Medilkation: Abilifly
+T16	DATE 1526 1536	vereinbart

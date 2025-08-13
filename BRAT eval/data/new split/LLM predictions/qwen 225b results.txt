@@ -1,0 +1,146 @@
+Entity: AGE
+Lenient precision: 0.5607142857142857 (2.242857142857143 / 4)
+Lenient recall: 0.5607142857142857 (2.242857142857143 / 4)
+Lenient F1: 0.5607142857142857
+Exact precision: 0.5 (2 / 4)
+Exact recall: 0.5 (2 / 4)
+Exact F1: 0.5
+
+Entity: CONTACT_EMAIL
+Lenient precision: 1.0 (2.0 / 2)
+Lenient recall: 1.0 (2.0 / 2)
+Lenient F1: 1.0
+Exact precision: 1.0 (2 / 2)
+Exact recall: 1.0 (2 / 2)
+Exact F1: 1.0
+
+Entity: CONTACT_FAX
+Lenient precision: 0.0 (0 / 0)
+Lenient recall: 0.0 (0 / 2)
+Lenient F1: 0.0
+Exact precision: 0.0 (0 / 0)
+Exact recall: 0.0 (0 / 2)
+Exact F1: 0.0
+
+Entity: CONTACT_PHONE
+Lenient precision: 0.75 (6.0 / 8)
+Lenient recall: 1.0 (6.0 / 6)
+Lenient F1: 0.8571428571428571
+Exact precision: 0.75 (6 / 8)
+Exact recall: 1.0 (6 / 6)
+Exact F1: 0.8571428571428571
+
+Entity: CONTACT_URL
+Lenient precision: 0.0 (0 / 0)
+Lenient recall: 0.0 (0 / 1)
+Lenient F1: 0.0
+Exact precision: 0.0 (0 / 0)
+Exact recall: 0.0 (0 / 1)
+Exact F1: 0.0
+
+Entity: DATE
+Lenient precision: 0.8790389395194697 (62.41176470588235 / 71)
+Lenient recall: 0.8212074303405572 (62.41176470588235 / 76)
+Lenient F1: 0.8491396558623447
+Exact precision: 0.8591549295774648 (61 / 71)
+Exact recall: 0.8026315789473685 (61 / 76)
+Exact F1: 0.8299319727891157
+
+Entity: ID
+Lenient precision: 0.875 (14.0 / 16)
+Lenient recall: 1.0 (14.0 / 14)
+Lenient F1: 0.9333333333333333
+Exact precision: 0.875 (14 / 16)
+Exact recall: 1.0 (14 / 14)
+Exact F1: 0.9333333333333333
+
+Entity: LOCATION_CITY
+Lenient precision: 0.95 (19.0 / 20)
+Lenient recall: 0.7307692307692307 (19.0 / 26)
+Lenient F1: 0.8260869565217392
+Exact precision: 0.95 (19 / 20)
+Exact recall: 0.7307692307692307 (19 / 26)
+Exact F1: 0.8260869565217392
+
+Entity: LOCATION_HOSPITAL
+Lenient precision: 0.7788461538461539 (6.230769230769231 / 8)
+Lenient recall: 0.4450549450549451 (6.230769230769231 / 14)
+Lenient F1: 0.5664335664335665
+Exact precision: 0.75 (6 / 8)
+Exact recall: 0.42857142857142855 (6 / 14)
+Exact F1: 0.5454545454545454
+
+Entity: LOCATION_ORGANIZATION
+Lenient precision: 0.0 (0 / 0)
+Lenient recall: 0.0 (0 / 12)
+Lenient F1: 0.0
+Exact precision: 0.0 (0 / 0)
+Exact recall: 0.0 (0 / 12)
+Exact F1: 0.0
+
+Entity: LOCATION_STREET
+Lenient precision: 0.75 (9.0 / 12)
+Lenient recall: 1.0 (9.0 / 9)
+Lenient F1: 0.8571428571428571
+Exact precision: 0.75 (9 / 12)
+Exact recall: 1.0 (9 / 9)
+Exact F1: 0.8571428571428571
+
+Entity: LOCATION_ZIP
+Lenient precision: 1.0 (7.0 / 7)
+Lenient recall: 0.875 (7.0 / 8)
+Lenient F1: 0.9333333333333333
+Exact precision: 1.0 (7 / 7)
+Exact recall: 0.875 (7 / 8)
+Exact F1: 0.9333333333333333
+
+Entity: NAME_DOCTOR
+Lenient precision: 0.9237374860956618 (23.093437152391544 / 25)
+Lenient recall: 0.8553124871256128 (23.093437152391544 / 27)
+Lenient F1: 0.8882091212458286
+Exact precision: 0.88 (22 / 25)
+Exact recall: 0.8148148148148148 (22 / 27)
+Exact F1: 0.8461538461538461
+
+Entity: NAME_OTHER
+Lenient precision: 0.7058823529411765 (12.0 / 17)
+Lenient recall: 0.8571428571428571 (12.0 / 14)
+Lenient F1: 0.7741935483870968
+Exact precision: 0.7058823529411765 (12 / 17)
+Exact recall: 0.8571428571428571 (12 / 14)
+Exact F1: 0.7741935483870968
+
+Entity: NAME_PATIENT
+Lenient precision: 0.94279176201373 (21.68421052631579 / 23)
+Lenient recall: 0.6776315789473685 (21.68421052631579 / 32)
+Lenient F1: 0.7885167464114833
+Exact precision: 0.9130434782608695 (21 / 23)
+Exact recall: 0.65625 (21 / 32)
+Exact F1: 0.7636363636363634
+
+Entity: PROFESSION
+Lenient precision: 0.42062421009789425 (3.7856178908810483 / 9)
+Lenient recall: 0.31546815757342067 (3.7856178908810483 / 12)
+Lenient F1: 0.36053503722676644
+Exact precision: 0.3333333333333333 (3 / 9)
+Exact recall: 0.25 (3 / 12)
+Exact F1: 0.28571428571428575
+
+////////////////LABEL ONLY/////////////////////
+Entity: LABEL
+Lenient precision: 0.8805520340736152 (213.09359224581488 / 242)
+Lenient recall: 0.8102417956114634 (213.09359224581488 / 263)
+Lenient F1: 0.8439350187953064
+Exact precision: 0.859504132231405 (208 / 242)
+Exact recall: 0.7908745247148289 (208 / 263)
+Exact F1: 0.8237623762376238
+
+////////////////OVERALL///////////////////////
+
+Global results (micro-averaged):
+Lenient precision: 0.8488678227436808 (188.44865664909713 / 222)
+Lenient recall: 0.727600990923155 (188.44865664909713 / 259)
+Lenient F1: 0.7835702979172438
+Exact precision: 0.8488678227436808 (184 / 222)
+Exact recall: 0.7104247104247104 (184 / 259)
+Exact F1: 0.7650727650727651

@@ -1,0 +1,75 @@
+#0	Aya_Chebaane_FrauWeber 1 SPEAKER_01:  Guten Tag, Frau Weber. SPEAKER_00: Guten Tag, Dr. Keller. SPEAKER_01: Willkommen und schön, dass Sie da sind. Können Sie mir kurz sagen, was passiert ist? SPEAKER_00: Ja, also, ich hatte vor zwei Wochen plötzlich eine Panikattacke beim Einkaufen. Ich bekam keine Luft, mein Herz raste. Ich dachte, ich kippe um. SPEAKER_01: Das klingt ernst. Haben Sie das schon einmal erlebt? SPEAKER_00:  Nein, das war das erste Mal. Ich war im Rewe in der Beethovenstraße 9 in Leipzig. Ich wohne aber in der Waldstraße 22, 04105 Leipzig. SPEAKER_01: Geben Sie mir bitte noch Ihr Geburtsdatum? SPEAKER_00: 27. Oktober 1982. SPEAKER_01: Haben Sie eine Notfallnummer, falls wir jemanden kontaktieren müssen? SPEAKER_00:  Ja, mein Mann heißt Jonas Weber. Er ist erreichbar unter 0176-223-34455. SPEAKER_01: Ich brauche auch Ihre Krankenkassendaten für die Abrechnung. SPEAKER_00: Klar. Ich bin bei der Barmer. Versicherten Nummer 73849201. SPEAKER_01: Und Ihre Sozialversicherungsnummer? SPEAKER_00: Die lautet 45322-9187. SPEAKER_01: Haben Sie Medikamente genommen? SPEAKER_00:  Nein, aber der Arzt in der Notaufnahme hat mir Sertralin verschrieben. SPEAKER_01: Wann war die Notaufnahme? SPEAKER_00: Am 10. April gegen 15.05 Uhr und 40 Uhr. Ich wurde am selben Tag aufgenommen und am 12. April entlassen. SPEAKER_01: Haben Sie medizinische Geräte zu Hause? SPEAKER_00: Ja, ein Blutdruckmessgerät, Modellnummer BP-7000, Seriennummer 99401B. SPEAKER_01: Haben Sie ein aktuelles Passfoto für die Patientenakte? SPEAKER_00:  Ja, hier. Das ist von letzter Woche. SPEAKER_01: Verwenden Sie Gesundheits-Apps? SPEAKER_00: Ja, ich nutze BetterCalm mit Benutzerkonto JW-2024. SPEAKER_01: Danke. Haben Sie auch Ihre E-Mail-Adresse dabei? SPEAKER_00: Anna.weber1982atmail.de Und Ihre Faxnummer für Befunde?  Die ist 034155667788. SPEAKER_01: Haben Sie ein Bankkonto für private Leistungen? SPEAKER_00: Ja, mein IBAN ist DE44123456789876543210. SPEAKER_01: Vielen Dank, Frau Weber. Es klingt, als hätten Sie alles gut im Griff. Schönen Tag noch. Tschüss.
+#1	SPEAKER_01:  Guten Tag, Frau Weber.
+T1	LABEL 24 34	Frau Weber
+#2	SPEAKER_00: Guten Tag, Dr.
+T2	LABEL 59 69	Dr. Keller
+#3	Keller.
+#4	SPEAKER_01: Willkommen und schön, dass Sie da sind.
+#5	Können Sie mir kurz sagen, was passiert ist?
+#6	SPEAKER_00: Ja, also, ich hatte vor zwei Wochen plötzlich eine Panikattacke beim Einkaufen.
+#7	Ich bekam keine Luft, mein Herz raste.
+#8	Ich dachte, ich kippe um.
+#9	SPEAKER_01: Das klingt ernst.
+#10	Haben Sie das schon einmal erlebt?
+#11	SPEAKER_00:  Nein, das war das erste Mal.
+#12	Ich war im Rewe in der Beethovenstraße 9 in Leipzig.
+T3	LABEL 443 447	Rewe
+T4	LABEL 455 472	Beethovenstraße 9
+T5	LABEL 476 483	Leipzig
+#13	Ich wohne aber in der Waldstraße 22, 04105 Leipzig.
+T6	LABEL 507 520	Waldstraße 22
+T7	LABEL 522 527	04105
+T8	LABEL 528 535	Leipzig
+#14	SPEAKER_01: Geben Sie mir bitte noch Ihr Geburtsdatum?
+#15	SPEAKER_00: 27.
+T9	LABEL 604 620	27. Oktober 1982
+#16	Oktober 1982.
+#17	SPEAKER_01: Haben Sie eine Notfallnummer, falls wir jemanden kontaktieren müssen?
+#18	SPEAKER_00:  Ja, mein Mann heißt Jonas Weber.
+T10	LABEL 737 748	Jonas Weber
+#19	Er ist erreichbar unter 0176-223-34455.
+T11	LABEL 774 788	0176-223-34455
+#20	SPEAKER_01: Ich brauche auch Ihre Krankenkassendaten für die Abrechnung.
+#21	SPEAKER_00: Klar.
+#22	Ich bin bei der Barmer.
+T12	LABEL 897 903	Barmer
+#23	Versicherten Nummer 73849201.
+T13	LABEL 925 933	73849201
+#24	SPEAKER_01: Und Ihre Sozialversicherungsnummer?
+#25	SPEAKER_00: Die lautet 45322-9187.
+T14	LABEL 1006 1016	45322-9187
+#26	SPEAKER_01: Haben Sie Medikamente genommen?
+#27	SPEAKER_00:  Nein, aber der Arzt in der Notaufnahme hat mir Sertralin verschrieben.
+T15	LABEL 1090 1094	Arzt
+#28	SPEAKER_01: Wann war die Notaufnahme?
+#29	SPEAKER_00: Am 10.
+T16	LABEL 1199 1208	10. April
+#30	April gegen 15.05 Uhr und 40 Uhr.
+#31	Ich wurde am selben Tag aufgenommen und am 12.
+T17	LABEL 1280 1289	12. April
+#32	April entlassen.
+#33	SPEAKER_01: Haben Sie medizinische Geräte zu Hause?
+#34	SPEAKER_00: Ja, ein Blutdruckmessgerät, Modellnummer BP-7000, Seriennummer 99401B.
+T18	LABEL 1406 1413	BP-7000
+T19	LABEL 1428 1434	99401B
+#35	SPEAKER_01: Haben Sie ein aktuelles Passfoto für die Patientenakte?
+#36	SPEAKER_00:  Ja, hier.
+#37	Das ist von letzter Woche.
+#38	SPEAKER_01: Verwenden Sie Gesundheits-Apps?
+#39	SPEAKER_00: Ja, ich nutze BetterCalm mit Benutzerkonto JW-2024.
+T20	LABEL 1624 1634	BetterCalm
+T21	LABEL 1653 1660	JW-2024
+#40	SPEAKER_01: Danke.
+#41	Haben Sie auch Ihre E-Mail-Adresse dabei?
+#42	SPEAKER_00: Anna.weber1982atmail.de Und Ihre Faxnummer für Befunde?
+T22	LABEL 1735 1758	Anna.weber1982atmail.de
+#43	Die ist 034155667788.
+T23	LABEL 1800 1812	034155667788
+#44	SPEAKER_01: Haben Sie ein Bankkonto für private Leistungen?
+#45	SPEAKER_00: Ja, mein IBAN ist DE44123456789876543210.
+T24	LABEL 1904 1926	DE44123456789876543210
+#46	SPEAKER_01: Vielen Dank, Frau Weber.
+T25	LABEL 1953 1963	Frau Weber
+#47	Es klingt, als hätten Sie alles gut im Griff.
+#48	Schönen Tag noch.
+#49	Tschüss.

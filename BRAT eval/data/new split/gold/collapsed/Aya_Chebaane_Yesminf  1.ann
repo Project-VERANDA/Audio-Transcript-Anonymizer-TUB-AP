@@ -1,0 +1,48 @@
+#0	Aya_Chebaane_Yesminf  1 SPEAKER_01:  Guten Tag, können Sie mir bitte Ihren Namen sagen? SPEAKER_00: Ja, gerne. Ich heiße Yasmin Shaban. SPEAKER_01: Danke. Und Ihre Adresse? SPEAKER_00: Ich wohne in der Spandauer Damm 140 10115 Berlin. SPEAKER_01: Wie alt sind Sie? SPEAKER_00: Ich bin 28 Jahre alt. SPEAKER_01: Und Ihre Telefonnummer? SPEAKER_00:  Das ist 03045678921. Haben Sie eine E-Mail-Adresse? Ja, jesminchewan84 at gmail.com. SPEAKER_01: Wissen Sie noch, wann der Unfall war? SPEAKER_00: Ja, am 10. April um 8.30 Uhr. SPEAKER_01: Hatten Sie ein Fahrzeug? SPEAKER_00:  Ja, mein Fahrrad hatte die Seriennummer 2387-LKM-998. SPEAKER_01: Haben Sie Ihre Versicherungskarte parat? SPEAKER_00: Ich bin bei der AUGA versichert. Meine Versicherungsnummer ist 736598410. SPEAKER_01: Haben Sie Allergien oder wichtige medizinische Informationen? SPEAKER_00:  Ich bin allergisch gegen Penicillin und hatte letztes Jahr eine OP wegen eines gebrochenen Arms. Meine Krankenaktennummer ist 347899. SPEAKER_01: Haben Sie einen Ausweis oder Führerschein dabei? SPEAKER_00: Ja, Führerscheinnummer B3592881. SPEAKER_01: Gibt es einen Notfallkontakt? SPEAKER_00:  Ja, mein Bruder Mohamed Cheban wohnt in Karlsruhe. Seine Nummer ist 017623456789. SPEAKER_01: Gut, und benutzen Sie medizinische Geräte, Gesundheits-Apps oder Websites zu Hause? SPEAKER_00: Ja, ein Blutzuckermessgerät von Medics, Modellnummer MX-4781 und verwende  www.mindbalance.de für Achtsamkeitsübungen.
+#1	SPEAKER_01:  Guten Tag, können Sie mir bitte Ihren Namen sagen?
+#2	SPEAKER_00: Ja, gerne.
+#3	Ich heiße Yasmin Shaban.
+T1	LABEL 97 110	Yasmin Shaban
+#4	SPEAKER_01: Danke.
+#5	Und Ihre Adresse?
+#6	SPEAKER_00: Ich wohne in der Spandauer Damm 140 10115 Berlin.
+T2	LABEL 178 196	Spandauer Damm 140
+T3	LABEL 197 202	10115
+T4	LABEL 203 209	Berlin
+#7	SPEAKER_01: Wie alt sind Sie?
+#8	SPEAKER_00: Ich bin 28 Jahre alt.
+T5	LABEL 261 263	28
+#9	SPEAKER_01: Und Ihre Telefonnummer?
+#10	SPEAKER_00:  Das ist 03045678921.
+T6	LABEL 332 343	03045678921
+#11	Haben Sie eine E-Mail-Adresse?
+#12	Ja, jesminchewan84 at gmail.com.
+T7	LABEL 380 407	jesminchewan84 at gmail.com
+#13	SPEAKER_01: Wissen Sie noch, wann der Unfall war?
+#14	SPEAKER_00: Ja, am 10.
+T8	LABEL 478 487	10. April
+#15	April um 8.30 Uhr.
+#16	SPEAKER_01: Hatten Sie ein Fahrzeug?
+#17	SPEAKER_00:  Ja, mein Fahrrad hatte die Seriennummer 2387-LKM-998.
+T9	LABEL 591 603	2387-LKM-998
+#18	SPEAKER_01: Haben Sie Ihre Versicherungskarte parat?
+#19	SPEAKER_00: Ich bin bei der AUGA versichert.
+T10	LABEL 686 690	AUGA
+#20	Meine Versicherungsnummer ist 736598410.
+T11	LABEL 733 742	736598410
+#21	SPEAKER_01: Haben Sie Allergien oder wichtige medizinische Informationen?
+#22	SPEAKER_00:  Ich bin allergisch gegen Penicillin und hatte letztes Jahr eine OP wegen eines gebrochenen Arms.
+#23	Meine Krankenaktennummer ist 347899.
+T12	LABEL 957 963	347899
+#24	SPEAKER_01: Haben Sie einen Ausweis oder Führerschein dabei?
+#25	SPEAKER_00: Ja, Führerscheinnummer B3592881.
+T13	LABEL 1061 1069	B3592881
+#26	SPEAKER_01: Gibt es einen Notfallkontakt?
+#27	SPEAKER_00:  Ja, mein Bruder Mohamed Cheban wohnt in Karlsruhe.
+T14	LABEL 1142 1156	Mohamed Cheban
+T15	LABEL 1166 1175	Karlsruhe
+#28	Seine Nummer ist 017623456789.
+T16	LABEL 1194 1206	017623456789
+#29	SPEAKER_01: Gut, und benutzen Sie medizinische Geräte, Gesundheits-Apps oder Websites zu Hause?
+#30	SPEAKER_00: Ja, ein Blutzuckermessgerät von Medics, Modellnummer MX-4781 und verwende  www.mindbalance.de für Achtsamkeitsübungen.
+T17	LABEL 1391 1409	www.mindbalance.de

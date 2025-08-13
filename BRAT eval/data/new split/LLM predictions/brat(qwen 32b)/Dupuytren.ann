@@ -1,0 +1,16 @@
+T1	LOCATION_HOSPITAL 0 35	Universitätsklinikum Klein Haasbeck
+T2	LOCATION_HOSPITAL 38 89	Universitätsklinik für Dermatologie und Venerologie
+T3	NAME_DOCTOR 110 138	Prof.Dr. med. Wieland Wagner
+T4	LOCATION_CITY 146 160	Klein Haasbeck
+T5	LOCATION_STREET 162 179	Sauerbruchplatz 8
+T6	CONTACT_PHONE 187 202	02216/325-15423
+T7	CONTACT_PHONE 209 224	02216/325-15338
+T8	NAME_PATIENT 233 250	Claudia Dupuytren
+T9	LOCATION_STREET 252 265	Am Hasenstall
+T10	LOCATION_CITY 273 287	Klein Haasbeck
+T11	NAME_DOCTOR 350 390	Prof. Dr. med. Jürgen W. von Wetterstein
+T12	PROFESSION 490 501	Ärztin/Arzt
+T13	NAME_DOCTOR 683 724	Frau Kollegin, sehr geehrter Herr Kollege
+T14	DATE 1109 1119	31.10.2021
+T15	DATE 1234 1244	21.09.2021
+T16	NAME_DOCTOR 1478 1503	Dhayana dos Santos Aveiro

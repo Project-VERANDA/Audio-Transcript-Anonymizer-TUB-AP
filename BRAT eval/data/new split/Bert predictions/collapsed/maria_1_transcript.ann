@@ -1,0 +1,78 @@
+#0	maria_1_transcript SPEAKER_01:  Guten Tag, Frau Kowalska. Schön, dass Sie da sind. SPEAKER_00: Hallo, Herr Doktor. Ich habe seit ein paar Wochen ein komisches Blennen im Oberbauch. Direkt hier unter dem Brustbein. Mal mehr, mal weniger, aber es wird irgendwie nicht besser. SPEAKER_01: Hm. Wie lange haben Sie das denn schon? SPEAKER_00:  So drei, vier Wochen. Erst dachte ich, das kommt vom Stress oder weil ich es zu schnell esse. Aber mittlerweile ist es einfach dauerhaft unangenehm. SPEAKER_01: Und tritt das eher morgens auf oder abends? SPEAKER_00: Meist morgens, manchmal auch nachts. Und wenn ich länger nichts gegessen habe auch. Nach dem Essen wird es kurz besser, aber nur für eine Stunde oder so. SPEAKER_01: Ach so.  Gab es in letzter Zeit irgendwas Ungewöhnliches? Reise, Ernährung oder Medikamente? SPEAKER_00: Also wir waren Anfang des Monats in Krakau bei meiner Familie und da habe ich natürlich ordentlich Polnisch gegessen, viel Fett, viel Gewürz und gleichzeitig ist es bei uns zu Hause gerade ziemlich stressig. SPEAKER_01: Was heißt das genau? SPEAKER_00: Also mein Mann David ist gerade sehr eingespannt. Er ist CEO von Google Deutschland.  Ja, zu Hause ist im Moment eigentlich nur noch Arbeit, Telefonkonferenzen und schlechte Laune. Ich merke schon, wie mich das alles körperlich mitnimmt. SPEAKER_01: Ja, sowas schlägt echt schnell auf den Magen, gerade wenn man eh schon empfindlich reagiert. Nehmen Sie denn regelmäßig Medikamente? SPEAKER_00: Nur ab und zu Ibuprofen, wenn ich Kopfschmerzen habe und sonst nichts. SPEAKER_01: Und Kaffee? Alkohol rauchen? SPEAKER_00:  Ja, so Kaffee schon, eine Tasse morgens, Wein vielleicht am Wochenende und rauchen nicht. Auch David nicht. Oh, Entschuldigung, Moment son, ich geh ganz kurz ran. Hallo, Marek? Ich bin grad beim Arzt. Ich ruf dich gleich zurück, ja? Ja, alles gut. SPEAKER_01: Ja, bis später. Das war Marek, oder? Wie geht's ihm? SPEAKER_00:  Naja, er hat gerade die Schule gewechselt, ist jetzt auf dieser Cosmopolitan School in Schöneberg. Eine IB-Schule. Wir dachten, das wäre gut für ihn, aber er kommt schwer rein. Hat schon zweimal Ärger gehabt. Neue Regeln, alles auf Englisch. Das ist eine Umstellung. SPEAKER_01: Klingt nicht ganz einfach und ich kann mir auch vorstellen, dass sie da auch viel auffangen müssen. SPEAKER_00:  Ja total, ich arbeite ja auch noch im polnischen Kulturinstitut, also viel los. SPEAKER_01: Also ihre Symptome passen ehrlich gesagt zu einer möglichen Helicobacter pylori-Infektion. Das ist ein Bakterium, das sich in der Magenschleimhaut festsetzen kann, oft nach Reisen oder wenn das Immunsystem geschwächt ist. SPEAKER_00:  Oh, das klingt unangenehm. Und das kann man testen? SPEAKER_01: Ja, ganz unkompliziert. Ich gebe Ihnen einen Stuhltest mit, dem bringen Sie es zurück und wenn der Befund positiv ist, starten wir eine kurze Antibiotikatherapie. Meist schlägt das ziemlich gut an. SPEAKER_00: Gibt es Nebenwirkungen? SPEAKER_01: Ja, vielleicht etwas Übelkeit oder Fettdurchfall. Aber das ist selten schlimm. Wichtig ist, dass Sie es durchziehen. SPEAKER_00:  Na gut, ich hoffe, dass es dann bald besser wird. Ich brauche ehrlich gesagt meine Energie. SPEAKER_01: Verständlich. Geben Sie gut auf sich acht, Frau Kowalska. Wir schauen gemeinsam, dass Sie wieder auf die Beine kommen.
+#1	SPEAKER_01:  Guten Tag, Frau Kowalska.
+T1	LABEL 24 37	Frau Kowalska
+#2	Schön, dass Sie da sind.
+#3	SPEAKER_00: Hallo, Herr Doktor.
+T2	LABEL 83 94	Herr Doktor
+#4	Ich habe seit ein paar Wochen ein komisches Blennen im Oberbauch.
+#5	Direkt hier unter dem Brustbein.
+#6	Mal mehr, mal weniger, aber es wird irgendwie nicht besser.
+#7	SPEAKER_01: Hm.
+#8	Wie lange haben Sie das denn schon?
+#9	SPEAKER_00:  So drei, vier Wochen.
+#10	Erst dachte ich, das kommt vom Stress oder weil ich es zu schnell esse.
+#11	Aber mittlerweile ist es einfach dauerhaft unangenehm.
+#12	SPEAKER_01: Und tritt das eher morgens auf oder abends?
+#13	SPEAKER_00: Meist morgens, manchmal auch nachts.
+#14	Und wenn ich länger nichts gegessen habe auch.
+#15	Nach dem Essen wird es kurz besser, aber nur für eine Stunde oder so.
+#16	SPEAKER_01: Ach so.
+#17	Gab es in letzter Zeit irgendwas Ungewöhnliches?
+#18	Reise, Ernährung oder Medikamente?
+#19	SPEAKER_00: Also wir waren Anfang des Monats in Krakau bei meiner Familie und da habe ich natürlich ordentlich Polnisch gegessen, viel Fett, viel Gewürz und gleichzeitig ist es bei uns zu Hause gerade ziemlich stressig.
+T3	LABEL 844 850	Krakau
+#20	SPEAKER_01: Was heißt das genau?
+#21	SPEAKER_00: Also mein Mann David ist gerade sehr eingespannt.
+T4	LABEL 1076 1081	David
+#22	Er ist CEO von Google Deutschland.
+T5	LABEL 1118 1121	CEO
+T6	LABEL 1126 1144	Google Deutschland
+#23	Ja, zu Hause ist im Moment eigentlich nur noch Arbeit, Telefonkonferenzen und schlechte Laune.
+#24	Ich merke schon, wie mich das alles körperlich mitnimmt.
+#25	SPEAKER_01: Ja, sowas schlägt echt schnell auf den Magen, gerade wenn man eh schon empfindlich reagiert.
+#26	Nehmen Sie denn regelmäßig Medikamente?
+#27	SPEAKER_00: Nur ab und zu Ibuprofen, wenn ich Kopfschmerzen habe und sonst nichts.
+#28	SPEAKER_01: Und Kaffee?
+#29	Alkohol rauchen?
+#30	SPEAKER_00:  Ja, so Kaffee schon, eine Tasse morgens, Wein vielleicht am Wochenende und rauchen nicht.
+#31	Auch David nicht.
+T7	LABEL 1676 1681	David
+#32	Oh, Entschuldigung, Moment son, ich geh ganz kurz ran.
+#33	Hallo, Marek?
+T8	LABEL 1751 1756	Marek
+#34	Ich bin grad beim Arzt.
+T9	LABEL 1776 1780	Arzt
+#35	Ich ruf dich gleich zurück, ja?
+#36	Ja, alles gut.
+#37	SPEAKER_01: Ja, bis später.
+#38	Das war Marek, oder?
+T10	LABEL 1865 1870	Marek
+#39	Wie geht's ihm?
+#40	SPEAKER_00:  Naja, er hat gerade die Schule gewechselt, ist jetzt auf dieser Cosmopolitan School in Schöneberg.
+T11	LABEL 1971 1990	Cosmopolitan School
+T12	LABEL 1994 2004	Schöneberg
+#41	Eine IB-Schule.
+T13	LABEL 2011 2020	IB-Schule
+#42	Wir dachten, das wäre gut für ihn, aber er kommt schwer rein.
+#43	Hat schon zweimal Ärger gehabt.
+#44	Neue Regeln, alles auf Englisch.
+#45	Das ist eine Umstellung.
+#46	SPEAKER_01: Klingt nicht ganz einfach und ich kann mir auch vorstellen, dass sie da auch viel auffangen müssen.
+#47	SPEAKER_00:  Ja total, ich arbeite ja auch noch im polnischen Kulturinstitut, also viel los.
+#48	SPEAKER_01: Also ihre Symptome passen ehrlich gesagt zu einer möglichen Helicobacter pylori-Infektion.
+#49	Das ist ein Bakterium, das sich in der Magenschleimhaut festsetzen kann, oft nach Reisen oder wenn das Immunsystem geschwächt ist.
+#50	SPEAKER_00:  Oh, das klingt unangenehm.
+#51	Und das kann man testen?
+#52	SPEAKER_01: Ja, ganz unkompliziert.
+#53	Ich gebe Ihnen einen Stuhltest mit, dem bringen Sie es zurück und wenn der Befund positiv ist, starten wir eine kurze Antibiotikatherapie.
+#54	Meist schlägt das ziemlich gut an.
+#55	SPEAKER_00: Gibt es Nebenwirkungen?
+#56	SPEAKER_01: Ja, vielleicht etwas Übelkeit oder Fettdurchfall.
+#57	Aber das ist selten schlimm.
+#58	Wichtig ist, dass Sie es durchziehen.
+#59	SPEAKER_00:  Na gut, ich hoffe, dass es dann bald besser wird.
+#60	Ich brauche ehrlich gesagt meine Energie.
+#61	SPEAKER_01: Verständlich.
+#62	Geben Sie gut auf sich acht, Frau Kowalska.
+T14	LABEL 3213 3226	Frau Kowalska
+#63	Wir schauen gemeinsam, dass Sie wieder auf die Beine kommen.
