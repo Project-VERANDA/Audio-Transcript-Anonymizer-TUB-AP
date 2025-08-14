@@ -1,0 +1,32 @@
+{
+    "%FEATURE_STRUCTURES" : [ {
+        "%ID" : 1,
+        "%TYPE" : "custom.Span",
+        "@sofa" : 2,
+        "begin" : 25,
+        "end" : 35,
+        "label" : "LOCATION_OTHER"
+    }, {
+        "%ID" : 2,
+        "%TYPE" : "custom.Span",
+        "@sofa" : 2,
+        "begin" : 45,
+        "end" : 47,
+        "label" : "AGE"
+    }, {
+        "%ID" : 3,
+        "%TYPE" : "custom.Span",
+        "@sofa" : 2,
+        "begin" : 67,
+        "end" : 69,
+        "label" : "AGE"
+    }, {
+        "%ID" : 4,
+        "%TYPE" : "custom.Span",
+        "@sofa" : 2,
+        "begin" : 90,
+        "end" : 100,
+        "label" : "LOCATION_OTHER"
+    }
+]
+}

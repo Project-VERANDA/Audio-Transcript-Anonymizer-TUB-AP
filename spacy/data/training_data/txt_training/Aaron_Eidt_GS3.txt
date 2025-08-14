@@ -1,0 +1,34 @@
+SPEAKER_00:  Hallo, guten Tag.
+SPEAKER_01: Guten Tag, hallo.
+SPEAKER_00: Schön, dass es geklappt hat.
+SPEAKER_01: Ja, erstmals, wie ist Ihr vollständiger Name? Mein Name ist Dieter Meier. Meier mit AI, wie der Schwabe sagt.
+SPEAKER_00: Hallo, Herr Meier.  Hallo. Können Sie mir bitte Ihre vollständige Adresse geben? Also Straße, Hausnummer, Postleitzahl und Stadt?
+SPEAKER_01: Ich wohne im Lärchenweg 3 in 88239 Wangen im Allgäu. Ein kleines Haus mit Garten. Meine Frau und ich leben da seit über 40 Jahren mittlerweile.  Und wann sind Sie geboren? Am 18. Juli 1950. Ich bin also inzwischen 74 Jahre alt. Aber ich bleibe gerne in Bewegung und so geht es mir auch noch gut.
+SPEAKER_00: Okay, das ist gut. Gab es in der letzten Zeit Krankenhausaufenthalte, zum Beispiel Einweisungen oder Entlassungen?  Nein, keine. Okay, sehr gut. Und unter welche Telefonnummer erreichen wir Sie am besten?
+SPEAKER_01: Am besten über das Festnetz. Die wäre 075 222 3456. Handy habe ich zwar auch, aber das liegt meistens irgendwo im Wohnzimmer.
+Unknown: Verstehe.
+SPEAKER_00:  Okay, Herr Mayer, und kommen Sie mit dem Auto zu uns? Wenn ja, können Sie mir bitte Ihr Kennzeichen nennen, für den Fall, dass wir einen Parkplatz zuweisen müssen?
+SPEAKER_01: Ja klar, ich fahre immer mit meinem Opel Astra, der hat mich noch nie enttäuscht. Seitdem ich ihn gekauft habe, 20 Jahre mittlerweile. Damals erworben, für nur 1000 Euro von einem guten Freund von mir und fährt wie eine astreine Maschine. Kennzeichen ist übrigens RV-DM 1975.
+SPEAKER_00:  Okay, interessant. Und haben Sie eventuell auch eine Faxnummer, über die wir medizinische Unterlagen senden oder empfangen könnten?
+SPEAKER_01: Nein, Fax habe ich mittlerweile abgeschafft. Ich versuche mich immer auf den modernsten Technologienbereichen aufzuhalten. Dementsprechend ist Fax einfach nicht mehr auf der technischen Höhe.
+SPEAKER_00:  Haben Sie auch recht. Und verwenden Sie medizinische Geräte, wie zum Beispiel ein Herzrhythmeter oder ein Blutzuckermessgerät?
+SPEAKER_01: Ah ja, genau. Ich habe ein Hörgerät links, weil ich damals, als ich ein Kind war, einer lauten Böllexplosion ausgesetzt war. Und einen Schrittzähler habe ich auch gemacht. Und kennen Sie die Seriennummer dafür? Genau, die Seriennummer müsste mir vorliegen. Ich gucke mal eben nach in meinem Notizbuch.  Die wäre 3 5 6 6 6 7 3 2 1 0.
+SPEAKER_00:  Dankeschön. Und wie lautet Ihre E-Mail-Adresse?
+SPEAKER_01: Meine E-Mail-Adresse ist ganz einfach, dieter.meier, mal wieder mit AI, wie wir schon am Anfang gesagt hatten, at t-online.de.
+SPEAKER_00: Und nutzen Sie ein Online-Gesundheitsportal oder eine App?
+SPEAKER_01: Ich benutze meistens eigentlich immer DrLib, das hat mir mein Sohn damals gezeigt.  Und ich bin sehr zufrieden damit. Ich hätte mir keine bessere App vorstellen können. Also super, was die Leute heutzutage alles so machen. Dürfen wir Ihre Sozialversicherungsnummer erfassen? Ja klar, meine Sozialversicherungsnummer lautet 768 432 150. Na ein Glück habe ich die mitgebracht. Ich dachte mir schon, sowas fällt auf.
+SPEAKER_00:  Und haben Sie schon einmal eine Patienten-ID oder medizinische Aktennummer bei uns erhalten? Bis jetzt noch nicht. Tatsächlich ist es auch mein erster Termin bei euch. Dann bekommen Sie eine bald. Vielen Dank. Werden Sie damit einverstanden, wenn wir zur Identifikation zum Beispiel Ihre Stimme aufzeichnen oder Fingerabdrücke nutzen, falls das in Zukunft notwendig sein sollte?
+SPEAKER_01: Nein, lieber nicht.
+SPEAKER_00:  Und wie heißt Ihre Krankenkasse und haben Sie Ihre Versicherungsnummer greifbereit?
+SPEAKER_01:  Ja genau, meine Krankenkasse ist die DAK und meine Versicherungsnummer ist... Im Moment schreiben sie immer so klein auf die Karten, das ist manchmal ganz schwierig. Sie müssen wissen, ich habe auch eine leichte Sehschwäche, aber das ist nicht von großem Belang. Die Nummer lautet 412-398-756. Okay, dankeschön.
+SPEAKER_00: Und dürfen wir ein Foto von Ihnen machen, damit wir Sie bei Terminen leichter erkennen können?
+SPEAKER_01:  Nein, danke.
+SPEAKER_00: Okay. Und gibt es eine Abrechnungssumme oder Patientenkennung von frühen Besuchen?
+SPEAKER_01: Ja, die Abrechnungssumme sollte immer die gleiche bleiben, oder? Ja, das sollte die gleiche bleiben. Okay, dann habe ich hier eine, die war auf dem Letztzettel drauf. PAT-DM-20240510.
+SPEAKER_00:  Und gibt es sonst eine besondere Idee, zum Beispiel von einer Studie oder einem Pflegeprogramm, die wir in den Unterlagen vermerken sollten?
+SPEAKER_01: Nein, leider keine, aber ich bin beim Seniorensport bei der AUK. Da bin ich, finde ich, super. Also vor allem, ich habe ja leider nicht mehr so viel zu tun, seitdem ich nicht mehr  arbeiten tue und ich muss sagen, dieser Sportverein, der gibt mir dann doch noch mal das, was ich wirklich vom Leben möchte. Also diese Aktivität, diese Dynamik, ist das schön.
+SPEAKER_00: Das klingt sehr gut. Und am letzten besitzen Sie bestimmte Behandlungen oder Ausweise, die für Ihre Behandlung wichtig sind, zum Beispiel einen schwerbehinderten Ausweis?
+SPEAKER_01: Ja genau, ich habe einen GDB 40 und der ist gültig bis 2030.
+SPEAKER_00:  Okay, das war's. Herr Mayer, Dankeschön.
+SPEAKER_01: Vielen Dank.
+SPEAKER_00: Schönen Tag noch.

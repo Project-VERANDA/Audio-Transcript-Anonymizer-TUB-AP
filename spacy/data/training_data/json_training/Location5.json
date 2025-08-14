@@ -1,0 +1,20 @@
+{
+  "%FEATURE_STRUCTURES": [
+    {
+      "%ID": 1,
+      "%TYPE": "custom.Span",
+      "@sofa": 2,
+      "begin": 13,
+      "end": 15,
+      "label": "AGE"
+    },
+    {
+      "%ID": 2,
+      "%TYPE": "custom.Span",
+      "@sofa": 2,
+      "begin": 83,
+      "end": 93,
+      "label": "LOCATION_OTHER"
+    }
+  ]
+}

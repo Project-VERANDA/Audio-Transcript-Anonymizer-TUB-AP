@@ -1,0 +1,43 @@
+[
+{
+    "begin": 197,
+    "end": 202,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 203,
+    "end": 210,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 261,
+    "end": 263,
+    "label": "AGE"
+},{
+    "begin": 332,
+    "end": 344,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 478,
+    "end": 499,
+    "label": "DATE"
+},{
+    "begin": 733,
+    "end": 743,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 957,
+    "end": 964,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 1142,
+    "end": 1162,
+    "label": "NAME_OTHER"
+},{
+    "begin": 1166,
+    "end": 1175,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 1194,
+    "end": 1207,
+    "label": "CONTACT_PHONE"
+}
+]

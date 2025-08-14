@@ -1,0 +1,31 @@
+[
+{
+    "begin": 32,
+    "end": 38,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 375,
+    "end": 377,
+    "label": "AGE"
+},{
+    "begin": 517,
+    "end": 522,
+    "label": "ID"
+},{
+    "begin": 526,
+    "end": 540,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 777,
+    "end": 790,
+    "label": "NAME_RELATIVE"
+},{
+    "begin": 894,
+    "end": 900,
+    "label": "AGE"
+},{
+    "begin": 1195,
+    "end": 1230,
+    "label": "CONTACT_EMAIL"
+}
+]

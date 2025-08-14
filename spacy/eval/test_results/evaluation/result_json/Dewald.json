@@ -1,0 +1,43 @@
+[
+{
+    "begin": 24,
+    "end": 50,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 175,
+    "end": 186,
+    "label": "DATE"
+},{
+    "begin": 331,
+    "end": 339,
+    "label": "DATE"
+},{
+    "begin": 746,
+    "end": 761,
+    "label": "DATE"
+},{
+    "begin": 1511,
+    "end": 1525,
+    "label": "DATE"
+},{
+    "begin": 2022,
+    "end": 2031,
+    "label": "DATE"
+},{
+    "begin": 2339,
+    "end": 2344,
+    "label": "DATE"
+},{
+    "begin": 2645,
+    "end": 2647,
+    "label": "AGE"
+},{
+    "begin": 2655,
+    "end": 2670,
+    "label": "DATE"
+},{
+    "begin": 2769,
+    "end": 2791,
+    "label": "NAME_DOCTOR"
+}
+]

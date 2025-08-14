@@ -1,0 +1,99 @@
+[
+{
+    "begin": 24,
+    "end": 37,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 40,
+    "end": 50,
+    "label": "DATE"
+},{
+    "begin": 53,
+    "end": 63,
+    "label": "DATE"
+},{
+    "begin": 110,
+    "end": 114,
+    "label": "DATE"
+},{
+    "begin": 167,
+    "end": 174,
+    "label": "DATE"
+},{
+    "begin": 259,
+    "end": 266,
+    "label": "DATE"
+},{
+    "begin": 313,
+    "end": 330,
+    "label": "DATE"
+},{
+    "begin": 368,
+    "end": 375,
+    "label": "DATE"
+},{
+    "begin": 466,
+    "end": 483,
+    "label": "DATE"
+},{
+    "begin": 529,
+    "end": 536,
+    "label": "DATE"
+},{
+    "begin": 541,
+    "end": 548,
+    "label": "DATE"
+},{
+    "begin": 553,
+    "end": 560,
+    "label": "DATE"
+},{
+    "begin": 589,
+    "end": 599,
+    "label": "DATE"
+},{
+    "begin": 1047,
+    "end": 1056,
+    "label": "DATE"
+},{
+    "begin": 1228,
+    "end": 1234,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 1287,
+    "end": 1296,
+    "label": "DATE"
+},{
+    "begin": 1511,
+    "end": 1520,
+    "label": "DATE"
+},{
+    "begin": 1919,
+    "end": 1927,
+    "label": "DATE"
+},{
+    "begin": 2022,
+    "end": 2031,
+    "label": "DATE"
+},{
+    "begin": 2205,
+    "end": 2213,
+    "label": "DATE"
+},{
+    "begin": 2334,
+    "end": 2338,
+    "label": "LOC_OTHER"
+},{
+    "begin": 2645,
+    "end": 2647,
+    "label": "AGE"
+},{
+    "begin": 2759,
+    "end": 2768,
+    "label": "NAME_TITLE"
+},{
+    "begin": 2769,
+    "end": 2788,
+    "label": "NAME_DOCTOR"
+}
+]

@@ -1,0 +1,35 @@
+[
+{
+    "begin": 32,
+    "end": 38,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 149,
+    "end": 156,
+    "label": "DATE"
+},{
+    "begin": 332,
+    "end": 346,
+    "label": "LOCATION_STREET"
+},{
+    "begin": 448,
+    "end": 461,
+    "label": "NAME_RELATIVE"
+},{
+    "begin": 516,
+    "end": 522,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 634,
+    "end": 644,
+    "label": "DATE"
+},{
+    "begin": 1089,
+    "end": 1096,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 1252,
+    "end": 1258,
+    "label": "LOCATION_ORGANIZATION"
+}
+]

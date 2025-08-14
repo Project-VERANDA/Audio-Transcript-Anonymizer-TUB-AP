@@ -1,0 +1,39 @@
+[
+{
+    "begin": 24,
+    "end": 37,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 83,
+    "end": 95,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 1076,
+    "end": 1081,
+    "label": "NAME_OTHER"
+},{
+    "begin": 1118,
+    "end": 1121,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 1751,
+    "end": 1770,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 1776,
+    "end": 1785,
+    "label": "PROFESSION"
+},{
+    "begin": 1984,
+    "end": 1990,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 1994,
+    "end": 2010,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 3213,
+    "end": 3226,
+    "label": "NAME_PATIENT"
+}
+]

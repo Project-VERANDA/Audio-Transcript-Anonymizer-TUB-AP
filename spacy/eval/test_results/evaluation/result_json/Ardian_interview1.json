@@ -1,0 +1,19 @@
+[
+{
+    "begin": 27,
+    "end": 42,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 194,
+    "end": 206,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 712,
+    "end": 730,
+    "label": "LOCATION_STREET"
+},{
+    "begin": 2730,
+    "end": 2742,
+    "label": "NAME_DOCTOR"
+}
+]

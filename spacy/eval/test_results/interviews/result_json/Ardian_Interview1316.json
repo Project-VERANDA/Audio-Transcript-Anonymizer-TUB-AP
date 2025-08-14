@@ -1,0 +1,35 @@
+[
+{
+    "begin": 32,
+    "end": 39,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 79,
+    "end": 92,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 390,
+    "end": 392,
+    "label": "AGE"
+},{
+    "begin": 460,
+    "end": 468,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 566,
+    "end": 571,
+    "label": "NAME_RELATIVE"
+},{
+    "begin": 803,
+    "end": 810,
+    "label": "LOCATION_OTHER"
+},{
+    "begin": 811,
+    "end": 818,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 1491,
+    "end": 1509,
+    "label": "LOCATION_STREET"
+}
+]

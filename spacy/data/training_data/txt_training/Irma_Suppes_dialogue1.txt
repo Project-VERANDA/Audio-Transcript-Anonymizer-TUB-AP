@@ -1,0 +1,27 @@
+SPEAKER_00:  Guten Morgen, Frau Meier. Schön, dass Sie da sind. Was führt Sie heute zu mir?
+SPEAKER_01: Guten Morgen, Frau Doktor. Ich habe seit ein paar Wochen wieder diese typischen Allergiebeschwerden. Verstopfte Nase, irgendeine Augen, manchmal auch ein bisschen Husten. Das fängt jedes Jahr so im Mai an.
+SPEAKER_00: Ah ja, das kennen wir schon von Ihnen. Ich sehe hier in der Akte, letztes Jahr um die gleiche Zeit hatten Sie auch mit Heuschnupfen zu kämpfen. Waren Sie immer noch in der Gürtelstraße 42 in 90461 Nürnberg?
+SPEAKER_01:  Ja, genau. Und direkt hinter dem Haus stehen zwei riesige Birken. Die blühen gerade wieder voll.
+SPEAKER_00: Das erklärt einiges. Und Sie sind ja am 5. Mai 1985 geboren, korrekt?
+SPEAKER_01: Genau. Letzte Woche war mein Geburtstag. Ich bin 14 geworden, aber ich habe in Husten auf dem Couch verbracht.
+SPEAKER_00: Oh ja, das klingt nicht so festlich. Haben Sie aktuell Medikamente bekommen?
+SPEAKER_01:  Ich habe noch Chlorane von letztem Jahr gehabt, das habe ich wiedergenommen, hilft so halbwegs, aber ich bin trotzdem total müde davon.
+SPEAKER_00: Ja, das kann leider eine Nebenwirkung sein. Ich könnte Ihnen ein neueres Antihistaminikum verschreiben, das macht nicht so schläfrig. Haben Sie dann viel mit Pflanzen oder Tieren zu tun?
+SPEAKER_01:  Also ich arbeite ja bei Blumen und Design Weber hier im Stadtteil. Ich mache da hauptsächlich Kundenberatung, aber manchmal helfe ich auch in der Gärtnerei mit. Letzte Woche war ich stundenlang draußen und da ging es richtig los.
+SPEAKER_00: Klingt nach klarer Auslösungssituation. Ich notiere das mal. Beruflicher Kontakt mit Polen und Ihre Krankenversicherung läuft noch über die TK, oder?
+SPEAKER_01:  Ja, das ist immer noch aktuell. Meine Versicherungskarte habe ich vorhin schon abgegeben.
+SPEAKER_00: Sehr gut. Und Sie möchten die Unterlagen weiterhin per E-Mail bekommen?
+SPEAKER_01:  Ja, bitte, das wäre mir am liebsten. Meine E-Mail-Adresse ist noch j.maya1985 at gmail.com. Wie gehabt.
+SPEAKER_00: Habe ich hier gespeichert. Dann schicke ich Ihnen die Zusammenfassung des heutigen Termins und das Rezept elektronisch zu. Und Ihre Tochter Maria ist jetzt wie alt?
+SPEAKER_01:  Sie wird im Juli sieben.
+SPEAKER_00: Hatte sie auch schon mal allergieähnliche Symptome?
+SPEAKER_01: Ein bisschen Husten abends, aber nichts wildes. Ich hoffe ja, dass sie verschont bleibt.
+SPEAKER_00:  Das hoffen wir auch. Wenn es sich häuft, machen wir mal einen Test bei ihr. Bei Ihnen würde ich sagen, wir steigen auf Dysloredadin um. Das wirkt gut und macht weniger müde. Außerdem gebe ich Ihnen Nasenspray und Augentropfen mit. Haben Sie Interesse an einer Hyposensibilisierung? Sie hatten da ja vor zwei Jahren mal angesprochen.
+SPEAKER_01: Ja, eigentlich schon. Aber ich war mir nie sicher, ob ich das zeitlich hinbekomme.
+SPEAKER_00:  Verständlich. Es ist schon ein Aufwand, aber langfristig kann es wirklich helfen. Wir können in der Pollenabendzeit damit beginnen, also ab Spätherbst.
+SPEAKER_01: Klingt gut. Dann planen wir das für den Herbst ein.
+SPEAKER_00: Super. Ich stelle Ihnen das Rezept gleich aus und schicke es wie immer digital an Ihre E-Rezept-App. Ihre nächste Kontrolle können wir dann im Juni machen. Wie wäre es mit dem 18. Juni um 8.30 Uhr?
+SPEAKER_01:  Das passt. Ich nehme mir dann morgens frei.
+SPEAKER_00: Perfekt. Dann gute Besserung und melden Sie sich, falls was ist.
+SPEAKER_01: Mache ich. Danke, Frau Dr. Schneider.
+SPEAKER_00: Gern geschehen, Frau Meier. Bis bald.

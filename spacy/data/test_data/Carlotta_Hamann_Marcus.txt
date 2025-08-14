@@ -1,0 +1,20 @@
+SPEAKER_01:  Guten Morgen, Markus. Ich habe gesehen, dass Sie letzte Woche zur Vorsorgeuntersuchung waren. Wie ist es gelaufen? 
+SPEAKER_01: Ja, ich war bei Dr. Suh in der Praxis am Kollwitzplatz. Sie meinte, ich sei insgesamt gesunder, aber mein Blutdruck war etwas erhöht. Wahrscheinlich wegen zu viel Kaffee und zu wenig Schlaf.
+SPEAKER_00: Das passt zu dem, was wir schon besprochen haben. Kaffee, Koffein und Schlaf als Ventile, wenn es eng wird.
+SPEAKER_01:  Genau, ich lasse inzwischen sogar meinen Morgen Spaziergang ausfallen, nur um vor der Arbeit noch ein paar E-Mails zu lesen. Früher bin ich von meiner Wohnung in der Hufelandstraße runter bis an die Spree gelaufen, vorbei an der Grundschule mit dem bunten Mosaik an der Mauer. Ich glaube, ich habe nicht einmal gemerkt, dass der Frühling angefangen hat.
+SPEAKER_00:  Diese Routine hat Ihnen früher sehr gut getan. Was hat sich verändert?
+SPEAKER_01: Vor allem die Arbeit. Seit der Dienstreise nach München ist alles noch dichter geworden. Ich bin Sonntagabend mit dem Nachtzug zurückgekommen, Ankunft, um sechs Uhr morgens in Berlin, Hauptbahnhof, dann direkt ins Büro. Ich weiß noch, wie ich in der S-Bahn saß und die Sonne über dem Fernsehturm aufgehen sah.
+SPEAKER_00: Das klingt nach einem Tempo, das kaum ausdurchzuhalten ist. Wie ist die Stimmung mit Clara inzwischen?
+SPEAKER_01:  Nicht angespannt, aber distanziert. Nachdem ich sie versehentlich im Teamchat korrigiert habe, war ich nicht böse gemeint, ist sie sehr sachlich geworden. Die Kundenpräsentation am Montag war dadurch ziemlich steil.  
+SPEAKER_00: Wie reagiert ihr Körper auf das alles? 
+SPEAKER_01: Ich habe fast jeden Tag so einen dumpfen Druck unter dem Auge. Keine Migräne, eher ein ständiger Kopfschmerz, der vormittags beginnt und nicht mehr weggeht. Meine Mutter sagt, es kommt vom Bildschirm. Sie hat mir eine Liste mit Kräutertees geschickt. Sie lebt ja noch in Bremen, ruft fast jeden zweiten Abend gegen halb neun an, egal ob es mir passt oder nicht. 
+SPEAKER_00: Sie zeigt Fürsorge auf ihre Weise.  
+SPEAKER_01: Ja, total. Sie fragt mich immer nach allem, Job und ob ich jemanden treffe, ob ich was richtiges esse. Sie war neulich richtig überrascht, als sie erzählt hat, dass ich oft selber koche. Ich hab was von Ofengemüse gesagt und sie meinte nur, du hast dich verändert. 
+SPEAKER_00: Und das ist nicht unbedingt schlecht.
+SPEAKER_01: Vermutlich nicht, aber ich fühle mich so zersplittert. Selbst als ich den Bogen für die Schlafambulanz ausgefüllt habe, hatte ich plötzlich das Gefühl, dass das alles gar nichts mit mir zu tun hat. 
+SPEAKER_00: Es war wie das Protokoll eines anderen Lebens?
+SPEAKER_01: Genau, ich habe das Formular angesehen und gedacht, das ist mein Name, mein Job, meine Wohnung, aber irgendwie bin ich das nicht. Ich funktioniere nur noch. Selbst meine Schwester Sascha hat mir geschrieben, ob bei mir alles okay ist, weil ich ihren Anruf wegen Mamas Geburtstagsplanung ignoriert habe.
+SPEAKER_00: Sie beschreiben eine Art emotionaler Abwesenheit, eine Lücke zwischen Innen- und Außenwelt. 
+SPEAKER_01: Ja, alles läuft irgendwie, aber ich bin nicht mehr wirklich da drin.
+SPEAKER_00: Dieses Gefühl der Entfremdung, das ist ein wichtiger Punkt, an dem wir weiterarbeiten können. Aber allein, dass Sie es heute hier so offen formulieren zeigt, dass Sie sich nicht nur durch den Alltag schleppen. Sie reflektieren. Das ist ein Schritt zurück zu mehr Verbindung mit sich selbst.
+SPEAKER_01: Ich hoffe es. Ich hab keine Lust mehr habe, einfach nur irgendwie zu funktionieren.

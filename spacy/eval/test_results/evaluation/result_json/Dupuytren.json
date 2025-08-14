@@ -1,0 +1,51 @@
+[
+{
+    "begin": 28,
+    "end": 36,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 38,
+    "end": 106,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 137,
+    "end": 157,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 159,
+    "end": 183,
+    "label": "LOCATION_STREET"
+},{
+    "begin": 184,
+    "end": 200,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 216,
+    "end": 221,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 226,
+    "end": 233,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 258,
+    "end": 278,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 281,
+    "end": 336,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 930,
+    "end": 954,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 1065,
+    "end": 1075,
+    "label": "DATE"
+},{
+    "begin": 1165,
+    "end": 1180,
+    "label": "NAME_PATIENT"
+}
+]

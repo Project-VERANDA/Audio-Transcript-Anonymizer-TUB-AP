@@ -1,0 +1,11 @@
+SPEAKER_00:  Guten Morgen, Frau Schneider. Schön, dass Sie da sind. Wie geht es Ihnen heute?
+SPEAKER_01: Mir geht es nicht so gut. Ich habe seit dem Anfang Mai Fieber und Schüttelfreud. Und jetzt am 11. Mai war das Fieber fast 40 Grad.
+SPEAKER_00: Darf ich fragen, wie alt Sie jetzt sind?
+SPEAKER_01:  Ich bin 91 Jahre alt.
+SPEAKER_00: Mein Geburtstag war im März. Ah okay, gut zu wissen. Ab 90 Jahren müssen wir besonders behutsam sein, vor allem bei Fieber. Wohnen Sie eigentlich noch mit Ihrem Mann zusammen?
+SPEAKER_01: Ja, mit meinem Mann Jürgen. Wir leben in einer kleinen Wohnung in Berlin-Tiergarten, nähe Landwehrkanal. Seit wir bei den Renten sind, sind wir aber sehr viel zu Hause, fast gar nicht draußen.  Er kümmert sich um den Einkauf, ich mache den Garten auf dem Hinterhof.
+SPEAKER_00: Haben Sie Kinder, die nach Ihnen sehen können, wenn Ihr Mann mal nicht da ist?
+SPEAKER_01: Zwei. Mein Sohn ist 55, aber er lebt in Köln, der ist ganz weit weg. Meine Tochter wohnt in der Nähe. Sie hilft uns oft, vor allem jetzt, wenn wir krank sind.
+SPEAKER_00:  Das ist gut zu wissen. Könnten Sie mir Ihre Telefonnummer bitte geben, falls wir wegen der Laborwerte zurückrufen müssen?
+SPEAKER_01: Ja, gerne. Für mein Handy 015123454589 Festnetz wäre  Plus 4 9 1 7 7 5 7 5 4 3 Mein Mann, erreichen Sie unter 0 1 7 2 3 4 5 6 7 8.
+SPEAKER_00: Falls ich nicht dran gehe. Alles klar, vielen Dank. Ich nehme jetzt Blut ab und untersuche Ihre Lunge. Je nach Ergebnis klären wir dann das weitere Vorgehen.

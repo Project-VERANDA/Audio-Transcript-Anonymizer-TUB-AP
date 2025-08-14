@@ -1,0 +1,43 @@
+[
+{
+    "begin": 108,
+    "end": 121,
+    "label": "NAME_TITLE"
+},{
+    "begin": 122,
+    "end": 136,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 137,
+    "end": 142,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 184,
+    "end": 199,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 206,
+    "end": 258,
+    "label": "CONTACT_FAX"
+},{
+    "begin": 258,
+    "end": 263,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 337,
+    "end": 351,
+    "label": "NAME_TITLE"
+},{
+    "begin": 352,
+    "end": 377,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 1065,
+    "end": 1075,
+    "label": "DATE"
+},{
+    "begin": 1184,
+    "end": 1194,
+    "label": "DATE"
+}
+]

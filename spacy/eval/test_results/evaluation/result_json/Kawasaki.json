@@ -1,0 +1,23 @@
+[
+{
+    "begin": 22,
+    "end": 57,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 107,
+    "end": 127,
+    "label": "DATE"
+},{
+    "begin": 128,
+    "end": 182,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 192,
+    "end": 217,
+    "label": "DATE"
+},{
+    "begin": 4068,
+    "end": 4083,
+    "label": "NAME_PATIENT"
+}
+]

@@ -1,0 +1,23 @@
+[
+{
+    "begin": 29,
+    "end": 37,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 74,
+    "end": 90,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 207,
+    "end": 224,
+    "label": "DATE"
+},{
+    "begin": 356,
+    "end": 366,
+    "label": "DATE"
+},{
+    "begin": 499,
+    "end": 501,
+    "label": "AGE"
+}
+]

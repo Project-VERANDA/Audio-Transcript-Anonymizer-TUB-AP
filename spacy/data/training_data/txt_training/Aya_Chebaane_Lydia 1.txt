@@ -1,0 +1,14 @@
+SPEAKER_00:  Schön, dass Sie heute Zeit gefunden haben. Möchten Sie uns von Ihrem letzten Arztbesuch erzählen?
+SPEAKER_01: Gerne. Ich heiße Lydia Benhassine und war vor etwa einem Monat bei meiner Hausarzt zur jährlichen Vorsorge.
+SPEAKER_00: Und wie war der Termin?
+SPEAKER_01: Zuerst war alles ganz normal, alles wie immer. Doch ein paar Tage später rief mich mein Arzt, Herr Müller, an und sagte, meine Blutzuckerwerte seien erhöht.
+SPEAKER_00: Was genau hat er festgestellt?
+SPEAKER_01:  Ich bin prädiabetisch. Das hat mich echt überrascht. Ich bin erst 33 und dachte, ich ernähre mich eigentlich ganz okay.
+SPEAKER_00: Gibt es eine familiäre Vorbelastung?
+SPEAKER_01: Ja, sowohl meine Großmutter als auch mein Onkel mütterlicherseits hatten Typ 2 Diabetes.
+SPEAKER_00: Haben Sie danach etwas verändert?
+SPEAKER_01: Ja, ich arbeite jetzt mit einer Ernährungsberaterin, mache dreimal pro Woche Sport im Fitnessstudio und trecke meine Mahlzeiten mit einer App.
+SPEAKER_00:  Wissen Sie noch, wann genau der Arzttermin war? Am 10. Mai. Und zu welcher Praxis gehen Sie normalerweise?
+SPEAKER_01: Ich bin Patientin im Gesundheitszentrum Mitte in Berlin.
+SPEAKER_00: Vielen Dank, Lydia. Es klingt, als hätten Sie alles gut im Griff.
+SPEAKER_01: Schönen Tag noch.

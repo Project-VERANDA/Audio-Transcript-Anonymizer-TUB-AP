@@ -1,0 +1,39 @@
+[
+{
+    "begin": 64,
+    "end": 72,
+    "label": "DATE"
+},{
+    "begin": 86,
+    "end": 98,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 668,
+    "end": 676,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 732,
+    "end": 740,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 747,
+    "end": 801,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 840,
+    "end": 848,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 1135,
+    "end": 1148,
+    "label": "DATE"
+},{
+    "begin": 1349,
+    "end": 1353,
+    "label": "DATE"
+},{
+    "begin": 1445,
+    "end": 1466,
+    "label": "DATE"
+}
+]

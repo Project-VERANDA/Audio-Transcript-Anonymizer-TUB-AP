@@ -1,0 +1,47 @@
+[
+{
+    "begin": 29,
+    "end": 35,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 1670,
+    "end": 1679,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 2029,
+    "end": 2050,
+    "label": "LOCATION_ORGANIZATION"
+},{
+    "begin": 2132,
+    "end": 2154,
+    "label": "LOCATION_ORGANIZATION"
+},{
+    "begin": 2249,
+    "end": 2258,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 2361,
+    "end": 2367,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 2558,
+    "end": 2564,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 2712,
+    "end": 2718,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 3014,
+    "end": 3019,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 3054,
+    "end": 3060,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 3078,
+    "end": 3084,
+    "label": "NAME_DOCTOR"
+}
+]

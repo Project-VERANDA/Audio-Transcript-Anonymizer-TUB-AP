@@ -1,0 +1,29 @@
+SPEAKER_01:  Guten Tag, Frau Weber.
+SPEAKER_00: Guten Tag, Dr. Keller.
+SPEAKER_01: Willkommen und schön, dass Sie da sind. Können Sie mir kurz sagen, was passiert ist?
+SPEAKER_00: Ja, also, ich hatte vor zwei Wochen plötzlich eine Panikattacke beim Einkaufen. Ich bekam keine Luft, mein Herz raste. Ich dachte, ich kippe um.
+SPEAKER_01: Das klingt ernst. Haben Sie das schon einmal erlebt?
+SPEAKER_00:  Nein, das war das erste Mal. Ich war im Rewe in der Beethovenstraße 9 in Leipzig. Ich wohne aber in der Waldstraße 22, 04105 Leipzig.
+SPEAKER_01: Geben Sie mir bitte noch Ihr Geburtsdatum?
+SPEAKER_00: 27. Oktober 1982.
+SPEAKER_01: Haben Sie eine Notfallnummer, falls wir jemanden kontaktieren müssen?
+SPEAKER_00:  Ja, mein Mann heißt Jonas Weber. Er ist erreichbar unter 0176-223-34455.
+SPEAKER_01: Ich brauche auch Ihre Krankenkassendaten für die Abrechnung.
+SPEAKER_00: Klar. Ich bin bei der Barmer. Versicherten Nummer 73849201.
+SPEAKER_01: Und Ihre Sozialversicherungsnummer?
+SPEAKER_00: Die lautet 45322-9187.
+SPEAKER_01: Haben Sie Medikamente genommen?
+SPEAKER_00:  Nein, aber der Arzt in der Notaufnahme hat mir Sertralin verschrieben.
+SPEAKER_01: Wann war die Notaufnahme?
+SPEAKER_00: Am 10. April gegen 15.05 Uhr und 40 Uhr. Ich wurde am selben Tag aufgenommen und am 12. April entlassen.
+SPEAKER_01: Haben Sie medizinische Geräte zu Hause?
+SPEAKER_00: Ja, ein Blutdruckmessgerät, Modellnummer BP-7000, Seriennummer 99401B.
+SPEAKER_01: Haben Sie ein aktuelles Passfoto für die Patientenakte?
+SPEAKER_00:  Ja, hier. Das ist von letzter Woche.
+SPEAKER_01: Verwenden Sie Gesundheits-Apps?
+SPEAKER_00: Ja, ich nutze BetterCalm mit Benutzerkonto JW-2024.
+SPEAKER_01: Danke. Haben Sie auch Ihre E-Mail-Adresse dabei?
+SPEAKER_00: Anna.weber1982atmail.de Und Ihre Faxnummer für Befunde?  Die ist 034155667788.
+SPEAKER_01: Haben Sie ein Bankkonto für private Leistungen?
+SPEAKER_00: Ja, mein IBAN ist DE44123456789876543210.
+SPEAKER_01: Vielen Dank, Frau Weber. Es klingt, als hätten Sie alles gut im Griff. Schönen Tag noch. Tschüss.

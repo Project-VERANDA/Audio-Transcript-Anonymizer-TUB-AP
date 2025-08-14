@@ -1,0 +1,22 @@
+SPEAKER_01:  Guten Tag, können Sie mir bitte Ihren Namen sagen?
+SPEAKER_00: Ja, gerne. Ich heiße Yasmin Shaban.
+SPEAKER_01: Danke. Und Ihre Adresse?
+SPEAKER_00: Ich wohne in der Spandauer Damm 140 10115 Berlin.
+SPEAKER_01: Wie alt sind Sie?
+SPEAKER_00: Ich bin 28 Jahre alt.
+SPEAKER_01: Und Ihre Telefonnummer?
+SPEAKER_00:  Das ist 03045678921. Haben Sie eine E-Mail-Adresse? Ja, jesminchewan84 at gmail.com.
+SPEAKER_01: Wissen Sie noch, wann der Unfall war?
+SPEAKER_00: Ja, am 10. April um 8.30 Uhr.
+SPEAKER_01: Hatten Sie ein Fahrzeug?
+SPEAKER_00:  Ja, mein Fahrrad hatte die Seriennummer 2387-LKM-998.
+SPEAKER_01: Haben Sie Ihre Versicherungskarte parat?
+SPEAKER_00: Ich bin bei der AUGA versichert. Meine Versicherungsnummer ist 736598410.
+SPEAKER_01: Haben Sie Allergien oder wichtige medizinische Informationen?
+SPEAKER_00:  Ich bin allergisch gegen Penicillin und hatte letztes Jahr eine OP wegen eines gebrochenen Arms. Meine Krankenaktennummer ist 347899.
+SPEAKER_01: Haben Sie einen Ausweis oder Führerschein dabei?
+SPEAKER_00: Ja, Führerscheinnummer B3592881.
+SPEAKER_01: Gibt es einen Notfallkontakt?
+SPEAKER_00:  Ja, mein Bruder Mohamed Cheban wohnt in Karlsruhe. Seine Nummer ist 017623456789.
+SPEAKER_01: Gut, und benutzen Sie medizinische Geräte, Gesundheits-Apps oder Websites zu Hause?
+SPEAKER_00: Ja, ein Blutzuckermessgerät von Medics, Modellnummer MX-4781 und verwende  www.mindbalance.de für Achtsamkeitsübungen.
