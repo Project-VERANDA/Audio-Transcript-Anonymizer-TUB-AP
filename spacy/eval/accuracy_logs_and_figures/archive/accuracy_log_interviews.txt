@@ -1,0 +1,160 @@
+Accuracy Log
+=============
+
+----------------- File: Ardian_Interview1316.json --------------------------------------------------------------
+TP entity: {'begin': 32, 'end': 39, 'label': 'NAME'} with ground truth: {'begin': 32, 'end': 39, 'label': 'NAME'} in file Ardian_Interview1316.json
+TP entity: {'begin': 79, 'end': 92, 'label': 'NAME'} with ground truth: {'begin': 79, 'end': 92, 'label': 'NAME'} in file Ardian_Interview1316.json
+TP entity: {'begin': 460, 'end': 468, 'label': 'LOCATION'} with ground truth: {'begin': 463, 'end': 471, 'label': 'LOCATION'} in file Ardian_Interview1316.json
+TP entity: {'begin': 566, 'end': 571, 'label': 'NAME'} with ground truth: {'begin': 569, 'end': 574, 'label': 'NAME'} in file Ardian_Interview1316.json
+FP entity: {'begin': 803, 'end': 810, 'label': 'LOCATION'} with ground truth: None in file Ardian_Interview1316.json
+TP entity: {'begin': 811, 'end': 818, 'label': 'LOCATION'} with ground truth: {'begin': 816, 'end': 823, 'label': 'LOCATION'} in file Ardian_Interview1316.json
+FP entity: {'begin': 1491, 'end': 1509, 'label': 'LOCATION'} with ground truth: None in file Ardian_Interview1316.json
+FN entity: {'begin': 393, 'end': 395, 'label': 'AGE'} in file Ardian_Interview1316.json
+FN entity: {'begin': 873, 'end': 874, 'label': 'AGE'} in file Ardian_Interview1316.json
+FN entity: {'begin': 879, 'end': 881, 'label': 'AGE'} in file Ardian_Interview1316.json
+FN entity: {'begin': 1097, 'end': 1115, 'label': 'PROFESSION'} in file Ardian_Interview1316.json
+FN entity: {'begin': 1332, 'end': 1364, 'label': 'ID'} in file Ardian_Interview1316.json
+FN entity: {'begin': 1705, 'end': 1741, 'label': 'ID'} in file Ardian_Interview1316.json
+FN entity: {'begin': 1500, 'end': 1518, 'label': 'LOCATION'} in file Ardian_Interview1316.json
+Correct entities: 5 in file Ardian_Interview1316.json
+False positive entities: 2 in file Ardian_Interview1316.json
+Missed entities: 7 in file Ardian_Interview1316.json
+----------------- File: Ardian_Interview1310.json --------------------------------------------------------------
+TP entity: {'begin': 29, 'end': 37, 'label': 'NAME'} with ground truth: {'begin': 29, 'end': 37, 'label': 'NAME'} in file Ardian_Interview1310.json
+TP entity: {'begin': 74, 'end': 90, 'label': 'NAME'} with ground truth: {'begin': 74, 'end': 90, 'label': 'NAME'} in file Ardian_Interview1310.json
+FP entity: {'begin': 207, 'end': 224, 'label': 'DATE'} with ground truth: None in file Ardian_Interview1310.json
+FN entity: {'begin': 182, 'end': 188, 'label': 'NAME_TITLE'} in file Ardian_Interview1310.json
+FN entity: {'begin': 501, 'end': 503, 'label': 'AGE'} in file Ardian_Interview1310.json
+FN entity: {'begin': 638, 'end': 643, 'label': 'PROFESSION'} in file Ardian_Interview1310.json
+FN entity: {'begin': 660, 'end': 669, 'label': 'PROFESSION'} in file Ardian_Interview1310.json
+FN entity: {'begin': 1260, 'end': 1279, 'label': 'ID'} in file Ardian_Interview1310.json
+FN entity: {'begin': 1345, 'end': 1348, 'label': 'LOCATION'} in file Ardian_Interview1310.json
+FN entity: {'begin': 1383, 'end': 1402, 'label': 'ID'} in file Ardian_Interview1310.json
+FN entity: {'begin': 417, 'end': 425, 'label': 'LOCATION'} in file Ardian_Interview1310.json
+Correct entities: 2 in file Ardian_Interview1310.json
+False positive entities: 1 in file Ardian_Interview1310.json
+Missed entities: 8 in file Ardian_Interview1310.json
+----------------- File: Ardian_interview1.json --------------------------------------------------------------
+TP entity: {'begin': 32, 'end': 42, 'label': 'NAME'} with ground truth: {'begin': 32, 'end': 42, 'label': 'NAME'} in file Ardian_interview1.json
+FN entity: {'begin': 199, 'end': 206, 'label': 'NAME'} in file Ardian_interview1.json
+FN entity: {'begin': 487, 'end': 498, 'label': 'PROFESSION'} in file Ardian_interview1.json
+FN entity: {'begin': 504, 'end': 529, 'label': 'PROFESSION'} in file Ardian_interview1.json
+FN entity: {'begin': 712, 'end': 726, 'label': 'LOCATION'} in file Ardian_interview1.json
+FN entity: {'begin': 2735, 'end': 2741, 'label': 'NAME_TITLE'} in file Ardian_interview1.json
+FN entity: {'begin': 272, 'end': 308, 'label': 'LOCATION'} in file Ardian_interview1.json
+Correct entities: 1 in file Ardian_interview1.json
+False positive entities: 0 in file Ardian_interview1.json
+Missed entities: 6 in file Ardian_interview1.json
+----------------- File: Ardian_interview2.json --------------------------------------------------------------
+TP entity: {'begin': 29, 'end': 35, 'label': 'NAME'} with ground truth: {'begin': 29, 'end': 35, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 1670, 'end': 1679, 'label': 'NAME'} with ground truth: {'begin': 1670, 'end': 1679, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 2029, 'end': 2050, 'label': 'LOCATION'} with ground truth: {'begin': 2029, 'end': 2050, 'label': 'LOCATION'} in file Ardian_interview2.json
+TP entity: {'begin': 2132, 'end': 2154, 'label': 'LOCATION'} with ground truth: {'begin': 2132, 'end': 2153, 'label': 'LOCATION'} in file Ardian_interview2.json
+TP entity: {'begin': 2249, 'end': 2258, 'label': 'NAME'} with ground truth: {'begin': 2249, 'end': 2258, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 2361, 'end': 2367, 'label': 'NAME'} with ground truth: {'begin': 2361, 'end': 2367, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 2558, 'end': 2564, 'label': 'NAME'} with ground truth: {'begin': 2558, 'end': 2564, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 2712, 'end': 2718, 'label': 'NAME'} with ground truth: {'begin': 2712, 'end': 2718, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 3014, 'end': 3019, 'label': 'NAME'} with ground truth: {'begin': 3014, 'end': 3019, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 3054, 'end': 3060, 'label': 'NAME'} with ground truth: {'begin': 3054, 'end': 3060, 'label': 'NAME'} in file Ardian_interview2.json
+TP entity: {'begin': 3078, 'end': 3084, 'label': 'NAME'} with ground truth: {'begin': 3078, 'end': 3084, 'label': 'NAME'} in file Ardian_interview2.json
+FN entity: {'begin': 177, 'end': 183, 'label': 'NAME_TITLE'} in file Ardian_interview2.json
+FN entity: {'begin': 1342, 'end': 1346, 'label': 'PROFESSION'} in file Ardian_interview2.json
+Correct entities: 11 in file Ardian_interview2.json
+False positive entities: 0 in file Ardian_interview2.json
+Missed entities: 2 in file Ardian_interview2.json
+----------------- File: Ardian_Interview132.json --------------------------------------------------------------
+TP entity: {'begin': 32, 'end': 38, 'label': 'NAME'} with ground truth: {'begin': 32, 'end': 38, 'label': 'NAME'} in file Ardian_Interview132.json
+TP entity: {'begin': 149, 'end': 156, 'label': 'DATE'} with ground truth: {'begin': 150, 'end': 157, 'label': 'DATE'} in file Ardian_Interview132.json
+TP entity: {'begin': 332, 'end': 346, 'label': 'LOCATION'} with ground truth: {'begin': 334, 'end': 345, 'label': 'LOCATION'} in file Ardian_Interview132.json
+TP entity: {'begin': 448, 'end': 461, 'label': 'NAME'} with ground truth: {'begin': 451, 'end': 464, 'label': 'NAME'} in file Ardian_Interview132.json
+FP entity: {'begin': 516, 'end': 522, 'label': 'ID'} with ground truth: None in file Ardian_Interview132.json
+FP entity: {'begin': 634, 'end': 644, 'label': 'DATE'} with ground truth: None in file Ardian_Interview132.json
+FP entity: {'begin': 1089, 'end': 1096, 'label': 'NAME'} with ground truth: None in file Ardian_Interview132.json
+FP entity: {'begin': 1252, 'end': 1258, 'label': 'LOCATION'} with ground truth: None in file Ardian_Interview132.json
+FN entity: {'begin': 1095, 'end': 1102, 'label': 'NAME'} in file Ardian_Interview132.json
+FN entity: {'begin': 519, 'end': 524, 'label': 'LOCATION'} in file Ardian_Interview132.json
+FN entity: {'begin': 349, 'end': 367, 'label': 'LOCATION'} in file Ardian_Interview132.json
+FN entity: {'begin': 645, 'end': 647, 'label': 'AGE'} in file Ardian_Interview132.json
+FN entity: {'begin': 872, 'end': 884, 'label': 'PROFESSION'} in file Ardian_Interview132.json
+FN entity: {'begin': 981, 'end': 986, 'label': 'PROFESSION'} in file Ardian_Interview132.json
+FN entity: {'begin': 1259, 'end': 1265, 'label': 'AGE'} in file Ardian_Interview132.json
+FN entity: {'begin': 1284, 'end': 1292, 'label': 'AGE'} in file Ardian_Interview132.json
+FN entity: {'begin': 1769, 'end': 1784, 'label': 'LOCATION'} in file Ardian_Interview132.json
+Correct entities: 4 in file Ardian_Interview132.json
+False positive entities: 4 in file Ardian_Interview132.json
+Missed entities: 9 in file Ardian_Interview132.json
+----------------- File: Ardian_Interview139.json --------------------------------------------------------------
+TP entity: {'begin': 32, 'end': 38, 'label': 'NAME'} with ground truth: {'begin': 32, 'end': 38, 'label': 'NAME'} in file Ardian_Interview139.json
+TP entity: {'begin': 375, 'end': 377, 'label': 'AGE'} with ground truth: {'begin': 378, 'end': 380, 'label': 'AGE'} in file Ardian_Interview139.json
+FP entity: {'begin': 517, 'end': 522, 'label': 'ID'} with ground truth: None in file Ardian_Interview139.json
+TP entity: {'begin': 526, 'end': 540, 'label': 'LOCATION'} with ground truth: {'begin': 529, 'end': 543, 'label': 'LOCATION'} in file Ardian_Interview139.json
+TP entity: {'begin': 777, 'end': 790, 'label': 'NAME'} with ground truth: {'begin': 782, 'end': 795, 'label': 'NAME'} in file Ardian_Interview139.json
+TP entity: {'begin': 894, 'end': 900, 'label': 'AGE'} with ground truth: {'begin': 899, 'end': 905, 'label': 'AGE'} in file Ardian_Interview139.json
+FP entity: {'begin': 1195, 'end': 1230, 'label': 'CONTACT'} with ground truth: None in file Ardian_Interview139.json
+FN entity: {'begin': 874, 'end': 879, 'label': 'AGE'} in file Ardian_Interview139.json
+FN entity: {'begin': 1091, 'end': 1112, 'label': 'CONTACT'} in file Ardian_Interview139.json
+FN entity: {'begin': 1076, 'end': 1089, 'label': 'CONTACT'} in file Ardian_Interview139.json
+FN entity: {'begin': 1201, 'end': 1236, 'label': 'CONTACT'} in file Ardian_Interview139.json
+Correct entities: 5 in file Ardian_Interview139.json
+False positive entities: 2 in file Ardian_Interview139.json
+Missed entities: 4 in file Ardian_Interview139.json
+----------------- File: Ardian_Interview138.json --------------------------------------------------------------
+TP entity: {'begin': 32, 'end': 38, 'label': 'NAME'} with ground truth: {'begin': 32, 'end': 38, 'label': 'NAME'} in file Ardian_Interview138.json
+TP entity: {'begin': 151, 'end': 159, 'label': 'DATE'} with ground truth: {'begin': 152, 'end': 160, 'label': 'DATE'} in file Ardian_Interview138.json
+TP entity: {'begin': 435, 'end': 441, 'label': 'NAME'} with ground truth: {'begin': 436, 'end': 441, 'label': 'NAME'} in file Ardian_Interview138.json
+TP entity: {'begin': 442, 'end': 454, 'label': 'NAME'} with ground truth: {'begin': 443, 'end': 455, 'label': 'NAME'} in file Ardian_Interview138.json
+TP entity: {'begin': 642, 'end': 644, 'label': 'AGE'} with ground truth: {'begin': 645, 'end': 647, 'label': 'AGE'} in file Ardian_Interview138.json
+FP entity: {'begin': 1114, 'end': 1121, 'label': 'LOCATION'} with ground truth: None in file Ardian_Interview138.json
+FP entity: {'begin': 1514, 'end': 1531, 'label': 'CONTACT'} with ground truth: None in file Ardian_Interview138.json
+FN entity: {'begin': 691, 'end': 693, 'label': 'AGE'} in file Ardian_Interview138.json
+FN entity: {'begin': 900, 'end': 915, 'label': 'PROFESSION'} in file Ardian_Interview138.json
+FN entity: {'begin': 1121, 'end': 1128, 'label': 'LOCATION'} in file Ardian_Interview138.json
+FN entity: {'begin': 1139, 'end': 1147, 'label': 'LOCATION'} in file Ardian_Interview138.json
+FN entity: {'begin': 1376, 'end': 1398, 'label': 'CONTACT'} in file Ardian_Interview138.json
+FN entity: {'begin': 1523, 'end': 1540, 'label': 'CONTACT'} in file Ardian_Interview138.json
+Correct entities: 5 in file Ardian_Interview138.json
+False positive entities: 2 in file Ardian_Interview138.json
+Missed entities: 6 in file Ardian_Interview138.json
+----------------- File: Ardian_Interview1314.json --------------------------------------------------------------
+TP entity: {'begin': 29, 'end': 35, 'label': 'NAME'} with ground truth: {'begin': 29, 'end': 35, 'label': 'NAME'} in file Ardian_Interview1314.json
+TP entity: {'begin': 50, 'end': 61, 'label': 'NAME'} with ground truth: {'begin': 50, 'end': 61, 'label': 'NAME'} in file Ardian_Interview1314.json
+FP entity: {'begin': 170, 'end': 186, 'label': 'DATE'} with ground truth: None in file Ardian_Interview1314.json
+FP entity: {'begin': 307, 'end': 313, 'label': 'DATE'} with ground truth: None in file Ardian_Interview1314.json
+TP entity: {'begin': 357, 'end': 359, 'label': 'AGE'} with ground truth: {'begin': 358, 'end': 360, 'label': 'AGE'} in file Ardian_Interview1314.json
+FP entity: {'begin': 374, 'end': 381, 'label': 'DATE'} with ground truth: None in file Ardian_Interview1314.json
+TP entity: {'begin': 499, 'end': 515, 'label': 'NAME'} with ground truth: {'begin': 500, 'end': 516, 'label': 'NAME'} in file Ardian_Interview1314.json
+FP entity: {'begin': 873, 'end': 891, 'label': 'LOCATION'} with ground truth: None in file Ardian_Interview1314.json
+TP entity: {'begin': 1214, 'end': 1230, 'label': 'NAME'} with ground truth: {'begin': 1218, 'end': 1234, 'label': 'NAME'} in file Ardian_Interview1314.json
+FN entity: {'begin': 145, 'end': 151, 'label': 'NAME_TITLE'} in file Ardian_Interview1314.json
+FN entity: {'begin': 464, 'end': 482, 'label': 'LOCATION'} in file Ardian_Interview1314.json
+FN entity: {'begin': 782, 'end': 788, 'label': 'PROFESSION'} in file Ardian_Interview1314.json
+FN entity: {'begin': 1140, 'end': 1152, 'label': 'ID'} in file Ardian_Interview1314.json
+FN entity: {'begin': 1126, 'end': 1132, 'label': 'LOCATION'} in file Ardian_Interview1314.json
+FN entity: {'begin': 1387, 'end': 1393, 'label': 'LOCATION'} in file Ardian_Interview1314.json
+Correct entities: 5 in file Ardian_Interview1314.json
+False positive entities: 4 in file Ardian_Interview1314.json
+Missed entities: 6 in file Ardian_Interview1314.json
+----------------- File: Ardian_Interview134.json --------------------------------------------------------------
+TP entity: {'begin': 32, 'end': 41, 'label': 'NAME'} with ground truth: {'begin': 32, 'end': 41, 'label': 'NAME'} in file Ardian_Interview134.json
+TP entity: {'begin': 199, 'end': 206, 'label': 'DATE'} with ground truth: {'begin': 200, 'end': 207, 'label': 'DATE'} in file Ardian_Interview134.json
+TP entity: {'begin': 310, 'end': 312, 'label': 'AGE'} with ground truth: {'begin': 313, 'end': 315, 'label': 'AGE'} in file Ardian_Interview134.json
+TP entity: {'begin': 544, 'end': 550, 'label': 'NAME'} with ground truth: {'begin': 549, 'end': 555, 'label': 'NAME'} in file Ardian_Interview134.json
+TP entity: {'begin': 590, 'end': 607, 'label': 'LOCATION'} with ground truth: {'begin': 595, 'end': 612, 'label': 'LOCATION'} in file Ardian_Interview134.json
+TP entity: {'begin': 614, 'end': 627, 'label': 'LOCATION'} with ground truth: {'begin': 619, 'end': 632, 'label': 'LOCATION'} in file Ardian_Interview134.json
+FP entity: {'begin': 925, 'end': 932, 'label': 'LOCATION'} with ground truth: None in file Ardian_Interview134.json
+FP entity: {'begin': 1225, 'end': 1237, 'label': 'ID'} with ground truth: None in file Ardian_Interview134.json
+FN entity: {'begin': 396, 'end': 398, 'label': 'AGE'} in file Ardian_Interview134.json
+FN entity: {'begin': 940, 'end': 944, 'label': 'LOCATION'} in file Ardian_Interview134.json
+FN entity: {'begin': 920, 'end': 922, 'label': 'AGE'} in file Ardian_Interview134.json
+FN entity: {'begin': 940, 'end': 944, 'label': 'LOCATION'} in file Ardian_Interview134.json
+FN entity: {'begin': 1234, 'end': 1246, 'label': 'CONTACT'} in file Ardian_Interview134.json
+FN entity: {'begin': 1262, 'end': 1286, 'label': 'CONTACT'} in file Ardian_Interview134.json
+FN entity: {'begin': 1318, 'end': 1337, 'label': 'CONTACT'} in file Ardian_Interview134.json
+Correct entities: 6 in file Ardian_Interview134.json
+False positive entities: 2 in file Ardian_Interview134.json
+Missed entities: 7 in file Ardian_Interview134.json
+
+
+Final Results
+=============
+Accuracy: 55.00000000000001%

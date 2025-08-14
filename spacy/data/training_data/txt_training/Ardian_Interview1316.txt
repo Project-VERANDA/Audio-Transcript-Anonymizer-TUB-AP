@@ -1,0 +1,11 @@
+SPEAKER_00:  Guten Morgen, Frau Lehmann. Schön, dass Sie da sind. Ihre Tochter Julia Lehmann hat uns gestern angerufen. Was genau führt Sie heute zu mir?
+SPEAKER_01: Guten Morgen. Ich habe sehr starke Magenkrämpfe. Also seit dem Neujahr 2025. Das ist, glaube ich, liegt am Silvesteressen.
+SPEAKER_00: Das ist ja schon einige Tage her. Wie alt sind Sie denn?
+SPEAKER_01:  Ich bin neuerdings 68 Jahre alt geworden. Danke. Und Sie wohnen noch in Ihrer Wohnung in Steglitz, richtig? Ja. Ich lebe dort allein. Mein Mann ist vor sechs Jahren gestorben. Aber meine Tochter Julia wohnt um die Ecke. Sie hilft mir mit den Einkaufen und wenn ich irgendwelche Briefe verteilen muss, dann auch mit der Post.
+SPEAKER_00: Und haben Sie sonst familiäre Unterstützung?
+SPEAKER_01:  Niemand sonst in der Nähe. Mein Sohn lebt in München und wir telefonieren regelmäßig. Sein Enkel sind 8 und 11 und ich bekomme manchmal Bilder per E-Mail. Das sind Dinge, die mich durch den Alltag bringen, wissen Sie?
+SPEAKER_00: Schön zu hören. Und was haben Sie beruflich gemacht?
+SPEAKER_01:  Ich war bis vor drei Jahren Grundschullehrerin. Jetzt mache ich viel im Garten und lese eigentlich viel.
+SPEAKER_00: Ach ja. Ich würde gerne Ihre Bankverbindung prüfen, damit wir die Rückerstattung vom letzten Mal korrekt überweisen können. Ist Ihre E-Bahn noch DE 89 370 4 00 44 05 32 01 30 00
+SPEAKER_01:  Ja, ich glaube das ist noch, die ist noch gültig. Ja, das ist die. Nur die Bank hat sich geändert. Ich bin jetzt bei der Berliner Sparkasse. Ich glaube, ich glaube die Nummer passt. Und Ihre Tochter hat noch Zugriff auf Ihr Konto? Ja, sie hat eine Vollmacht. Ihre Kontoverbindung habt sie mir hier aufgeschrieben. Die ist de  7 8 1005 0 0 0 0 0 1 9 0 1 2 3 4 5 6 Falls etwas über sie laufen muss.
+SPEAKER_00: Alles klar, ich trage das in die Akte ein. Jetzt machen wir mal in Ruhe die Untersuchung. Danach wird sich schon ergeben, ob wir weitere Schritte nötig sind.

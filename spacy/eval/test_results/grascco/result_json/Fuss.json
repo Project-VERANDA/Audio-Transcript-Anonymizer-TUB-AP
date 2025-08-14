@@ -1,0 +1,147 @@
+[
+{
+    "begin": 98,
+    "end": 107,
+    "label": "NAME_TITLE"
+},{
+    "begin": 108,
+    "end": 119,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 142,
+    "end": 154,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 156,
+    "end": 161,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 162,
+    "end": 174,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 219,
+    "end": 232,
+    "label": "NAME_TITLE"
+},{
+    "begin": 233,
+    "end": 253,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 424,
+    "end": 434,
+    "label": "DATE"
+},{
+    "begin": 458,
+    "end": 470,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 480,
+    "end": 490,
+    "label": "DATE"
+},{
+    "begin": 495,
+    "end": 505,
+    "label": "DATE"
+},{
+    "begin": 660,
+    "end": 670,
+    "label": "DATE"
+},{
+    "begin": 1239,
+    "end": 1249,
+    "label": "DATE"
+},{
+    "begin": 1303,
+    "end": 1313,
+    "label": "DATE"
+},{
+    "begin": 1350,
+    "end": 1360,
+    "label": "DATE"
+},{
+    "begin": 4381,
+    "end": 4391,
+    "label": "DATE"
+},{
+    "begin": 4456,
+    "end": 4466,
+    "label": "DATE"
+},{
+    "begin": 4531,
+    "end": 4561,
+    "label": "DATE"
+},{
+    "begin": 4640,
+    "end": 4647,
+    "label": "ID"
+},{
+    "begin": 4671,
+    "end": 4681,
+    "label": "DATE"
+},{
+    "begin": 4841,
+    "end": 4851,
+    "label": "DATE"
+},{
+    "begin": 4953,
+    "end": 4956,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 4986,
+    "end": 4996,
+    "label": "DATE"
+},{
+    "begin": 5165,
+    "end": 5188,
+    "label": "DATE"
+},{
+    "begin": 5295,
+    "end": 5300,
+    "label": "ID"
+},{
+    "begin": 5789,
+    "end": 5799,
+    "label": "DATE"
+},{
+    "begin": 5861,
+    "end": 5871,
+    "label": "DATE"
+},{
+    "begin": 5993,
+    "end": 6003,
+    "label": "DATE"
+},{
+    "begin": 6998,
+    "end": 7008,
+    "label": "DATE"
+},{
+    "begin": 7322,
+    "end": 7332,
+    "label": "DATE"
+},{
+    "begin": 9435,
+    "end": 9445,
+    "label": "DATE"
+},{
+    "begin": 9712,
+    "end": 9726,
+    "label": "NAME_TITLE"
+},{
+    "begin": 9727,
+    "end": 9736,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 9758,
+    "end": 9766,
+    "label": "NAME_TITLE"
+},{
+    "begin": 9767,
+    "end": 9776,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 9801,
+    "end": 9811,
+    "label": "NAME_DOCTOR"
+}
+]

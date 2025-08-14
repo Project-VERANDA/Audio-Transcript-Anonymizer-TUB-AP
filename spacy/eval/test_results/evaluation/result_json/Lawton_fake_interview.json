@@ -1,0 +1,63 @@
+[
+{
+    "begin": 24,
+    "end": 38,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 63,
+    "end": 74,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 380,
+    "end": 385,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 386,
+    "end": 395,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 646,
+    "end": 651,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 653,
+    "end": 666,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 828,
+    "end": 829,
+    "label": "AGE"
+},{
+    "begin": 891,
+    "end": 895,
+    "label": "DATE"
+},{
+    "begin": 1065,
+    "end": 1076,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 1080,
+    "end": 1090,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 1153,
+    "end": 1163,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 1620,
+    "end": 1637,
+    "label": "AGE"
+},{
+    "begin": 1933,
+    "end": 1938,
+    "label": "NAME_OTHER"
+},{
+    "begin": 2125,
+    "end": 2139,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 2718,
+    "end": 2730,
+    "label": "NAME_PATIENT"
+}
+]

@@ -1,0 +1,11 @@
+SPEAKER_00:  Guten Morgen, Herr Müller. Schön, dass Sie heute schon da sind. Wie geht es Ihnen denn?
+SPEAKER_01: Nicht gut, ehrlich gesagt. Seit dem 14. Mai habe ich starke Schmerzen im unteren Rücken. Ich bin an dem Tag beim Bücken nach einem Wasserkasten ins Ziehen gekommen.
+SPEAKER_00: Ach so, aber Sie wohnen schon noch in der Lindestraße in Potsdam-Babelsberg, richtig?
+SPEAKER_01:  Ja, genau. Allein, wie seit dem Tod meiner Frau. Mein Sohn Thomas Müller, auch hier beim Arzt, wohnt zwei Straßen weiter. Nähe 14482. Er schaut regelmäßig bei mir vorbei, um zu schauen, wie es mir geht. Wie alt sind Sie denn schon? Ich bin seit Februar 90 Jahre alt geworden. Ich habe die Grenze geknackt.
+SPEAKER_00:  Ach so, verstehe. Das Alter spielt bei Rückenschmerzen eine wichtige Rolle. Hatten Sie vorher schon Probleme in dem Bereich?
+SPEAKER_01: Früher nicht. Ich war Berufsleiter für Elektrotechnik. Ich habe mich immer viel bewegt, auch in der Werkstatt. Aber seitdem ich in Rente bin, mache ich kaum noch Sport. Ab und zu Spaziergänge, wenn überhaupt.
+SPEAKER_00: Und Ihre Tochter, Frau Schmidt, begleitet Sie gelegentlich, oder?
+SPEAKER_01:  Ja, sie hat mich letzte Woche Mai hergebracht. Sie lebt mit ihren zwei Kindern in der Nähe. Die Kleine ist sieben und die Große ist vierzehn. Die sind sehr viel in Bewegung, nicht so wie ich.
+SPEAKER_00: Das ist doch schön, das klingt nach einem aktiven Familienumfeld. Haben Sie weitere Vorerkrankungen, etwa Bluthochdruck oder Diabetes?
+SPEAKER_01:  Ich nehme Tabletten wegen des Blutdrucks, aber sonst nichts. Keine Operation, keine Vorstrafen. Ich habe mein Leben immer ruhig und ordentlich gehalten.
+SPEAKER_00: Gut, das dokumentiere ich mal so. Wegen Ihrer Beschwerden würde ich Sie gerne zum Röntgenzentrum Friedrichstraße überweisen. Wir wollen sicherstellen, dass nichts an den Bandscheiben ist.

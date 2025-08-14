@@ -1,0 +1,24 @@
+SPEAKER_00:  Guten Nachmittag. Wie hast du dich seit unserer letzten Sitzung am 25. April gefühlt?
+SPEAKER_01: Hallo, Herr Müller. Es war ehrlich gesagt eine Auf und Ab. Ich dachte, der Umzug nach Berlin würde mir helfen, aber ich tue mich immer noch schwer, mich anzupassen.
+SPEAKER_00: Das ist verständlich, Sarah. Du bist ja erst vor etwa drei Wochen umgezogen, richtig?
+SPEAKER_01:  Ja, am 19. April. Es ist eine ruhige Gegend, was ich schätze. Aber ich vermisse München. Alles, von dem Kaffee in der Nähe des Campus bis hin dazu, einfach zufällig Leute zu treffen, die man kennt. 
+SPEAKER_00: Ich kann verstehen, wie sich dieser Wechsel isolierend anfühlen kann. Hast du noch Kontakt zu deinen Uni-Freunden?
+SPEAKER_01: Einigen. Emma und ich schreiben hin und wieder. Sie war meine Mitwohnerin in München, aber sie ist jetzt beschäftigt mit ihrem Praktikum in Hamburg. Ich versuche immer noch, hier neue Kontakte zu knüpfen.
+SPEAKER_00: Hattest du mit deinem Job schon Gelegenheiten, dich zu integrieren? 
+SPEAKER_01: Ein wenig. Der Beginn im St. Vincent Krankenhaus war überwältigend. Das Tempo ist so anders als in der studentischen Gesundheitsklinik, in der ich früher gearbeitet habe.  Ich bin erst seit dem 1. Mai dort.
+SPEAKER_00: Das kann ich mir vorstellen. Fühlst du dich von deinen Kollegen oder deinen Vorgesetzten unterstützt?
+SPEAKER_01: Meine Vorgesetzte Carla ist hilfsbereit, wenn ich Fragen stelle. Aber ich möchte nicht den Eindruck erwecken, dass ich nicht weiß, was ich tue. Ich mache mir während der Schicht Notizen auf meinem Handy. Übrigens, ich habe mein Handy gewechselt. Meine Neunummer ist 030-555-8234, falls du sie brauchst.
+SPEAKER_00: Danke, ich werde sie in deinen Unterlagen aktualisieren. Hast du immer noch die gleiche Versicherung über Barmer?
+SPEAKER_01: Ja, die Nummer lautet 084721093. Ich musste eine Kopie einreichen, als ich letzte Woche in der Notaufnahme war. Ich dachte, ich hätte einen Panikanfall. Das ist am 6. Mai nach der Arbeit passiert. Ich war in der Notaufnahme der Charité in der Nähe der Friedrichstraße. 
+SPEAKER_00: Das klingt beängstigend. Hat der Arzt dir dort irgendwelche Ressourcen oder Empfehlungen gegeben?
+SPEAKER_01: Sie gaben mir eine Broschüre zu Atemtechniken und empfahlen, regelmäßig jemanden zu sehen. Daraufhin habe ich in deiner Praxis angerufen. Deine Empfangsdame Tracy war wirklich nett. Sie hat mir sogar geholfen, den richtigen Bus von meiner Wohnung zu finden.
+SPEAKER_00: Es freut mich, dass sie dir weiterhelfen konnte. Hast du inzwischen bestimmte Auslöser erkannt?
+SPEAKER_01: Einige. Die Kantine im Krankenhaus ist immer so voll und laut. Es fühlt sich an, als ob ich keine Luft mehr bekomme. Außerdem hilft es nicht, dass ich jetzt alleine in meiner Wohnung bin. Mein Bruder Erik ist im März nach Frankfurt zurückgezogen und Luna, mein Hund, ist jetzt meine einzige Gesellschaft.
+SPEAKER_00: Tiere können eine großartige Quelle emotionaler Unterstützung sein. Wie alt ist Luna jetzt?
+SPEAKER_01: Sie wurde am 11. März drei Jahre alt. Ich habe sie während meines zweiten Studienjahres adoptiert. Sie ist ein Tierheimhund und hat mir durch einige wirklich dunkle Zeiten geholfen. Ich überlege, sie als emotionalen Begleithund registrieren zu lassen.
+SPEAKER_00: Das könnte ein sinnvoller Schritt sein. Ich kann dir gerne helfen, dich durch den Prozess zu navigieren, wenn du möchtest. Hast du immer noch die Voicemail deines Vaters gespeichert? Du hast beim letzten Mal erwähnt, dass sie dir Trost spendet.
+SPEAKER_01: Ja, ich habe sie auf mein neues Handy übertragen, als ich es gewechselt habe. Es ist eine Nachricht von kurz bevor er 2022 gestorben ist. Er sagt, ich bin stolz auf dich, Liebling. Ich höre sie mir an, wenn ich mich überfordert fühle. Der Todestag rückt näher, am 19. Mai. Zu dieser Zeit fällt es mir immer schwerer.
+SPEAKER_00: Es tut mir sehr leid, Sarah. Es ist völlig normal, dass du diesen Schmerz spürst. Hast du für diesen Tag schon Pläne?
+SPEAKER_01: Ich habe frei, also werde ich wohl in den Park gehen, den wir früher immer zusammen besucht haben, den Tiergarten. Vielleicht nehme ich Luna mit. Ich möchte einfach irgendwo ruhig sein.
+SPEAKER_00: Das klingt nach einer schönen Möglichkeit, ihm zu gedenken. Nur zur Erinnerung, deine nächste Sitzung ist ebenfalls für den 19. Mai um 14.30 Uhr geplant. Passt dir dieser Termin noch?
+SPEAKER_01: Ja, das passt. Ich komme nach dem Park vorbei. Vielleicht bringe ich Luna mit, wenn das in Ordnung ist. Natürlich sie ist jederzeit willkommen. Und falls du in der Zwischenzeit etwas auf dem Herzen hast, zögere nicht, dich zu melden. Wir sind hier, um dich zu unterstützen.

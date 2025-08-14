@@ -1,0 +1,83 @@
+[
+{
+    "begin": 24,
+    "end": 34,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 59,
+    "end": 69,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 455,
+    "end": 475,
+    "label": "LOCATION_STREET"
+},{
+    "begin": 476,
+    "end": 483,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 507,
+    "end": 521,
+    "label": "LOCATION_STREET"
+},{
+    "begin": 528,
+    "end": 535,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 737,
+    "end": 742,
+    "label": "NAME_OTHER"
+},{
+    "begin": 774,
+    "end": 800,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 897,
+    "end": 903,
+    "label": "LOCATION_ORGANIZATION"
+},{
+    "begin": 925,
+    "end": 934,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 1006,
+    "end": 1011,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 1012,
+    "end": 1017,
+    "label": "ID"
+},{
+    "begin": 1090,
+    "end": 1094,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 1280,
+    "end": 1289,
+    "label": "DATE"
+},{
+    "begin": 1290,
+    "end": 1300,
+    "label": "DATE"
+},{
+    "begin": 1428,
+    "end": 1435,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 1735,
+    "end": 1767,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 1800,
+    "end": 1813,
+    "label": "CONTACT_PHONE"
+},{
+    "begin": 1928,
+    "end": 1939,
+    "label": "ID"
+},{
+    "begin": 1953,
+    "end": 1963,
+    "label": "NAME_DOCTOR"
+}
+]

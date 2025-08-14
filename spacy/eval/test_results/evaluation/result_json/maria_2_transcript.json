@@ -1,0 +1,43 @@
+[
+{
+    "begin": 27,
+    "end": 38,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 269,
+    "end": 287,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 299,
+    "end": 328,
+    "label": "DATE"
+},{
+    "begin": 348,
+    "end": 367,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 386,
+    "end": 393,
+    "label": "DATE"
+},{
+    "begin": 449,
+    "end": 456,
+    "label": "DATE"
+},{
+    "begin": 3957,
+    "end": 3968,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 4003,
+    "end": 4020,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 4038,
+    "end": 4049,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 4129,
+    "end": 4140,
+    "label": "CONTACT_PHONE"
+}
+]

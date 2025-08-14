@@ -1,0 +1,27 @@
+[
+{
+    "begin": 157,
+    "end": 171,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 631,
+    "end": 645,
+    "label": "ID"
+},{
+    "begin": 963,
+    "end": 970,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 1091,
+    "end": 1111,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 2475,
+    "end": 2489,
+    "label": "ID"
+},{
+    "begin": 2837,
+    "end": 2843,
+    "label": "NAME_OTHER"
+}
+]
