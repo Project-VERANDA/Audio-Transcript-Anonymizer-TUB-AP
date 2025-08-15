@@ -1,0 +1,29 @@
+SPEAKER_01:  Hallo, guten Tag Herr Stein. Ja, guten Tag, hallo. Wie geht's Ihnen? Mir geht's ganz gut heute. Vielen Dank, dass es doch noch so kurzfristig geklappt hat.
+SPEAKER_00: Ich hatte mir schon Sorgen gemacht, das ist jetzt nicht mehr. Ich hatte jetzt ein paar Fragen für Sie. Erstmal, wie ist Ihr vollständiger Name?
+SPEAKER_01: Mein vollständiger Name ist Lukas Stein.  Können Sie mir bitte Ihre vollständige Adresse geben? Klar, ich bin im Mühlenweg 7, 97789 Oberleichterbach. Das ist ein kleines Dorf.  Wann sind Sie geboren? Am 2. August 1997, also bin ich jetzt stolze 27 Jahre alt. Ein bisschen Angst habe ich vor der 30, aber wir werden sehen.
+SPEAKER_00: Das ist gut, schon jung. Gab es in letzter Zeit Krankenhaushaltsabenteuer, zum Beispiel Einweisungen oder Entlastungen? Bis dato keine.  Und unter welchen Telefonnummer erreichen wir Sie am besten?
+SPEAKER_01: Genau, am besten per Handy, weil Festnetz besitzen ja nur alte Leute. Die wäre 0151 7845 1296. Ich bin eigentlich immer erreichbar oder schreiben Sie mir eben per WhatsApp, obwohl das geht wahrscheinlich gegen Patient- und Doktor-Relations.
+SPEAKER_00: Wir rufen Sie an. Alles klar, vielen Dank. Kommen Sie mit dem Auto zu uns? Wenn ja, können Sie mir bitte Ihr Kennzeichen nennen?
+SPEAKER_01: Ja genau, ich bin mit dem Auto hier.  das Auto auch manchmal, falls das mal verwirrend ist.
+SPEAKER_00: Haben Sie eventuell eine Faxnummer, weil wir die mit ziemlich hohen Unterlagen senden?
+SPEAKER_01:  Nein, sowas habe ich nicht. Das ist doch 90er Jahre. E-Mail oder PDF reicht völlig. Das ist vollkommen veraltet. Und wenn, dann würde ich es Ihnen sowieso nicht geben.
+SPEAKER_00: Okay, und dann wie lautet Ihr E-Mailadresse?
+SPEAKER_01: Ja genau, meine E-Mail wäre lukas.stein97 at gmail.com. Die nutze ich auch für meine Krankenkasse und Ärztetermine. Also sollte gar kein Problem sein.
+SPEAKER_00:  Welche Geräte?
+SPEAKER_01: Zum Beispiel einen Herzschrittmacher? Ich habe so ein kontinuierliches Blutzuckermessgerät. Ich bin Typ 1 Diabetiker. Das Ding hat eine Seriennummer, die steht in der App einen Augenblick. Ja genau, hier habe ich es. cgm-9931lt-b. Okay.
+SPEAKER_00: Und nutzen Sie ein Online-Gesundheitsportal oder eine App?
+SPEAKER_01:  Ah ja, genau. Ich benutze DrLib. Kennen Sie bestimmt. Das ist super ganz einfach, um irgendwie Termine zu vereinbaren. Vor allem bei meiner Hausarztpraxis. Und für Rezepte und Überweisungen macht das alles digital. Und mein Username ist ganz ähnlich wie meine E-Mail, nämlich lukasstein97.
+SPEAKER_00:  Dürfen wir Ihre Sozialversicherungsnummer erfassen?
+SPEAKER_01: Ja, natürlich. Die ist 1079 23481. Die steht aber auch auf meiner elektronischen Gesundheitskarte.
+SPEAKER_00:  Und wenn Sie unsere Online-Dienste nutzen, wird Ihre IP-Adresse zu Sicherheitszwecken automatisch gespeichert. Ist das für Sie in Ordnung?
+SPEAKER_01: Das würde ich tatsächlich sehr ungern machen. Ich versuche mich immer irgendwie möglichst gediegen im World Wide Web aufzuhalten.
+SPEAKER_00: Okay, verstanden. Haben Sie schon einmal eine Patienten-ID oder medizinische Aktennummer bei uns erhalten? Genau, ich glaube, ich habe  Bestätigung. Und würden Sie damit einfächern, wenn wir zur Identifikation zum Beispiel jetzt Stimme aufzeichnen oder Fingerabzüge nutzen, falls das in Zukunft notwendig sein sollte?
+SPEAKER_01: Nein, lieber nicht, weil ich lege wirklich einen sehr großen Stellenwert darauf, irgendwie alleine im Web, ohne irgendwelche Leute, die mir dabei zugucken, was ich mache. Ich gebe auch mittlerweile für so einen Service, ich weiß nicht, ob Sie den kennen, Incogni, um quasi da sicher zu gehen,
+SPEAKER_00:  Bitte nicht. Okay, verstanden. Und wie heißt Ihre Krankenkasse und hätten Sie Ihre Versicherungsnummer im Griff bereit?
+SPEAKER_01: Ja, genau. Ich bin bei der AOK Bayern. Für mich persönlich die beste Wahl. Und die Nummer ist 8471593682. Okay, dann dürfen wir ein Foto von Ihnen machen, damit wir Sie bei Termin leichter erkennen können.
+SPEAKER_00: Wieder auch da muss ich leider sagen nein, das ist mir  Okay, alles gut. Und gibt es eine Abrechnungsnummer oder Patientenerkennung von frühen Besuchen, die wir zuordnen sollten?
+SPEAKER_01: Ja, die glaube ich hieß PAT-LS-2025-0510. Die stand mal auf so einer Arztabrechnung für die Krankenkasse.
+SPEAKER_00:  Okay, und gibt es sonst eine besondere ID, zum Beispiel von einer Studie oder einem Pflegeprogramm?
+SPEAKER_01: Ja, genau. Ich kriege dafür sogar Geld. Ich bin bei einer digitalen Diabetes-Studie dabei, über so eine Uni-Plattform. Mein Code ist da.
+SPEAKER_00:  Okay, und am letzten besitzen sie bestimmte Bescheinigungen oder Ausweise, die für ihre Behandlung wichtig sind, zum Beispiel einen Schwerbehindertenausweis oder eine Pflegebescheinigung?
+SPEAKER_01: Ja genau, ich habe einen Ausweis wegen chronischer Erkrankung mit Merkkennzeichen RF wegen Diabetes halt, damit kriege ich Erleichterung beim GEZ und so. Okay, verstanden. Dankeschön. Alles klar, vielen, vielen Dank.

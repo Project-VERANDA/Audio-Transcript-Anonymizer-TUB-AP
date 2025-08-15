@@ -1,0 +1,90 @@
+#0	Lawton_fake_interview SPEAKER_01:  Guten Tag, Frau Grunewald. SPEAKER_00: Guten Tag, Herr Bowman. Danke, dass Sie mich eingeladen haben. SPEAKER_01: Danke, dass du hier bist. Das freut mich sehr. Ich wollte heute dich über deine Kindheit fragen. Wir können einfach reinspringen. Wo wurdest du geboren und wie waren deine Eltern? SPEAKER_00: Ich bin geboren in Sieglar in der Gartenhäuschenstraße 95 in 15837 Sieglar. SPEAKER_01: Schön. SPEAKER_00:  Genau, und ich bin da mit meiner Mutter und meinem Vater und meiner Schwester aufgewachsen. SPEAKER_01: Wie hießen die? SPEAKER_00: Genau, meine Schwester heißt Valeria, meine Mutter heißt Brigitte und mein Vater heißt Anton. Und wir haben alle zusammen da gewohnt. SPEAKER_01: Und so wie alt waren deine Eltern damals? SPEAKER_00:  Meine Eltern sind beide 1968 geboren. Das heißt, meine Mutter war 30, als sie mich bekommen hat. Das war 1997. SPEAKER_01: Ah, ok. 1997 bist du geboren. Stimmt. Gut. Und bist du in die Schule da gegangen oder bist du dann... Genau. SPEAKER_00: Ich bin auf das Allee-Straßen-Gymnasium gegangen. Das war im Nachbardorf in Oberhausen. SPEAKER_01:  Ah Oberhausen, davon habe ich gehört, ja. Okay, Oberhausen. Und nach der Schule bist du dann in die Uni gegangen? SPEAKER_00: Genau, ich habe dann die Universität Aachen besucht. SPEAKER_01:  Okay, und was hast du dann studiert? RWTH Aachen. RWTH, ja stimmt. SPEAKER_00: Genau, und da habe ich Maschinenbau studiert. SPEAKER_01: Maschinenbau, okay. SPEAKER_00: Das war schon ein schwerer Studiengang, aber ich hatte zum Glück drei gute Freundinnen, mit denen ich zusammen viel gelernt habe. Die Angelika, die Doris und die Patricia. SPEAKER_01:  Ah ja, okay, okay, okay. Und sorry, ich habe die Frage ein bisschen verloren in deinem Lebenslauf gerade, aber so hattest du so... Wann hattest du zum ersten Mal dein erstes Handy? SPEAKER_00:  Mein erstes Handy, das ich in der fünften Klasse hatte, war ein Nokia-Handy. Mein Vater Anton hatte mir das geschenkt. SPEAKER_01: Kannst du dich noch erinnern, welche Nummer du hattest? Ist es dieselbe Nummer wie heute? SPEAKER_00: Die Nummer habe ich nie vergessen. Das war die 0172538879721. Die Nummer meines ersten Nokia-Handys. SPEAKER_01: Alles klar. SPEAKER_00:  Das habe ich glaube ich 2005 bekommen. SPEAKER_01: Also danke, dass du dieses Interview mit uns geführt hast. Was ich noch fragen muss, weil du Mitglied unserer Geschichte Gesellschaft e.V. bist. Wir müssen so deine Mitgliedsnummer, also nach deinem Mitgliedsnummer fragen. SPEAKER_00: Ah ja, ich hole mal kurz meinen Mitgliedsausweis raus. Ich bin Mitglied 203-458-E. SPEAKER_01:  Genau, das sehe ich auch hier. Super. Okay, vielen Dank Frau Grunewald und einen schönen Abend. SPEAKER_00: Ihnen auch, Herr Bohmann.
+#1	SPEAKER_01:  Guten Tag, Frau Grunewald.
+T1	LABEL 24 38	Frau Grunewald
+#2	SPEAKER_00: Guten Tag, Herr Bowman.
+T2	LABEL 63 74	Herr Bowman
+#3	Danke, dass Sie mich eingeladen haben.
+#4	SPEAKER_01: Danke, dass du hier bist.
+#5	Das freut mich sehr.
+#6	Ich wollte heute dich über deine Kindheit fragen.
+#7	Wir können einfach reinspringen.
+#8	Wo wurdest du geboren und wie waren deine Eltern?
+#9	SPEAKER_00: Ich bin geboren in Sieglar in der Gartenhäuschenstraße 95 in 15837 Sieglar.
+T3	LABEL 338 345	Sieglar
+T4	LABEL 353 376	Gartenhäuschenstraße 95
+T5	LABEL 380 385	15837
+T6	LABEL 386 393	Sieglar
+#10	SPEAKER_01: Schön.
+#11	SPEAKER_00:  Genau, und ich bin da mit meiner Mutter und meinem Vater und meiner Schwester aufgewachsen.
+#12	SPEAKER_01: Wie hießen die?
+#13	SPEAKER_00: Genau, meine Schwester heißt Valeria, meine Mutter heißt Brigitte und mein Vater heißt Anton.
+T7	LABEL 588 595	Valeria
+T8	LABEL 616 624	Brigitte
+T9	LABEL 646 651	Anton
+#14	Und wir haben alle zusammen da gewohnt.
+#15	SPEAKER_01: Und so wie alt waren deine Eltern damals?
+#16	SPEAKER_00:  Meine Eltern sind beide 1968 geboren.
+T10	LABEL 784 788	1968
+#17	Das heißt, meine Mutter war 30, als sie mich bekommen hat.
+T11	LABEL 826 828	30
+#18	Das war 1997.
+T12	LABEL 865 869	1997
+#19	SPEAKER_01: Ah, ok. 1997 bist du geboren.
+T13	LABEL 891 895	1997
+#20	Stimmt.
+#21	Gut.
+#22	Und bist du in die Schule da gegangen oder bist du dann...
+#23	Genau.
+#24	SPEAKER_00: Ich bin auf das Allee-Straßen-Gymnasium gegangen.
+T14	LABEL 1020 1043	Allee-Straßen-Gymnasium
+#25	Das war im Nachbardorf in Oberhausen.
+T15	LABEL 1080 1090	Oberhausen
+#26	SPEAKER_01:  Ah Oberhausen, davon habe ich gehört, ja.
+T16	LABEL 1108 1118	Oberhausen
+#27	Okay, Oberhausen.
+T17	LABEL 1153 1163	Oberhausen
+#28	Und nach der Schule bist du dann in die Uni gegangen?
+#29	SPEAKER_00: Genau, ich habe dann die Universität Aachen besucht.
+T18	LABEL 1256 1274	Universität Aachen
+#30	SPEAKER_01:  Okay, und was hast du dann studiert?
+#31	RWTH Aachen.
+T19	LABEL 1334 1345	RWTH Aachen
+#32	RWTH, ja stimmt.
+T20	LABEL 1347 1351	RWTH
+#33	SPEAKER_00: Genau, und da habe ich Maschinenbau studiert.
+T21	LABEL 1399 1411	Maschinenbau
+#34	SPEAKER_01: Maschinenbau, okay.
+T22	LABEL 1434 1446	Maschinenbau
+#35	SPEAKER_00: Das war schon ein schwerer Studiengang, aber ich hatte zum Glück drei gute Freundinnen, mit denen ich zusammen viel gelernt habe.
+#36	Die Angelika, die Doris und die Patricia.
+T23	LABEL 1600 1608	Angelika
+T24	LABEL 1614 1619	Doris
+T25	LABEL 1628 1636	Patricia
+#37	SPEAKER_01:  Ah ja, okay, okay, okay.
+#38	Und sorry, ich habe die Frage ein bisschen verloren in deinem Lebenslauf gerade, aber so hattest du so...
+#39	Wann hattest du zum ersten Mal dein erstes Handy?
+#40	SPEAKER_00:  Mein erstes Handy, das ich in der fünften Klasse hatte, war ein Nokia-Handy.
+#41	Mein Vater Anton hatte mir das geschenkt.
+T26	LABEL 1933 1938	Anton
+#42	SPEAKER_01: Kannst du dich noch erinnern, welche Nummer du hattest?
+#43	Ist es dieselbe Nummer wie heute?
+#44	SPEAKER_00: Die Nummer habe ich nie vergessen.
+#45	Das war die 0172538879721.
+T27	LABEL 2125 2138	0172538879721
+#46	Die Nummer meines ersten Nokia-Handys.
+#47	SPEAKER_01: Alles klar.
+#48	SPEAKER_00:  Das habe ich glaube ich 2005 bekommen.
+T28	LABEL 2240 2244	2005
+#49	SPEAKER_01: Also danke, dass du dieses Interview mit uns geführt hast.
+#50	Was ich noch fragen muss, weil du Mitglied unserer Geschichte Gesellschaft e.V. bist.
+T29	LABEL 2377 2405	Geschichte Gesellschaft e.V.
+#51	Wir müssen so deine Mitgliedsnummer, also nach deinem Mitgliedsnummer fragen.
+#52	SPEAKER_00: Ah ja, ich hole mal kurz meinen Mitgliedsausweis raus.
+#53	Ich bin Mitglied 203-458-E.
+T30	LABEL 2574 2583	203-458-E
+#54	SPEAKER_01:  Genau, das sehe ich auch hier.
+#55	Super.
+#56	Okay, vielen Dank Frau Grunewald und einen schönen Abend.
+T31	LABEL 2654 2668	Frau Grunewald
+#57	SPEAKER_00: Ihnen auch, Herr Bohmann.
+T32	LABEL 2718 2730	Herr Bohmann

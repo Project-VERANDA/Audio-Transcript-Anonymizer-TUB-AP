@@ -1,0 +1,14 @@
+T1	LOCATION_HOSPITAL 0 20	UNIKLINIK DEPPENDORF
+T2	NAME_DOCTOR 125 168	Univ.-Prof. Dr.med. Klaus Kortmann Kawasaki
+T3	NAME_PATIENT 186 201	Mitsou, geb. am
+T4	DATE 218 230	Sehr geehrte
+T5	DATE 528 543	hamorrhag1scher
+T6	DATE 1706 1717	auf Rezidiv
+T7	DATE 1847 1869	messende Raumforderung
+T8	AGE 2125 2130	Pulmo
+T9	DATE 2431 2452	221.000/µl. Normwerte
+T10	DATE 2715 2725	im Verlauf
+T11	DATE 2806 2818	Knochenmark:
+T12	DATE 2879 2891	Nachweis von
+T13	DATE 3092 3109	Befund ausstehend
+T14	NAME_DOCTOR 4672 4710	Facharzt für Kinder- und Jugendmedizin

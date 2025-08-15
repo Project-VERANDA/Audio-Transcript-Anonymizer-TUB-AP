@@ -1,0 +1,9 @@
+SPEAKER_00:  Guten Morgen, Frau Keller. Schön, dass Sie heute da sind.
+SPEAKER_01: Wie geht es Ihnen denn? Mir geht es gar nicht gut. Ich fühle mich richtig schlapp. Seit Mitte Mai eigentlich. Ich habe Druck am Brustkorb, Kopfweh und bin echt sehr schnell erschöpft.
+SPEAKER_00: Okay, dann notiere ich Mitte Mai als Beginn. Wie alt sind Sie denn aktuell?
+SPEAKER_01: Ich bin 67 Jahre alt. Geburtstag war Anfang des Jahres.  Alles klar. Was machen Sie beruflich? Ich arbeite halbtags als Buchhalterin in einer kleinen Firma in Charlottenburg. Drei Tage im Büro, sonst Homeoffice. Das ist echt super. Die Belastung ist aber in letzter Zeit echt spürbar gestiegen. Sehr viel Aufwand.
+SPEAKER_00: Ach so, ich verstehe. Haben Sie familiäre Unterstützung?
+SPEAKER_01:  Ja, mein Sohn Martin Keller wohnt mit seiner Frau und den beiden Töchtern ganz in der Nähe. Der Große ist zwölf und die Kleine ist sieben. Ich hole sie oft von der Schule ab. Und wie sind Sie denn auf unsere Praxis aufmerksam geworden? Mein Enkel hat mit mir im Internet gesucht. Wir sind auf ihrer Webseite www.praxis.de  binde-doktor-klein.de gestoßen. Darüber haben wir auch dann einen Termin gemacht.
+SPEAKER_00: Gut, die Seite praxis-doktor-binde-doktor-klein.de ist genau für solche Fälle ausgelegt. Ich sende Ihnen nachher die Untersuchung gern einen Link zur digitalen Patienteninfo, wenn Sie möchten.
+SPEAKER_01:  Gern. Mein Sohn hilft mir dann beim Durchlesen. Er kennt sich mit sowas schon viel besser aus als ich. Internet ist nicht so meins.
+SPEAKER_00: Ich notiere das. Wir starten jetzt mit einer Untersuchung und einem EKG, um die Ursache für Ihre Beschwerden einzugrenzen.

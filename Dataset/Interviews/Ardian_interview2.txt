@@ -1,0 +1,16 @@
+SPEAKER_00:  Guten Tag, Herr Müller. Schön, dass Sie es heute trotz Ihrer Beschwerden zu mir geschafft haben. Wie geht es Ihnen denn im Moment?
+SPEAKER_01: Ehrlich gesagt, Herr Doktor, ziemlich mies. Ich fühle mich schlapp, habe Fieber und der Kopf brummt. Die letzten zwei Tage waren nicht sehr angenehm.
+SPEAKER_00: Das glaube ich Ihnen sofort. Wenn Sie sagen, dass der Kopf brummt, ist das ein Druckgefühl hinter der Stirn oder eher ein diffuser Schmerz?
+SPEAKER_01:  Ich bin nicht sicher. Eher diffus. Ich habe auch Schüttelfrost gehabt und meine Glieder tun etwas weh. Meine Frau meint, ich sehe aus wie ein Geist.
+SPEAKER_00: Dann scheint Ihre Frau Sie gut zu kennen. Aber wenn selbst die Angehörigen schon merken, dass etwas nicht stimmt, ist das oft ein Klarzeichen. Und der Schüttelfrost kam der Schubweise.
+SPEAKER_01:  Ja, genau. Erst war mir heiß, dann nicht, dann war mir kalt. Meine Tochter hat mir sogar eine Wärmeflasche dann vorbeigebracht.
+SPEAKER_00: Schön von deiner Tochter. Solche kleinen Gäste helfen oft mehr, als man denkt. Und wie sieht es mit Husten und Schnuppen aus? Hat die Partnerin irgendwas dazu gesagt?
+SPEAKER_01:  Also da muss meine Partnerin dazu nichts sagen, das sieht man ja offensichtlich. Also Schnupfen ist natürlich da, der Husten kam ein bisschen später, aber meine Partnerin meinte, ich soll zum Arzt gehen, damit ich Bescheid weiß und sie nicht anstecke.
+SPEAKER_00:  Ja, genau. Sie hatte dann recht. Ich kann das auch schon merken. Es ist gut, dass Sie auf deine PartnerInnen dann gehört haben. Ich nehme an, Sie arbeiten im Büro oder sind Sie derzeit im Homeoffice?
+SPEAKER_01: Ich war noch im Büro.  Meine Kollegin Frau Schneider hat mich gestern sogar gefragt, ... ... ob ich nicht besser im Bett bleiben sollte. Also wollte ich ab heute entweder zum Homeoffice gehen ... ... oder mich halt gleich komplett krank schreiben.
+SPEAKER_00: Ich sehe wohl wirklich mitgenommen aus. Und ... ... nur aus Neugier, für welche Firma arbeitest du?
+SPEAKER_01:  Also ich arbeite derzeit für Company Building GmbH und erstelle viele Protokolle und bin eigentlich ganz normaler Bürojobler in der Company Building GmbH.
+SPEAKER_00:  Ja, na gut, man kann sich immer in einer Brose einfach anstecken. Aber wenn Frau Schneider das sogar bemerkt hat, dann sprechen Symptome Bände. Ich schaue mir sie jetzt mal kurz an.  Also Herr Müller, Ihre Temperatur liegt bei 38 Grad, also 38,6 sogar. Die Rachenmandeln sind gerötet und die Lymphknoten leicht geschwollen. Das klingt ganz klassisch nach einer Influenza. Keine Sorge, Frau Müller hat Recht behalten, es ist nur die Grippe, aber die verlangt nach Ruhe.  Okay, was soll ich jetzt machen? Ich verordne Ihnen vor allem eines, Herr Müller. Geduld, viel Flüssigkeit, leichte Kost. Sie sollten auf jeden Fall Tee trinken und vor allem einfach in Ruhe bleiben. Ich schreibe Sie für die nächsten fünf Tage krank und sagen Sie Ihrer Frau, sie hatte recht, das tut ihr sicher gut.
+SPEAKER_01:  Okay, das erleichtert mich. Vielen Dank, Herr Weber.
+SPEAKER_00: Gute Besserung, Herr Müller. Grüßen Sie Frau Müller und ihr Torte von mir. Sie kümmern sich gut um Sie.
+SPEAKER_01: Dankeschön.

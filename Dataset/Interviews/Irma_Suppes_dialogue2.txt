@@ -1,0 +1,27 @@
+SPEAKER_00:  Guten Morgen, Frau Schubert. Herzlich willkommen in meiner Praxis. Ich sehe, das ist Ihr erster Besuch bei uns?
+SPEAKER_01: Ja, genau. Ich bin erst vor ein paar Wochen nach Wetzlar gezogen und suche jetzt eine neue Hausärztin.
+SPEAKER_00: Da sind Sie hier richtig. Ich nehme gern noch neue Patienten auf. Ich sehe, Sie haben den Anamnesebogen schon ausgefüllt. Danke dafür. Darf ich kurz alles abgleichen? Klar, gern.  Also, Carina Schubert, geboren am 3. Februar 1980, aktuell wohnhaft in der Brunnenstraße 18 35578 Wetzlar. Genau. Und Ihre Krankenversicherung ist die Techniker Krankenkasse, stimmt das? Ja, das ist korrekt. Gut, dann kommen wir zu Ihrem Anliegen. Sie haben in den Bogen geschrieben, dass Sie in letzter Zeit häufiger unter Kopfschmerzen leiden.
+SPEAKER_01:  Ja, das ist der Hauptgrund, warum ich heute hier bin. Ich habe seit Anfang April fast täglich Kopfschmerzen. Nicht immer schlimm, aber sehr hartnäckig.
+SPEAKER_00: Das klingt belastend. Können Sie beschreiben, wie Sie sich die Schmerzen anfühlen?
+SPEAKER_01: Meistens ist es ein dumpfer Druck, vor allem im Stirnbereich und an den Schläfen. Es ist kein Stechen, eher so ein ständiges Spannen. Und manchmal zieht es in den Nacken.
+SPEAKER_00:  Verstehe. Treffen die Kopfschmerzen zu bestimmten Zeiten auf? Morgens? Nachmittags?
+SPEAKER_01: Eher nachmittags. Ich arbeite viel am Computer. Ich bin in einer IT-Firma, Kundensupport und Buchhaltung. Da sitze ich acht bis neun Stunden am Bildschirm.
+SPEAKER_00: Das kann sich durchaus auf die Augen- und Nackenmuskulatur auswirken. Tragen Sie eine Brille?
+SPEAKER_01:  Ja, schon seit Jahren. Aber die Aktuelle ist bestimmt drei Jahre alt. Vielleicht hat sie sich da was verändert.
+SPEAKER_00: Möglich. Wie sieht es mit Schlaf aus?
+SPEAKER_01: Nicht optimal. Ich bin alleinerziehend mit zwei Kindern, 16 und 14. Der Alltag ist oft ziemlich voll. Ich komme selten richtig zur Ruhe.
+SPEAKER_00: Das klingt nach viel Verantwortung. Haben Sie denn am Wochenende weniger Beschwerden?
+SPEAKER_01:  Etwas besser, ja. Wenn ich mehr Pausen mache und ich ständig auf den Bildschirm starre, ist es erträglicher.
+SPEAKER_00: Gab es in der Vergangenheit Migräne, Unfälle oder bekannte Vorerkrankungen?
+SPEAKER_01: Migräne nicht, zumindest nicht diagnostiziert. Meine Mutter hatte Migräne, aber ich hatte nie Aura oder Übelkeit. Vor fünf Jahren hatte ich einen Auffahrunfall, aber da war nichts Ernstes.
+SPEAKER_00: Danke für die Info. Nehmen Sie regelmäßig Medikamente?
+SPEAKER_01:  Nur kann der Satan gegen den Blutdruck, 8mg morgens und gelegentlich Laser, wenn ich sehr unruhig bin.
+SPEAKER_00: In Ordnung. Möchten Sie Ihre Befunde und Rezepte lieber per E-Mail oder in Papierform erhalten?
+SPEAKER_01:  Am liebsten per E-Mail. Meine Adresse ist k.schubert80.web.de.
+SPEAKER_00: Alles klar. Ich trage das ein. Ich würde vorschlagen, wir machen ein Blutbild, um Eisen, Vitamin D und Schilddrüsenwerte zu überprüfen. Außerdem verschreibe ich Ihnen Physiotherapie für die Nackenmuskulatur und empfehle eine neue augenärztliche Untersuchung.
+SPEAKER_01: Klingt vernünftig. Ich würde das gerne probieren.
+SPEAKER_00:  Sehr gut. Ich schlage einen Kontrolltermin in zwei Wochen vor. Sagen wir am 27. Mai um 9.30 Uhr?
+SPEAKER_01: Das passt. Ich kann mir an dem Tag freinehmen.
+SPEAKER_00: Perfekt. Melden Sie sich bitte, wenn sich die Beschwerden verändern oder verschlimmern.
+SPEAKER_01: Mach ich. Vielen Dank für die freundliche Aufnahme, Frau Doktor.
+SPEAKER_00: Sehr gern. Willkommen in der Praxis und bis bald.

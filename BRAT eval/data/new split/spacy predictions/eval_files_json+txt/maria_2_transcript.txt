@@ -1,0 +1,22 @@
+SPEAKER_00:  Guten Morgen, Herr Scholz. Schön, dass Sie sich Zeit nehmen. Wir wollen heute ein kurzes Gespräch führen über Ihre bisherigen Erfahrungen mit der Pumpe. Möchten Sie sich vielleicht zu Beginn der Aufnahme einmal vorstellen?
+SPEAKER_01: Gerne. Mein Name ist Karl-Heinz Scholz, geboren am 22. August 1948 in Heidelberg, jetzt wohnhaft in Staufen im Breisgau. Ich bin seit dem 2. März hier in der Klinik. Station Neurologie.  Heute ist der 13. Mai 2025 und ich nehme am klinischen Testprogramm für diese neue Levodopa-Pumpe teil.
+SPEAKER_00: Ganz genau. Wie fühlen Sie sich denn heute?
+SPEAKER_01: Eigentlich ziemlich stabil. Ich habe heute Morgen um 8 wieder die Basalrate auf 2,5 mm pro Stunde gestellt und es lief ganz gut. Aber ich wollte Sie fragen, wie genau funktioniert das eigentlich, dass das Medikament direkt in den Dünndarm geht? Warum nicht einfach weiter Tabletten?
+SPEAKER_00:  Ja, das ist eine gute Frage. Der Vorteil ist, wenn das Levodopa-Gel direkt in den Dünndarm gegeben wird, also ins Jejunum, dann umgeht man den Magen, der oft bei Parkinson-Patienten langsamer arbeitet. So wird der Wirkstoff kontinuierlich aufgenommen und die Schwankungen, wie Sie sie von Tabletten kennen, werden reduziert.
+SPEAKER_01:  Also quasi wie eine konstante Infusion, aber nicht ins Blut, sondern direkt dorthin, wo es aufgenommen wird?
+SPEAKER_00: Ja, ganz genau. Die Pumpe sorgt für eine konstante Versorgung. Sie können zusätzlich noch Bullis-Dosen geben, wenn Sie merken, dass die Symptome zunehmen. Das haben Sie ja schon ein paar Mal ausprobiert.
+SPEAKER_01: Ja, ich habe das nachmittags gemacht, wenn ich mit meiner Frau im Park spazieren gehe. Ich merke dann, dass ich mehr Beweglichkeit brauche.  Aber ich hab manchmal das Gefühl, dass die Wirkung mit drei Milliliter pro Stunde mich etwas nervös macht. Ist das normal?
+SPEAKER_00: Also, ja. Bei manchen Patienten kann es bei zu hoher Rate zu Überbewegungen oder innere Unruhe kommen. Sie machen das aber sehr gut. Beobachten, anpassen und dokumentieren.
+SPEAKER_01: Ja, danke. Meine Tochter, die Lisa, die hilft mir dabei.  Sie ist ja Chefärztin der Kardiologie hier im Virchow Klinikum. Ich muss ehrlich sagen, ich hätte nie gedacht, dass ich mal in ihrem Krankenhaus liege. Jetzt forsche sie gerade an so einem neuen Herzkatheter-Verfahren und mein Enkelkind, der Jonas, ist schon ganz begeistert. Er wird später auch Medizin studieren. Mit zehn Jahren schon.
+SPEAKER_00: Oh, wie schön! Es ist sicher auch eine Unterstützung, Familie so nah bei sich zu haben.
+SPEAKER_01: Ja. Und gleichzeitig gebe ich mir auch die Mühe, nicht zum Pflegefall zu werden.  Wissen Sie, was mir wirklich auffällt? Diese Dyskinesien, also die wilden Zappelbewegungen, sind fast ganz weg. Früher war das teilweise so schlimm, dass ich mich nicht mal richtig anziehen konnte. Jetzt brauche ich zwar etwas länger, aber ich kann es wieder allein, wenn Sie wissen, was ich meine.
+SPEAKER_00: Das ist ein gutes Zeichen. Und wie sieht es mit dem Zittern aus?
+SPEAKER_01:  Morgens noch leicht, aber... morgens noch leicht. Aber wenn die Pumpe dann etwa eine halbe Stunde läuft, wird's besser. Die schlimmsten Aufzeiten habe ich kaum noch. Ich fühle mich auch geistig klarer.
+SPEAKER_00: Dann würde ich sagen, die zweieinhalb Milliliter pro Stunde als Basis und gelegentlich ein Plus von eineinhalb bis ein Milliliter. Das scheint gut zu funktionieren. Wir können das so in jedem Plan übernehmen.
+SPEAKER_01:  Wunderbar. Eine letzte Frage noch. Wenn das Studienprogramm vorbei ist, kann ich die Pumpe weiter benutzen?
+SPEAKER_00: Wenn Sie gut darauf einsprechen und es medizinisch indiziert bleibt, ja. Dann kümmern wir uns um die Genehmigung bei der Krankenkasse. Ich denke, Ihre Tochter kann uns da im Zweifel auch unterstützen.
+SPEAKER_01: Das klingt beruhigend. Ich bin dankbar, dass ich Teil dieses Programms bin.
+SPEAKER_00:  Und wir sind dankbar, dass Sie so engagiert mitarbeiten. Danke für das Gespräch, Herr Scholz.
+SPEAKER_01: Und ich danke Ihnen, Frau Dr. Hoffmann.
+SPEAKER_00: Oh, Herr Scholz, bevor Sie weggehen, könnten Sie mir Ihre Telefonnummer geben?
+SPEAKER_01: Ja, 0172937456.

@@ -1,0 +1,11 @@
+SPEAKER_01:  Guten Morgen, Herr Becker. Schön, dass Sie da sind.
+SPEAKER_00: Wie geht es Ihnen denn heute? Mir geht es ganz schlecht. Ich bin seit dem 6. April schlapp. Hab keinen Appetit und schlafe schlecht. Gab es denn einen bestimmten Auslöser?  Nicht, dass mir irgendwas einfällt, also nicht wirklich. Ich habe wie immer morgens gefrühstückt, dann wurde mir ganz plötzlich übel. Seitdem liege ich halt viel im Bett. Meine Tochter Laura, Laura Becker, sie ist auch bei ihnen Patient, hat sich um mich gekümmert. Sie hat mir Tee gemacht und Zwieback besorgt.
+SPEAKER_01:  Darf ich fragen, wie alt Sie aktuell sind?
+SPEAKER_00: Ja, ich bin 92 Jahre alt.
+SPEAKER_01: Ab einem Alter von 89 Jahren schauen wir bei solchen Symptomen besonders genau hin. Haben Sie Vorerkrankungen?
+SPEAKER_00:  Seit den letzten Jahren habe ich Bluthochdruck. Ansonsten war ich eigentlich immer fit. Ich war früher Tischlermeister, wissen Sie? Da muss man kräftig sein. In der Werkstatt war ich immer viel in Bewegung.
+SPEAKER_01: Und wohnen Sie eigentlich noch alleine?
+SPEAKER_00:  Ja, in einem gemütlichen kleinen Haus am Rand von Potsdam, Richtung Bönstedt. Meine Tochter wohnt 10-15 Minuten entfernt und schaut fast täglich vorbei. Mein Enkel hilft mir manchmal mit dem Laptop.
+SPEAKER_01:  Sehr schön, das freut mich doch. Wir senden Ihnen die Laborergebnisse gerne per E-Mail. Ist h.becker1943.gmail.com noch aktuell? Ja, das ist richtig. Und Ihre Tochter darf sich bei Bedarf ebenfalls kontaktieren?
+SPEAKER_00: Ja, sie nutzt laura.b.posteo.de.
+SPEAKER_01:  Danke, ich trage das ein. Wir nehmen jetzt Blut ab und schauen, ob wir die Ursache für Ihre Beschwerden finden.

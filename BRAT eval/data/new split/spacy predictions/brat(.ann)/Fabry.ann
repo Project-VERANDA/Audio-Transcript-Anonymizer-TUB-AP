@@ -1,0 +1,14 @@
+T1	NAME_DOCTOR 7 31	Dr. med. Frank Knoblauch
+T2	LOCATION_STREET 31 48	Korekamp 15 47809
+T3	LOCATION_CITY 49 61	Krefeld Sehr
+T4	LOCATION_ZIP 52 59	Krefeld
+T5	NAME_DOCTOR 84 98	Knoblauch, wir
+T6	NAME_PATIENT 172 191	Walther Fabry, geb.
+T7	DATE 195 215	22.01.1974, wohnhaft
+T8	LOCATION_STREET 216 234	Hauptstr. 8, 47809
+T9	LOCATION_CITY 242 252	, der sich
+T10	DATE 258 283	03.09.2029 bis 12.09.2029
+T11	DATE 451 461	Arterielle
+T12	DATE 811 820	Fabry gab
+T13	DATE 2298 2331	Hauptstamm Wandunregelmäßigkeiten
+T14	DATE 2720 2740	signifikanten Pausen

@@ -1,0 +1,19 @@
+SPEAKER_01:  Guten Morgen, Herr Schilling. Schön, dass Sie es zu uns geschafft haben. Erzählen Sie mir doch bitte kurz, was Sie herführt.
+SPEAKER_00:  Guten Morgen. Ja, also ich habe schon seit über einem Jahr immer wieder Taubheitsgefühle in den Beinen und Kribbeln in den Händen. Zuerst dachte ich, es liegt an meiner Sitzhaltung im Büro. Ich arbeite bei der Bahnverwaltung Kassel als IT-Leiter. Da sitzt man ja stundenlang. Aber dann kam auch Sehstörung dazu. An einem Tag war plötzlich mein rechtes Auge verschwommen.
+SPEAKER_01:  Das klingt beunruhigend. Wann genau war das mit Ihrem Auge?
+SPEAKER_00: Das war Anfang Januar, vor etwa acht Monaten. Es hat mich ziemlich aus der Bahn geworfen. Ich bin dann zu meinem Hausarzt, Dr. Schneider. Der hat mich an Sie überwiesen.
+SPEAKER_01: Gut, dass Sie reagiert haben. Gab es noch weitere Symptome?
+SPEAKER_00:  Ja, Müdigkeit, auch Konzentrationsstörungen. Und es gibt Tage, an denen ich beim Gehen wackelig bin, als hätte ich ein paar Bier getrunken, obwohl ich nüchtern bin. Es kommt und geht in Schüben.
+SPEAKER_01: Sie beschreiben klassische Anzeichen einer multiplen Sklerose. Das ist eine chronische entzündliche Erkrankung des zentralen Nervensystems. Wurde bei Ihnen schon ein MRT gemacht?
+SPEAKER_00:  Ja, das hat mein Hausarzt veranlasst. Die Radiologie in Kassel hat Auffälligkeiten gesehen. Mehrere Herde im Gehirn und auch im Rückenmark.
+SPEAKER_01: Das ist wichtig zu wissen. Ich nehme an, Sie haben eine CD oder den Fund dabei.
+SPEAKER_00: Ja, ich habe alles hier. Außerdem, ich wohne in...  Außerdem, ich wohne in der Sudetenstraße 21, 34266 Niestetal, also nicht weit weg. Für eventuelle Rückfragen erreichen Sie mich unter 0151 778 29034 oder Sie können mir auch eine Mail schreiben an ralf.chilling.mail.de.
+SPEAKER_01:  Danke, ich notiere das. Und wie ist Ihre familiäre Situation?
+SPEAKER_00: Ich lebe mit meiner Tochter alleine. Meine Frau ist vor drei Jahren bei einem Autounfall ums Leben gekommen. Meine Tochter ist jetzt 14. Meine Schwester wohnt in Hamburg. Sie unterstützt mich oft, wenn es mir schlecht geht.
+SPEAKER_01: Es tut mir leid, das zu hören. Gibt es in Ihrer Familie bekannte neurologische Erkrankungen?
+SPEAKER_00:  Nicht, dass ich wüsste. Mein Vater hatte Diabetes, aber sonst war da nichts.
+SPEAKER_01: Und wie geht Ihr Arbeitgeber mit Ihrer Situation um?
+SPEAKER_00: Gemischt. Die Leitung weiß Bescheid, aber viele KollegInnen glauben, ich simuliere. Ich soll jetzt sogar nach Frankfurt ins neue Rechenzentrum wechseln. Täglich zwei Stunden Fahrt. Ich weiß nicht, ob ich das langfristig schaffe.
+SPEAKER_01:  Das ist nachvollziehbar. Wir werden gemeinsam besprechen, wie man Ihre Behandlung stabil einstellt. Etwa mit Interferonpräparaten oder anderen verlaufsmodifizierten Therapien. Ich würde jetzt noch Ihr Geburtsdatum brauchen.
+SPEAKER_00: Der 11. Juli 1985. Danke, Herr Schilling.
+SPEAKER_01: Ich bin froh, dass Sie hier sind. Wir finden gemeinsam einen Weg.

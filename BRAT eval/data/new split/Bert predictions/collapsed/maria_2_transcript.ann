@@ -1,0 +1,88 @@
+#0	maria_2_transcript SPEAKER_00:  Guten Morgen, Herr Scholz. Schön, dass Sie sich Zeit nehmen. Wir wollen heute ein kurzes Gespräch führen über Ihre bisherigen Erfahrungen mit der Pumpe. Möchten Sie sich vielleicht zu Beginn der Aufnahme einmal vorstellen? SPEAKER_01: Gerne. Mein Name ist Karl-Heinz Scholz, geboren am 22. August 1948 in Heidelberg, jetzt wohnhaft in Staufen im Breisgau. Ich bin seit dem 2. März hier in der Klinik. Station Neurologie.  Heute ist der 13. Mai 2025 und ich nehme am klinischen Testprogramm für diese neue Levodopa-Pumpe teil. SPEAKER_00: Ganz genau. Wie fühlen Sie sich denn heute? SPEAKER_01: Eigentlich ziemlich stabil. Ich habe heute Morgen um 8 wieder die Basalrate auf 2,5 mm pro Stunde gestellt und es lief ganz gut. Aber ich wollte Sie fragen, wie genau funktioniert das eigentlich, dass das Medikament direkt in den Dünndarm geht? Warum nicht einfach weiter Tabletten? SPEAKER_00:  Ja, das ist eine gute Frage. Der Vorteil ist, wenn das Levodopa-Gel direkt in den Dünndarm gegeben wird, also ins Jejunum, dann umgeht man den Magen, der oft bei Parkinson-Patienten langsamer arbeitet. So wird der Wirkstoff kontinuierlich aufgenommen und die Schwankungen, wie Sie sie von Tabletten kennen, werden reduziert. SPEAKER_01:  Also quasi wie eine konstante Infusion, aber nicht ins Blut, sondern direkt dorthin, wo es aufgenommen wird? SPEAKER_00: Ja, ganz genau. Die Pumpe sorgt für eine konstante Versorgung. Sie können zusätzlich noch Bullis-Dosen geben, wenn Sie merken, dass die Symptome zunehmen. Das haben Sie ja schon ein paar Mal ausprobiert. SPEAKER_01: Ja, ich habe das nachmittags gemacht, wenn ich mit meiner Frau im Park spazieren gehe. Ich merke dann, dass ich mehr Beweglichkeit brauche.  Aber ich hab manchmal das Gefühl, dass die Wirkung mit drei Milliliter pro Stunde mich etwas nervös macht. Ist das normal? SPEAKER_00: Also, ja. Bei manchen Patienten kann es bei zu hoher Rate zu Überbewegungen oder innere Unruhe kommen. Sie machen das aber sehr gut. Beobachten, anpassen und dokumentieren. SPEAKER_01: Ja, danke. Meine Tochter, die Lisa, die hilft mir dabei.  Sie ist ja Chefärztin der Kardiologie hier im Virchow Klinikum. Ich muss ehrlich sagen, ich hätte nie gedacht, dass ich mal in ihrem Krankenhaus liege. Jetzt forsche sie gerade an so einem neuen Herzkatheter-Verfahren und mein Enkelkind, der Jonas, ist schon ganz begeistert. Er wird später auch Medizin studieren. Mit zehn Jahren schon. SPEAKER_00: Oh, wie schön! Es ist sicher auch eine Unterstützung, Familie so nah bei sich zu haben. SPEAKER_01: Ja. Und gleichzeitig gebe ich mir auch die Mühe, nicht zum Pflegefall zu werden.  Wissen Sie, was mir wirklich auffällt? Diese Dyskinesien, also die wilden Zappelbewegungen, sind fast ganz weg. Früher war das teilweise so schlimm, dass ich mich nicht mal richtig anziehen konnte. Jetzt brauche ich zwar etwas länger, aber ich kann es wieder allein, wenn Sie wissen, was ich meine. SPEAKER_00: Das ist ein gutes Zeichen. Und wie sieht es mit dem Zittern aus? SPEAKER_01:  Morgens noch leicht, aber... morgens noch leicht. Aber wenn die Pumpe dann etwa eine halbe Stunde läuft, wird's besser. Die schlimmsten Aufzeiten habe ich kaum noch. Ich fühle mich auch geistig klarer. SPEAKER_00: Dann würde ich sagen, die zweieinhalb Milliliter pro Stunde als Basis und gelegentlich ein Plus von eineinhalb bis ein Milliliter. Das scheint gut zu funktionieren. Wir können das so in jedem Plan übernehmen. SPEAKER_01:  Wunderbar. Eine letzte Frage noch. Wenn das Studienprogramm vorbei ist, kann ich die Pumpe weiter benutzen? SPEAKER_00: Wenn Sie gut darauf einsprechen und es medizinisch indiziert bleibt, ja. Dann kümmern wir uns um die Genehmigung bei der Krankenkasse. Ich denke, Ihre Tochter kann uns da im Zweifel auch unterstützen. SPEAKER_01: Das klingt beruhigend. Ich bin dankbar, dass ich Teil dieses Programms bin. SPEAKER_00:  Und wir sind dankbar, dass Sie so engagiert mitarbeiten. Danke für das Gespräch, Herr Scholz. SPEAKER_01: Und ich danke Ihnen, Frau Dr. Hoffmann. SPEAKER_00: Oh, Herr Scholz, bevor Sie weggehen, könnten Sie mir Ihre Telefonnummer geben? SPEAKER_01: Ja, 0172937456.
+#1	SPEAKER_00:  Guten Morgen, Herr Scholz.
+T1	LABEL 27 38	Herr Scholz
+#2	Schön, dass Sie sich Zeit nehmen.
+#3	Wir wollen heute ein kurzes Gespräch führen über Ihre bisherigen Erfahrungen mit der Pumpe.
+#4	Möchten Sie sich vielleicht zu Beginn der Aufnahme einmal vorstellen?
+#5	SPEAKER_01: Gerne.
+#6	Mein Name ist Karl-Heinz Scholz, geboren am 22.
+T2	LABEL 269 286	Karl-Heinz Scholz
+T3	LABEL 299 314	22. August 1948
+#7	August 1948 in Heidelberg, jetzt wohnhaft in Staufen im Breisgau.
+T4	LABEL 318 328	Heidelberg
+T5	LABEL 348 367	Staufen im Breisgau
+#8	Ich bin seit dem 2.
+T6	LABEL 386 393	2. März
+#9	März hier in der Klinik.
+#10	Station Neurologie.
+#11	Heute ist der 13.
+T7	LABEL 449 461	13. Mai 2025
+#12	Mai 2025 und ich nehme am klinischen Testprogramm für diese neue Levodopa-Pumpe teil.
+#13	SPEAKER_00: Ganz genau.
+#14	Wie fühlen Sie sich denn heute?
+#15	SPEAKER_01: Eigentlich ziemlich stabil.
+#16	Ich habe heute Morgen um 8 wieder die Basalrate auf 2,5 mm pro Stunde gestellt und es lief ganz gut.
+#17	Aber ich wollte Sie fragen, wie genau funktioniert das eigentlich, dass das Medikament direkt in den Dünndarm geht?
+#18	Warum nicht einfach weiter Tabletten?
+#19	SPEAKER_00:  Ja, das ist eine gute Frage.
+#20	Der Vorteil ist, wenn das Levodopa-Gel direkt in den Dünndarm gegeben wird, also ins Jejunum, dann umgeht man den Magen, der oft bei Parkinson-Patienten langsamer arbeitet.
+#21	So wird der Wirkstoff kontinuierlich aufgenommen und die Schwankungen, wie Sie sie von Tabletten kennen, werden reduziert.
+#22	SPEAKER_01:  Also quasi wie eine konstante Infusion, aber nicht ins Blut, sondern direkt dorthin, wo es aufgenommen wird?
+#23	SPEAKER_00: Ja, ganz genau.
+#24	Die Pumpe sorgt für eine konstante Versorgung.
+#25	Sie können zusätzlich noch Bullis-Dosen geben, wenn Sie merken, dass die Symptome zunehmen.
+#26	Das haben Sie ja schon ein paar Mal ausprobiert.
+#27	SPEAKER_01: Ja, ich habe das nachmittags gemacht, wenn ich mit meiner Frau im Park spazieren gehe.
+#28	Ich merke dann, dass ich mehr Beweglichkeit brauche.
+#29	Aber ich hab manchmal das Gefühl, dass die Wirkung mit drei Milliliter pro Stunde mich etwas nervös macht.
+#30	Ist das normal?
+#31	SPEAKER_00: Also, ja.
+#32	Bei manchen Patienten kann es bei zu hoher Rate zu Überbewegungen oder innere Unruhe kommen.
+#33	Sie machen das aber sehr gut.
+#34	Beobachten, anpassen und dokumentieren.
+#35	SPEAKER_01: Ja, danke.
+#36	Meine Tochter, die Lisa, die hilft mir dabei.
+T8	LABEL 2069 2073	Lisa
+#37	Sie ist ja Chefärztin der Kardiologie hier im Virchow Klinikum.
+T9	LABEL 2108 2134	Chefärztin der Kardiologie
+T10	LABEL 2143 2159	Virchow Klinikum
+#38	Ich muss ehrlich sagen, ich hätte nie gedacht, dass ich mal in ihrem Krankenhaus liege.
+#39	Jetzt forsche sie gerade an so einem neuen Herzkatheter-Verfahren und mein Enkelkind, der Jonas, ist schon ganz begeistert.
+T11	LABEL 2339 2344	Jonas
+#40	Er wird später auch Medizin studieren.
+#41	Mit zehn Jahren schon.
+#42	SPEAKER_00: Oh, wie schön!
+#43	Es ist sicher auch eine Unterstützung, Familie so nah bei sich zu haben.
+#44	SPEAKER_01: Ja.
+#45	Und gleichzeitig gebe ich mir auch die Mühe, nicht zum Pflegefall zu werden.
+#46	Wissen Sie, was mir wirklich auffällt?
+#47	Diese Dyskinesien, also die wilden Zappelbewegungen, sind fast ganz weg.
+#48	Früher war das teilweise so schlimm, dass ich mich nicht mal richtig anziehen konnte.
+#49	Jetzt brauche ich zwar etwas länger, aber ich kann es wieder allein, wenn Sie wissen, was ich meine.
+#50	SPEAKER_00: Das ist ein gutes Zeichen.
+#51	Und wie sieht es mit dem Zittern aus?
+#52	SPEAKER_01:  Morgens noch leicht, aber... morgens noch leicht.
+#53	Aber wenn die Pumpe dann etwa eine halbe Stunde läuft, wird's besser.
+#54	Die schlimmsten Aufzeiten habe ich kaum noch.
+#55	Ich fühle mich auch geistig klarer.
+#56	SPEAKER_00: Dann würde ich sagen, die zweieinhalb Milliliter pro Stunde als Basis und gelegentlich ein Plus von eineinhalb bis ein Milliliter.
+#57	Das scheint gut zu funktionieren.
+#58	Wir können das so in jedem Plan übernehmen.
+#59	SPEAKER_01:  Wunderbar.
+#60	Eine letzte Frage noch.
+#61	Wenn das Studienprogramm vorbei ist, kann ich die Pumpe weiter benutzen?
+#62	SPEAKER_00: Wenn Sie gut darauf einsprechen und es medizinisch indiziert bleibt, ja.
+#63	Dann kümmern wir uns um die Genehmigung bei der Krankenkasse.
+#64	Ich denke, Ihre Tochter kann uns da im Zweifel auch unterstützen.
+#65	SPEAKER_01: Das klingt beruhigend.
+#66	Ich bin dankbar, dass ich Teil dieses Programms bin.
+#67	SPEAKER_00:  Und wir sind dankbar, dass Sie so engagiert mitarbeiten.
+#68	Danke für das Gespräch, Herr Scholz.
+T12	LABEL 3957 3968	Herr Scholz
+#69	SPEAKER_01: Und ich danke Ihnen, Frau Dr.
+T13	LABEL 4003 4020	Frau Dr. Hoffmann
+#70	Hoffmann.
+#71	SPEAKER_00: Oh, Herr Scholz, bevor Sie weggehen, könnten Sie mir Ihre Telefonnummer geben?
+T14	LABEL 4038 4049	Herr Scholz
+#72	SPEAKER_01: Ja, 0172937456.
+T15	LABEL 4129 4139	0172937456

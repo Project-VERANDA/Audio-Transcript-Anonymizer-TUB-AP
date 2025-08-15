@@ -1,0 +1,36 @@
+SPEAKER_00:  Hallo, guten Tag.
+SPEAKER_01: Guten Tag, hallo. Wie geht's Ihnen heute? Mir geht's ganz gut, vielen Dank für die Nachfrage. War ein langer Weg hierher zu kommen, aber abgesehen davon geht's mir ganz gut.
+SPEAKER_00: Ich hab gut gefrühstückt, sagen wir so. Sehr gut, sehr gut. Also erstmal, wie ist Ihr vollständiger Name?
+SPEAKER_01: Mein Name ist Sabine Krämer mit e, bitte. Ich heiße so seit meiner Heirat. Davor war ich eine Schneider.
+SPEAKER_00: Okay, das hört mich sexy an.  Können Sie mir bitte Ihre vollständige Adresse geben? Also Straße, Hausnummer, Postleitzahl?
+SPEAKER_01: Ja, ja, alles klar. Ich wohne in Berlin, in der Wilhelmsstraße 45. Das ist in Friedrichshain-Kreuzberg. Die Postleitzahl ist 10963. Und ich wohne da jetzt schon seit über 30 Jahren mit meinem Mann. Glücklich. Okay, verstanden. Und wann sind Sie geboren? Am 14. März 1956. Ich bin jetzt 69. Das merkt man so langsam in den Knochen.
+SPEAKER_00:  Gab es in letzter Zeit Krankenhausaufenthalte, zum Beispiel einmal Singen oder Entlastungen?
+SPEAKER_01: Vor anderthalb Jahren hatte ich mal ein Problem mit meinem rechten Bein. Dort wurde ein Tumor festgestellt, der dann aber relativ leicht entfernt werden konnte, aber abgesehen davon eigentlich nicht.
+SPEAKER_00:  Und unter welchen Telefonnummer erreichen wir Sie am besten?
+SPEAKER_01: Am besten unter Telefonnummer 030 456 789 12. Das ist mein Festnetz, da habe ich immer in der Nähe.
+SPEAKER_00: Okay. Und kommen Sie mit dem Auto zu uns? Wenn ja, können Sie mir bitte Ihr Kennzeichen nennen für den Fall, dass wir einen Parkplatz zuweisen müssen?
+SPEAKER_01: Ja, ja, ich fahre noch selbst. Ich habe einen silbernen Golf. Das Kennzeichen ist BSK 1452.
+SPEAKER_00:  Okay, und haben Sie eventuell auch eine Faxnummer, über die wir medizinische Unterlagen senden oder empfangen könnten?
+SPEAKER_01: Nein, Fax habe ich leider nicht, aber aus der Zeit sollten wir auch langsam raus sein, oder? Ich bin mit E-Mail ganz gut bedient, das reicht mir völlig.
+SPEAKER_00: Verwenden Sie medizinische Geräte, wie zum Beispiel einen Herzschrittmacher oder einen  Blutzuckermessgerät. Wenn ja, kennen Sie eventuell die Seriennummer?
+SPEAKER_01: Gut, dass Sie fragen. Ich habe seit 2018 einen Herzschrittmacher wegen Rhythmusstörungen damals. Die Seriennummer, warten Sie, ich gucke mal eben nach. Ich habe das irgendwo in meinem Kalender stehen. Ah, hier, ich habe es. PM102348A.
+SPEAKER_00:  Okay, und wie lautet Ihre E-Mail-Adresse für Terminbeschäftigung oder richtige Drückmeldungen?
+SPEAKER_01: Achso, ja, meine E-Mail-Adresse ist Savine.Krämer, also A-E, also K-R-A-E-M-E-R, at web.de. Da bin ich eigentlich täglich drin, können Sie mir ruhig etwas hinschicken.
+SPEAKER_00: Okay, super. Und nutzen Sie ein Online-Gesundheitsportal oder eine App, über die wir Informationen austauschen können?
+SPEAKER_01:  angemeldet. Mein Benutzername ist einfach Sabine, glaube ich. Also www.mein-gesundheitszentrum.de slash Sabine.
+SPEAKER_00: Dürfen wir Ihre Sozialversicherungsnummer erfassen, zum Beispiel für die Abrechnung mit Ihrer Krankenkasse?
+SPEAKER_01: Ja, natürlich. Ich kann
+SPEAKER_00:  Und wenn Sie unsere Online-Dienste nutzen, wird Ihre IP-Adresse zu Sicherheitszwecken automatisch gespeichert. Ist das für Sie in Ordnung?
+SPEAKER_01: Das wäre mir tatsächlich unlieb. Könnten Sie das bitte unterlassen?
+SPEAKER_00: Ja, gerne. Und haben Sie schon einmal eine Patienten-ID oder medizinische Aktennummer bei uns erhalten?  den System sehen. Werden Sie damit einverstanden, wenn wir zur Identifikation zum Beispiel Ihre Stimme aufzeichnen oder Fingerabzüge nutzen, falls das in Zukunft notwendig sein sollte?
+SPEAKER_01: Nein, das wäre mir auch leider zu viel. Ich bin, wie Sie wissen, schon etwas älter und ich traue dem Ganzen noch so, nicht so wirklich.
+SPEAKER_00: Wie heißt diese Krankenkasse und hätten Sie ihre Versichertennummer
+SPEAKER_01:  und mache jeden Tag Übungen und dafür wird man dann im Endeffekt noch bezahlt. Können Sie das glauben? Also sowas hat es ja damals in meiner Zeit überhaupt nicht gegeben. Achso und meine Nummer ist 332 476 593. Okay, dankeschön.
+SPEAKER_00: Dürfen wir ein Foto von Ihnen machen, damit wir Sie bei Timing leichter erkennen können?
+SPEAKER_01: Also tut mir leid, aber ich glaube nicht, dass es nötig ist. Sie können mich ja einfach aufrufen anhand meines Namens. Ich glaube, das ist schon genug.
+SPEAKER_00:  Gibt es eine Abrechnungsnummer oder eine Patientenkennung von früheren Besuchen, die wir zorten sollten?
+SPEAKER_01: Ich glaube, ich habe die PAT-2024-0510-SK, das habe ich glaube ich einmal auf einer Rechnung gesehen und mir hier in meinem Ärztebesuchheft geschrieben.
+SPEAKER_00:  Gibt es sonst eine besondere ID, zum Beispiel von einer Studie oder einem Pflegeprogramm, die wir in Ihren Unterlagen vermarkten sollten?
+SPEAKER_01: Ja, ich mache bei dieser Herzgesund60Plus-Studie mit. Mein Code ist da HG60-SK21-. Muss ich die auch öfters angeben?
+SPEAKER_00:  Und letztens, besitzen Sie bestimmte Bescheinigungen oder Ausweise, die für Ihre Behandlung wichtig sind? Zum Beispiel einen Schwerbehindertenausweis oder eine Pflegebescheinigung?
+SPEAKER_01: Ja, ich habe einen Schwerbehindertenausweis mit GDB 50, mit dem G für eingeschränkte Mobilität. Der ist noch gültig bis 2028. Eine große Hilfe im Alltag.
