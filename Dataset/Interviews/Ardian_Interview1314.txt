@@ -1,0 +1,8 @@
+SPEAKER_00:  Guten Tag, Herr Krüger. Ihre Tochter Anja Krüger hat uns gestern informiert.
+SPEAKER_01: Wie geht es Ihnen denn heute? Hallo, Herr Doktor. Ich habe seit dem 8. Mai Schmerzen in der Brust, besonders beim Einatmen. Zuerst dachte ich, das kommt vom Heben, aber es wird echt nicht besser. Seit dem 8. Mai also. Und wie alt sind Sie jetzt?  Ich bin 74 Jahre alt. Am 5. März bin ich es geworden. Und Sie wohnen immer noch alleine?  Ja, in einer Wohnung in Berlin-Lichtenberg. Seit meine Frau Elisabeth Krüger vor drei Jahren gestorben ist, lebe ich allein. Meine Tochter wohnt aber in der Nähe. Sie schaut regelmäßig bei mir vorbei. Und mein Enkel, der ist erst zwölf. Mit dem spiele ich oft Schach zusammen. Das klingt doch schön. Was haben Sie beruflich gemacht?  Ich war Dreher in einem Werkzeugbetrieb. Jetzt im Ruhestand kümmere ich mich viel um meinen Balkon, Blumen und Kräuter. Ich gehe jeden zweiten Tag spazieren, wenn es das Wetter zulässt.
+SPEAKER_00: Gut, ich würde gerne Ihre Daten noch einmal überprüfen. Haben Sie Ihre Krankenkassendate dabei?
+SPEAKER_01: Ja, hier meine Versichertennummer.  Bei der Brahma läutet K123-123-789.
+SPEAKER_00: Danke, laut System waren Sie früher über Ihre Frau Elisabeth Krüger mit Familienversichert, ist das richtig?
+SPEAKER_01: Genau, aber Ihre Familienversicherungsnummer weiß ich nicht mehr. Ich weiß nur, dass sie auch bei Brahma war.
+SPEAKER_00:  Okay, ich notiere das. Wir machen jetzt ein EKG und nehmen Blut ab. Danach sehen wir, ob wir weitere Schritte einleiten müssen.
+SPEAKER_01: Okay, dankeschön.
