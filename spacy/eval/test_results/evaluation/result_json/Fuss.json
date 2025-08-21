@@ -1,0 +1,87 @@
+[
+{
+    "begin": 0,
+    "end": 33,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 34,
+    "end": 55,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 56,
+    "end": 59,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 104,
+    "end": 174,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 225,
+    "end": 286,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 424,
+    "end": 435,
+    "label": "DATE"
+},{
+    "begin": 445,
+    "end": 457,
+    "label": "LOCATION_STREET"
+},{
+    "begin": 480,
+    "end": 505,
+    "label": "DATE"
+},{
+    "begin": 510,
+    "end": 513,
+    "label": "DATE"
+},{
+    "begin": 1457,
+    "end": 1471,
+    "label": "DATE"
+},{
+    "begin": 2231,
+    "end": 2245,
+    "label": "DATE"
+},{
+    "begin": 4456,
+    "end": 4466,
+    "label": "DATE"
+},{
+    "begin": 4553,
+    "end": 4561,
+    "label": "DATE"
+},{
+    "begin": 4986,
+    "end": 4996,
+    "label": "DATE"
+},{
+    "begin": 6010,
+    "end": 6029,
+    "label": "DATE"
+},{
+    "begin": 6976,
+    "end": 6993,
+    "label": "DATE"
+},{
+    "begin": 7696,
+    "end": 7707,
+    "label": "DATE"
+},{
+    "begin": 8595,
+    "end": 8601,
+    "label": "AGE"
+},{
+    "begin": 9107,
+    "end": 9133,
+    "label": "DATE"
+},{
+    "begin": 9483,
+    "end": 9493,
+    "label": "DATE"
+},{
+    "begin": 9737,
+    "end": 9801,
+    "label": "LOCATION_HOSPITAL"
+}
+]

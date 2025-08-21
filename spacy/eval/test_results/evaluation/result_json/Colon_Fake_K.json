@@ -1,0 +1,75 @@
+[
+{
+    "begin": 0,
+    "end": 36,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 37,
+    "end": 92,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 94,
+    "end": 124,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 317,
+    "end": 349,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 364,
+    "end": 372,
+    "label": "DATE"
+},{
+    "begin": 377,
+    "end": 386,
+    "label": "DATE"
+},{
+    "begin": 390,
+    "end": 401,
+    "label": "DATE"
+},{
+    "begin": 598,
+    "end": 611,
+    "label": "DATE"
+},{
+    "begin": 1782,
+    "end": 1791,
+    "label": "DATE"
+},{
+    "begin": 3003,
+    "end": 3022,
+    "label": "DATE"
+},{
+    "begin": 3185,
+    "end": 3198,
+    "label": "DATE"
+},{
+    "begin": 3317,
+    "end": 3328,
+    "label": "DATE"
+},{
+    "begin": 4651,
+    "end": 4667,
+    "label": "DATE"
+},{
+    "begin": 4847,
+    "end": 4870,
+    "label": "DATE"
+},{
+    "begin": 5299,
+    "end": 5310,
+    "label": "DATE"
+},{
+    "begin": 5536,
+    "end": 5551,
+    "label": "DATE"
+},{
+    "begin": 5605,
+    "end": 5621,
+    "label": "DATE"
+},{
+    "begin": 5726,
+    "end": 5748,
+    "label": "PROFESSION"
+}
+]

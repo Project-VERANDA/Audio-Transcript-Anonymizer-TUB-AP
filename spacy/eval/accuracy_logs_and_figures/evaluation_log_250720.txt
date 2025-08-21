@@ -1,0 +1,214 @@
+Accuracy Log
+========================================================================
+
+----------------- File: Fleischmann.json --------------------------------------------------------------
+----------------- File: Ehrenberger.json --------------------------------------------------------------
+----------------- File: Carlotta_Hamann_Marcus.json --------------------------------------------------------------
+FP entity: {'begin': 157, 'end': 171, 'label': 'NAME'} with ground truth: None in file Carlotta_Hamann_Marcus.json
+FP entity: {'begin': 631, 'end': 645, 'label': 'ID'} with ground truth: None in file Carlotta_Hamann_Marcus.json
+TP entity: {'begin': 963, 'end': 970, 'label': 'LOCATION'} with ground truth: {'begin': 963, 'end': 970, 'label': 'LOCATION'} in file Carlotta_Hamann_Marcus.json
+FP entity: {'begin': 1091, 'end': 1111, 'label': 'LOCATION'} with ground truth: None in file Carlotta_Hamann_Marcus.json
+FP entity: {'begin': 2475, 'end': 2489, 'label': 'ID'} with ground truth: None in file Carlotta_Hamann_Marcus.json
+TP entity: {'begin': 2837, 'end': 2843, 'label': 'NAME'} with ground truth: {'begin': 2837, 'end': 2843, 'label': 'NAME'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 27, 'end': 33, 'label': 'NAME'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 631, 'end': 645, 'label': 'LOCATION'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 1091, 'end': 1097, 'label': 'LOCATION'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 1322, 'end': 1327, 'label': 'NAME'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 1906, 'end': 1912, 'label': 'LOCATION'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 157, 'end': 164, 'label': 'NAME'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 172, 'end': 195, 'label': 'LOCATION'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 664, 'end': 669, 'label': 'LOCATION'} in file Carlotta_Hamann_Marcus.json
+FN entity: {'begin': 1199, 'end': 1210, 'label': 'LOCATION'} in file Carlotta_Hamann_Marcus.json
+
+Correct entities: 2 in file Carlotta_Hamann_Marcus.json
+False positive entities: 4 in file Carlotta_Hamann_Marcus.json
+Missed entities: 9 in file Carlotta_Hamann_Marcus.json
+-> F-Score in Carlotta_Hamann_Marcus.json: 23.52941176470588
+
+----------------- File: Fabry.json --------------------------------------------------------------
+----------------- File: maria_1_transcript.json --------------------------------------------------------------
+TP entity: {'begin': 24, 'end': 37, 'label': 'NAME'} with ground truth: {'begin': 24, 'end': 37, 'label': 'NAME'} in file maria_1_transcript.json
+TP entity: {'begin': 83, 'end': 95, 'label': 'NAME'} with ground truth: {'begin': 83, 'end': 94, 'label': 'NAME'} in file maria_1_transcript.json
+TP entity: {'begin': 1076, 'end': 1081, 'label': 'NAME'} with ground truth: {'begin': 1076, 'end': 1081, 'label': 'NAME'} in file maria_1_transcript.json
+FP entity: {'begin': 1118, 'end': 1121, 'label': 'LOCATION'} with ground truth: None in file maria_1_transcript.json
+FP entity: {'begin': 1751, 'end': 1770, 'label': 'NAME'} with ground truth: None in file maria_1_transcript.json
+TP entity: {'begin': 1776, 'end': 1785, 'label': 'PROFESSION'} with ground truth: {'begin': 1776, 'end': 1780, 'label': 'PROFESSION'} in file maria_1_transcript.json
+FP entity: {'begin': 1984, 'end': 1990, 'label': 'LOCATION'} with ground truth: None in file maria_1_transcript.json
+FP entity: {'begin': 1994, 'end': 2010, 'label': 'LOCATION'} with ground truth: None in file maria_1_transcript.json
+TP entity: {'begin': 3213, 'end': 3226, 'label': 'NAME'} with ground truth: {'begin': 3213, 'end': 3226, 'label': 'NAME'} in file maria_1_transcript.json
+FN entity: {'begin': 844, 'end': 850, 'label': 'LOCATION'} in file maria_1_transcript.json
+FN entity: {'begin': 1118, 'end': 1121, 'label': 'PROFESSION'} in file maria_1_transcript.json
+FN entity: {'begin': 1126, 'end': 1144, 'label': 'LOCATION'} in file maria_1_transcript.json
+FN entity: {'begin': 1676, 'end': 1681, 'label': 'NAME'} in file maria_1_transcript.json
+FN entity: {'begin': 1751, 'end': 1756, 'label': 'NAME'} in file maria_1_transcript.json
+FN entity: {'begin': 1865, 'end': 1870, 'label': 'NAME'} in file maria_1_transcript.json
+FN entity: {'begin': 1971, 'end': 1990, 'label': 'LOCATION'} in file maria_1_transcript.json
+FN entity: {'begin': 1994, 'end': 2004, 'label': 'LOCATION'} in file maria_1_transcript.json
+FN entity: {'begin': 2337, 'end': 2362, 'label': 'LOCATION'} in file maria_1_transcript.json
+
+Correct entities: 5 in file maria_1_transcript.json
+False positive entities: 4 in file maria_1_transcript.json
+Missed entities: 9 in file maria_1_transcript.json
+-> F-Score in maria_1_transcript.json: 43.47826086956522
+
+----------------- File: Aya_Chebaane_FrauWeber 1.json --------------------------------------------------------------
+TP entity: {'begin': 24, 'end': 34, 'label': 'NAME'} with ground truth: {'begin': 24, 'end': 34, 'label': 'NAME'} in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 59, 'end': 69, 'label': 'NAME'} with ground truth: {'begin': 59, 'end': 69, 'label': 'NAME'} in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 455, 'end': 475, 'label': 'LOCATION'} with ground truth: {'begin': 455, 'end': 472, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 476, 'end': 483, 'label': 'LOCATION'} with ground truth: {'begin': 476, 'end': 484, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 507, 'end': 521, 'label': 'LOCATION'} with ground truth: {'begin': 507, 'end': 520, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 528, 'end': 535, 'label': 'LOCATION'} with ground truth: {'begin': 528, 'end': 536, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 737, 'end': 742, 'label': 'NAME'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 774, 'end': 800, 'label': 'CONTACT'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 897, 'end': 903, 'label': 'LOCATION'} with ground truth: {'begin': 897, 'end': 903, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 925, 'end': 934, 'label': 'CONTACT'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 1006, 'end': 1011, 'label': 'LOCATION'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 1012, 'end': 1017, 'label': 'ID'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 1090, 'end': 1094, 'label': 'LOCATION'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 1280, 'end': 1289, 'label': 'DATE'} with ground truth: {'begin': 1280, 'end': 1289, 'label': 'DATE'} in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 1290, 'end': 1300, 'label': 'DATE'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 1428, 'end': 1435, 'label': 'LOCATION'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 1735, 'end': 1767, 'label': 'CONTACT'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 1800, 'end': 1813, 'label': 'CONTACT'} with ground truth: {'begin': 1800, 'end': 1812, 'label': 'CONTACT'} in file Aya_Chebaane_FrauWeber 1.json
+FP entity: {'begin': 1928, 'end': 1939, 'label': 'ID'} with ground truth: None in file Aya_Chebaane_FrauWeber 1.json
+TP entity: {'begin': 1953, 'end': 1963, 'label': 'NAME'} with ground truth: {'begin': 1953, 'end': 1963, 'label': 'NAME'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 443, 'end': 447, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 737, 'end': 748, 'label': 'NAME'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 774, 'end': 788, 'label': 'CONTACT'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 925, 'end': 933, 'label': 'ID'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1006, 'end': 1016, 'label': 'ID'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1653, 'end': 1660, 'label': 'ID'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1735, 'end': 1758, 'label': 'CONTACT'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1904, 'end': 1926, 'label': 'ID'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 522, 'end': 527, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1624, 'end': 1634, 'label': 'LOCATION'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1090, 'end': 1094, 'label': 'PROFESSION'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1406, 'end': 1413, 'label': 'ID'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1428, 'end': 1434, 'label': 'ID'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 604, 'end': 620, 'label': 'DATE'} in file Aya_Chebaane_FrauWeber 1.json
+FN entity: {'begin': 1199, 'end': 1208, 'label': 'DATE'} in file Aya_Chebaane_FrauWeber 1.json
+
+Correct entities: 10 in file Aya_Chebaane_FrauWeber 1.json
+False positive entities: 10 in file Aya_Chebaane_FrauWeber 1.json
+Missed entities: 15 in file Aya_Chebaane_FrauWeber 1.json
+-> F-Score in Aya_Chebaane_FrauWeber 1.json: 44.44444444444444
+
+----------------- File: Dupuytren.json --------------------------------------------------------------
+----------------- File: Colon_Fake_K.json --------------------------------------------------------------
+----------------- File: Lawton_fake_interview.json --------------------------------------------------------------
+TP entity: {'begin': 24, 'end': 38, 'label': 'NAME'} with ground truth: {'begin': 24, 'end': 38, 'label': 'NAME'} in file Lawton_fake_interview.json
+TP entity: {'begin': 63, 'end': 74, 'label': 'NAME'} with ground truth: {'begin': 63, 'end': 74, 'label': 'NAME'} in file Lawton_fake_interview.json
+TP entity: {'begin': 380, 'end': 385, 'label': 'LOCATION'} with ground truth: {'begin': 380, 'end': 385, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+TP entity: {'begin': 386, 'end': 395, 'label': 'LOCATION'} with ground truth: {'begin': 386, 'end': 393, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FP entity: {'begin': 646, 'end': 651, 'label': 'LOCATION'} with ground truth: None in file Lawton_fake_interview.json
+FP entity: {'begin': 653, 'end': 666, 'label': 'NAME'} with ground truth: None in file Lawton_fake_interview.json
+TP entity: {'begin': 828, 'end': 829, 'label': 'AGE'} with ground truth: {'begin': 826, 'end': 828, 'label': 'AGE'} in file Lawton_fake_interview.json
+TP entity: {'begin': 891, 'end': 895, 'label': 'DATE'} with ground truth: {'begin': 891, 'end': 895, 'label': 'DATE'} in file Lawton_fake_interview.json
+FP entity: {'begin': 1065, 'end': 1076, 'label': 'LOCATION'} with ground truth: None in file Lawton_fake_interview.json
+TP entity: {'begin': 1080, 'end': 1090, 'label': 'LOCATION'} with ground truth: {'begin': 1080, 'end': 1090, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+TP entity: {'begin': 1153, 'end': 1163, 'label': 'LOCATION'} with ground truth: {'begin': 1153, 'end': 1163, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FP entity: {'begin': 1620, 'end': 1637, 'label': 'AGE'} with ground truth: None in file Lawton_fake_interview.json
+TP entity: {'begin': 1933, 'end': 1938, 'label': 'NAME'} with ground truth: {'begin': 1933, 'end': 1938, 'label': 'NAME'} in file Lawton_fake_interview.json
+TP entity: {'begin': 2125, 'end': 2139, 'label': 'CONTACT'} with ground truth: {'begin': 2125, 'end': 2138, 'label': 'CONTACT'} in file Lawton_fake_interview.json
+TP entity: {'begin': 2718, 'end': 2730, 'label': 'NAME'} with ground truth: {'begin': 2718, 'end': 2730, 'label': 'NAME'} in file Lawton_fake_interview.json
+FN entity: {'begin': 338, 'end': 345, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 784, 'end': 788, 'label': 'DATE'} in file Lawton_fake_interview.json
+FN entity: {'begin': 865, 'end': 869, 'label': 'DATE'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1020, 'end': 1043, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1108, 'end': 1118, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1256, 'end': 1274, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1614, 'end': 1619, 'label': 'NAME'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1628, 'end': 1636, 'label': 'NAME'} in file Lawton_fake_interview.json
+FN entity: {'begin': 2240, 'end': 2244, 'label': 'DATE'} in file Lawton_fake_interview.json
+FN entity: {'begin': 2377, 'end': 2405, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 2574, 'end': 2583, 'label': 'ID'} in file Lawton_fake_interview.json
+FN entity: {'begin': 353, 'end': 376, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1334, 'end': 1345, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1399, 'end': 1411, 'label': 'PROFESSION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1434, 'end': 1446, 'label': 'PROFESSION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1600, 'end': 1608, 'label': 'NAME'} in file Lawton_fake_interview.json
+FN entity: {'begin': 1347, 'end': 1351, 'label': 'LOCATION'} in file Lawton_fake_interview.json
+FN entity: {'begin': 2654, 'end': 2668, 'label': 'NAME'} in file Lawton_fake_interview.json
+FN entity: {'begin': 588, 'end': 595, 'label': 'NAME'} in file Lawton_fake_interview.json
+FN entity: {'begin': 616, 'end': 624, 'label': 'NAME'} in file Lawton_fake_interview.json
+FN entity: {'begin': 646, 'end': 651, 'label': 'NAME'} in file Lawton_fake_interview.json
+
+Correct entities: 11 in file Lawton_fake_interview.json
+False positive entities: 4 in file Lawton_fake_interview.json
+Missed entities: 21 in file Lawton_fake_interview.json
+-> F-Score in Lawton_fake_interview.json: 46.808510638297875
+
+----------------- File: Aya_Chebaane_Yesminf1.json --------------------------------------------------------------
+TP entity: {'begin': 197, 'end': 202, 'label': 'LOCATION'} with ground truth: {'begin': 197, 'end': 202, 'label': 'LOCATION'} in file Aya_Chebaane_Yesminf1.json
+TP entity: {'begin': 203, 'end': 210, 'label': 'LOCATION'} with ground truth: {'begin': 203, 'end': 210, 'label': 'LOCATION'} in file Aya_Chebaane_Yesminf1.json
+TP entity: {'begin': 261, 'end': 263, 'label': 'AGE'} with ground truth: {'begin': 261, 'end': 263, 'label': 'AGE'} in file Aya_Chebaane_Yesminf1.json
+TP entity: {'begin': 332, 'end': 344, 'label': 'CONTACT'} with ground truth: {'begin': 332, 'end': 343, 'label': 'CONTACT'} in file Aya_Chebaane_Yesminf1.json
+FP entity: {'begin': 478, 'end': 499, 'label': 'DATE'} with ground truth: None in file Aya_Chebaane_Yesminf1.json
+FP entity: {'begin': 733, 'end': 743, 'label': 'CONTACT'} with ground truth: None in file Aya_Chebaane_Yesminf1.json
+FP entity: {'begin': 957, 'end': 964, 'label': 'CONTACT'} with ground truth: None in file Aya_Chebaane_Yesminf1.json
+FP entity: {'begin': 1142, 'end': 1162, 'label': 'NAME'} with ground truth: None in file Aya_Chebaane_Yesminf1.json
+TP entity: {'begin': 1166, 'end': 1175, 'label': 'LOCATION'} with ground truth: {'begin': 1166, 'end': 1175, 'label': 'LOCATION'} in file Aya_Chebaane_Yesminf1.json
+TP entity: {'begin': 1194, 'end': 1207, 'label': 'CONTACT'} with ground truth: {'begin': 1194, 'end': 1207, 'label': 'CONTACT'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 97, 'end': 110, 'label': 'NAME'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 380, 'end': 407, 'label': 'CONTACT'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 591, 'end': 603, 'label': 'ID'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 733, 'end': 742, 'label': 'ID'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 957, 'end': 963, 'label': 'ID'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 1061, 'end': 1069, 'label': 'ID'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 1142, 'end': 1156, 'label': 'NAME'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 1391, 'end': 1409, 'label': 'CONTACT'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 178, 'end': 196, 'label': 'LOCATION'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 686, 'end': 690, 'label': 'LOCATION'} in file Aya_Chebaane_Yesminf1.json
+FN entity: {'begin': 478, 'end': 487, 'label': 'DATE'} in file Aya_Chebaane_Yesminf1.json
+
+Correct entities: 6 in file Aya_Chebaane_Yesminf1.json
+False positive entities: 4 in file Aya_Chebaane_Yesminf1.json
+Missed entities: 11 in file Aya_Chebaane_Yesminf1.json
+-> F-Score in Aya_Chebaane_Yesminf1.json: 44.44444444444444
+
+----------------- File: Ardian_interview1.json --------------------------------------------------------------
+TP entity: {'begin': 27, 'end': 42, 'label': 'NAME'} with ground truth: {'begin': 27, 'end': 42, 'label': 'NAME'} in file Ardian_interview1.json
+TP entity: {'begin': 194, 'end': 206, 'label': 'NAME'} with ground truth: {'begin': 194, 'end': 206, 'label': 'NAME'} in file Ardian_interview1.json
+TP entity: {'begin': 712, 'end': 730, 'label': 'LOCATION'} with ground truth: {'begin': 712, 'end': 726, 'label': 'LOCATION'} in file Ardian_interview1.json
+TP entity: {'begin': 2730, 'end': 2742, 'label': 'NAME'} with ground truth: {'begin': 2730, 'end': 2741, 'label': 'NAME'} in file Ardian_interview1.json
+FN entity: {'begin': 487, 'end': 498, 'label': 'PROFESSION'} in file Ardian_interview1.json
+FN entity: {'begin': 272, 'end': 308, 'label': 'LOCATION'} in file Ardian_interview1.json
+FN entity: {'begin': 504, 'end': 529, 'label': 'PROFESSION'} in file Ardian_interview1.json
+
+Correct entities: 4 in file Ardian_interview1.json
+False positive entities: 0 in file Ardian_interview1.json
+Missed entities: 3 in file Ardian_interview1.json
+-> F-Score in Ardian_interview1.json: 72.72727272727273
+
+----------------- File: Dewald.json --------------------------------------------------------------
+----------------- File: Kawasaki.json --------------------------------------------------------------
+----------------- File: maria_2_transcript.json --------------------------------------------------------------
+TP entity: {'begin': 27, 'end': 38, 'label': 'NAME'} with ground truth: {'begin': 27, 'end': 38, 'label': 'NAME'} in file maria_2_transcript.json
+TP entity: {'begin': 269, 'end': 287, 'label': 'NAME'} with ground truth: {'begin': 269, 'end': 286, 'label': 'NAME'} in file maria_2_transcript.json
+FP entity: {'begin': 299, 'end': 328, 'label': 'DATE'} with ground truth: None in file maria_2_transcript.json
+TP entity: {'begin': 348, 'end': 367, 'label': 'LOCATION'} with ground truth: {'begin': 348, 'end': 367, 'label': 'LOCATION'} in file maria_2_transcript.json
+TP entity: {'begin': 386, 'end': 393, 'label': 'DATE'} with ground truth: {'begin': 386, 'end': 393, 'label': 'DATE'} in file maria_2_transcript.json
+TP entity: {'begin': 449, 'end': 456, 'label': 'DATE'} with ground truth: {'begin': 449, 'end': 461, 'label': 'DATE'} in file maria_2_transcript.json
+TP entity: {'begin': 3957, 'end': 3968, 'label': 'NAME'} with ground truth: {'begin': 3957, 'end': 3968, 'label': 'NAME'} in file maria_2_transcript.json
+TP entity: {'begin': 4003, 'end': 4020, 'label': 'NAME'} with ground truth: {'begin': 4003, 'end': 4020, 'label': 'NAME'} in file maria_2_transcript.json
+TP entity: {'begin': 4038, 'end': 4049, 'label': 'NAME'} with ground truth: {'begin': 4038, 'end': 4049, 'label': 'NAME'} in file maria_2_transcript.json
+TP entity: {'begin': 4129, 'end': 4140, 'label': 'CONTACT'} with ground truth: {'begin': 4129, 'end': 4139, 'label': 'CONTACT'} in file maria_2_transcript.json
+FN entity: {'begin': 299, 'end': 314, 'label': 'DATE'} in file maria_2_transcript.json
+FN entity: {'begin': 318, 'end': 328, 'label': 'LOCATION'} in file maria_2_transcript.json
+FN entity: {'begin': 2069, 'end': 2073, 'label': 'NAME'} in file maria_2_transcript.json
+FN entity: {'begin': 2143, 'end': 2159, 'label': 'LOCATION'} in file maria_2_transcript.json
+FN entity: {'begin': 2108, 'end': 2134, 'label': 'PROFESSION'} in file maria_2_transcript.json
+FN entity: {'begin': 2339, 'end': 2344, 'label': 'NAME'} in file maria_2_transcript.json
+FN entity: {'begin': 406, 'end': 432, 'label': 'LOCATION'} in file maria_2_transcript.json
+
+Correct entities: 9 in file maria_2_transcript.json
+False positive entities: 1 in file maria_2_transcript.json
+Missed entities: 7 in file maria_2_transcript.json
+-> F-Score in maria_2_transcript.json: 69.23076923076923
+
+----------------- File: Fuss.json --------------------------------------------------------------
+
+
+Final Results
+========================================================================
+F-Score total: 47.95918367346938%

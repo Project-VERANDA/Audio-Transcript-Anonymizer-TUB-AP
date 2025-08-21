@@ -1,0 +1,39 @@
+[
+{
+    "begin": 29,
+    "end": 35,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 50,
+    "end": 61,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 170,
+    "end": 186,
+    "label": "DATE"
+},{
+    "begin": 307,
+    "end": 313,
+    "label": "DATE"
+},{
+    "begin": 357,
+    "end": 359,
+    "label": "AGE"
+},{
+    "begin": 374,
+    "end": 381,
+    "label": "DATE"
+},{
+    "begin": 499,
+    "end": 515,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 873,
+    "end": 891,
+    "label": "LOCATION_ORGANIZATION"
+},{
+    "begin": 1214,
+    "end": 1230,
+    "label": "NAME_PATIENT"
+}
+]

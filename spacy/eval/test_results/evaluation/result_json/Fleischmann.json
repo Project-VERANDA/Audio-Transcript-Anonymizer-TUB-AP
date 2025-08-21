@@ -1,0 +1,43 @@
+[
+{
+    "begin": 0,
+    "end": 15,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 515,
+    "end": 517,
+    "label": "AGE"
+},{
+    "begin": 518,
+    "end": 524,
+    "label": "AGE"
+},{
+    "begin": 583,
+    "end": 601,
+    "label": "LOCATION_HOSPITAL"
+},{
+    "begin": 602,
+    "end": 606,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 721,
+    "end": 727,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 837,
+    "end": 845,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 4789,
+    "end": 4793,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 4824,
+    "end": 4836,
+    "label": "DATE"
+},{
+    "begin": 5773,
+    "end": 5783,
+    "label": "DATE"
+}
+]

@@ -1,0 +1,79 @@
+[
+{
+    "begin": 6,
+    "end": 14,
+    "label": "NAME_TITLE"
+},{
+    "begin": 15,
+    "end": 30,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 43,
+    "end": 48,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 49,
+    "end": 56,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 165,
+    "end": 178,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 188,
+    "end": 198,
+    "label": "DATE"
+},{
+    "begin": 209,
+    "end": 220,
+    "label": "LOCATION_STREET"
+},{
+    "begin": 222,
+    "end": 227,
+    "label": "LOCATION_ZIP"
+},{
+    "begin": 228,
+    "end": 235,
+    "label": "LOCATION_CITY"
+},{
+    "begin": 250,
+    "end": 260,
+    "label": "DATE"
+},{
+    "begin": 265,
+    "end": 275,
+    "label": "DATE"
+},{
+    "begin": 428,
+    "end": 435,
+    "label": "DATE"
+},{
+    "begin": 778,
+    "end": 785,
+    "label": "DATE"
+},{
+    "begin": 793,
+    "end": 798,
+    "label": "NAME_PATIENT"
+},{
+    "begin": 2223,
+    "end": 2233,
+    "label": "DATE"
+},{
+    "begin": 2638,
+    "end": 2648,
+    "label": "DATE"
+},{
+    "begin": 2996,
+    "end": 3012,
+    "label": "NAME_TITLE"
+},{
+    "begin": 3013,
+    "end": 3027,
+    "label": "NAME_DOCTOR"
+},{
+    "begin": 3045,
+    "end": 3058,
+    "label": "NAME_PATIENT"
+}
+]
