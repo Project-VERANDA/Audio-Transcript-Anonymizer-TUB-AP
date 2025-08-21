@@ -1,0 +1,16 @@
+T1	NAME_PATIENT 26 41	Evelyn Dewald *
+T2	DATE 42 52	13.08.1948
+T3	DATE 54 70	-05-27 Diagnosen
+T4	DATE 186 197	Primärtumor
+T5	DATE 279 290	tumorfreier
+T6	DATE 339 352	2019 Therapie
+T7	DATE 390 404	Fernmetastasen
+T8	DATE 494 507	2020 6 Zyklen
+T9	DATE 560 568	2020; PD
+T10	DATE 572 583	2020 (Lunge
+T11	DATE 619 636	Zyklen Ipilimumab
+T12	DATE 1108 1124	Therapieambulanz
+T13	NAME_DOCTOR 1160 1179	und anschl. weitere
+T14	NAME_PATIENT 1293 1313	massiven Durchfällen
+T15	DATE 1357 1368	15x täglich
+T16	DATE 1576 1597	Ipilimumab (4. Zyklus

@@ -1,0 +1,36 @@
+T1	LOCATION_HOSPITAL 0 33	Universitätsklinikum Wilhelmsburg
+T2	NAME_DOCTOR 97 139	Prof. Dr. Mike Messer Universitätsklinikum
+T3	LOCATION_CITY 161 182	Wilhelmsburg  Kinder-
+T4	NAME_DOCTOR 238 272	Dr. Waldemar Waldenström, Institut
+T5	NAME_PATIENT 428 445	, geb. 28.05.2028
+T6	DATE 447 455	wohnhaft
+T7	LOCATION_CITY 469 501	Wilhelmsburg, die vom 20.05.2034
+T8	DATE 502 516	bis 27.05.2034
+T9	DATE 517 527	bei uns in
+T10	DATE 690 706	MR-Angiographie:
+T11	DATE 1274 1293	Schaumsklerosierung
+T12	DATE 1348 1364	: Keine weiteren
+T13	NAME_PATIENT 1454 1470	Klinik bekannter
+T14	NAME_PATIENT 2083 2091	Jahr gut
+T15	NAME_PATIENT 2775 2788	Tonsillotomie
+T16	NAME_PATIENT 3035 3045	Mutter ca.
+T17	NAME_PATIENT 3183 3201	erhöhte Temperatur
+T18	DATE 4438 4456	Kreatinin 0.45 mg/
+T19	DATE 4470 4480	, CRP 26.5
+T20	DATE 4489 4506	35.7 sec. Kleines
+T21	DATE 4623 4643	4.39 /pl, Hämoglobin
+T22	DATE 4761 4779	Kreatinin 0.45 mg/
+T23	DATE 4938 4958	4.15 /pl, Hämoglobin
+T24	DATE 5078 5107	Beinvenenthrombose, arteriell
+T25	DATE 5267 5285	Untersuchung keine
+T26	DATE 5893 5914	Orthopädisches Konsil
+T27	DATE 5978 5989	in 2 Ebenen
+T28	DATE 6109 6121	Kein Hinweis
+T29	DATE 7119 7139	Relativ gleichmäßige
+T30	DATE 7447 7462	linken Großzehe
+T31	NAME_PATIENT 7816 7828	aufgenommen.
+T32	NAME_PATIENT 8807 8815	Infektes
+T33	DATE 9559 9569	entlassen.
+T34	NAME_PATIENT 9574 9585	Rücksprache
+T35	DATE 9586 9596	stehen wir
+T36	NAME_DOCTOR 9773 9797	Klinik Alma Hecht FÄ für
