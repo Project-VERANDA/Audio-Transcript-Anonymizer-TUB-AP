@@ -1,0 +1,8 @@
+# Ignore large model artifacts
+bert_anonymizer/bert_model/*.safetensors
+bert_anonymizer/bert_model/*.bin
+spacy_anonymizer/model/**/vocab/vectors
+uploads/
+**/*.mp3
+**/__pycache__/
+*.DS_Store
